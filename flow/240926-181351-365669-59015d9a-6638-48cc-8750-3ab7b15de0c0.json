@@ -1,0 +1,36 @@
+{
+ "request": {
+  "url": "https://assets.codehub.cn/micro-frontend/operation/production/manifest.json?time=1727345630806",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "application/json, text/plain, */*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "origin": "https://taimuer.coding.net",
+   "referer": "https://taimuer.coding.net/",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-type": "application/json",
+   "date": "Thu, 26 Sep 2024 10:13:50 GMT",
+   "etag": "\"be18ce01577068566ad1c62431eabeb6\"",
+   "server": "tencent-cos",
+   "x-cos-hash-crc64ecma": "5276410545210522653",
+   "x-cos-request-id": "NjZmNTMzZGVfMjhhNTEyMDlfZDUzM18xMDBjOWZi",
+   "x-cache-lookup": "Cache Miss, Hit From Upstream Cluster, Hit From Inner Cluster, Cache Miss",
+   "last-modified": "Fri, 05 Jul 2024 03:08:38 GMT",
+   "accept-ranges": "bytes",
+   "content-encoding": "gzip",
+   "x-nws-log-uuid": "476589367797790419",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "GET"
+  }
+ }
+}

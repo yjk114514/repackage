@@ -1,0 +1,40 @@
+{
+ "request": {
+  "url": "https://api.accounts.firefox.com/v1/oauth/destroy",
+  "method": "POST",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "application/json;q=0.9,*/*;q=0.2",
+   "accept-language": "zh-CN, zh, zh-TW, zh-HK, en-US, en",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "content-type": "application/json; charset=utf-8",
+   "content-length": "900",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "none",
+   "priority": "u=4",
+   "pragma": "no-cache",
+   "cache-control": "no-cache",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "server": "nginx",
+   "date": "Fri, 27 Sep 2024 05:18:07 GMT",
+   "content-type": "application/json; charset=utf-8",
+   "content-length": "2",
+   "timestamp": "1727414287",
+   "vary": "origin",
+   "strict-transport-security": "max-age=31536000; includeSubDomains",
+   "x-frame-options": "DENY",
+   "x-xss-protection": "1; mode=block",
+   "x-download-options": "noopen",
+   "x-content-type-options": "nosniff",
+   "cache-control": "no-cache",
+   "via": "1.1 google",
+   "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+  }
+ }
+}

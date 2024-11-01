@@ -1,0 +1,41 @@
+{
+ "request": {
+  "url": "https://api.accounts.firefox.com/v1/oauth/token",
+  "method": "POST",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "application/json;q=0.9,*/*;q=0.2",
+   "accept-language": "zh-CN, zh, zh-TW, zh-HK, en-US, en",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "authorization": "Hawk id=\"03d03a1315b94a4ca17a850e67341d726c475020816752257b4e803c99794252\", ts=\"1727414288\", nonce=\"AcUGmcat+hg=\", hash=\"AbgVCOfndrWS8J0g4wEqBDsmJzezGp8eg1FwLSaoYt0=\", mac=\"GFxA5nN8cznbOkv8NRWwuix6Ji6FiLNLjPRjCm+VteI=\"",
+   "content-type": "application/json; charset=utf-8",
+   "content-length": "81",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "none",
+   "priority": "u=4",
+   "pragma": "no-cache",
+   "cache-control": "no-cache",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "server": "nginx",
+   "date": "Fri, 27 Sep 2024 05:18:07 GMT",
+   "content-type": "application/json; charset=utf-8",
+   "content-length": "956",
+   "timestamp": "1727414287",
+   "vary": "origin",
+   "strict-transport-security": "max-age=31536000; includeSubDomains",
+   "x-frame-options": "DENY",
+   "x-xss-protection": "1; mode=block",
+   "x-download-options": "noopen",
+   "x-content-type-options": "nosniff",
+   "cache-control": "no-cache",
+   "via": "1.1 google",
+   "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+  }
+ }
+}

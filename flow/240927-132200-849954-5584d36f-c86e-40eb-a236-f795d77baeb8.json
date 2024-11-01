@@ -1,0 +1,29 @@
+{
+ "request": {
+  "url": "https://ecs.office.com/config/v1/ODSP_Sync_Client/24.171.0825.0002?UpdateRing=Prod&accountType=StandaloneUpdater&clientid=5c4f7397-9ae8-b69d-ceda-44648b5433b8",
+  "method": "GET",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "User-Agent": "OneDrive-24.171.0825.0002",
+   "Host": "ecs.office.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Cache-Control": "no-cache,max-age=43200",
+   "Content-Length": "355",
+   "Content-Type": "application/json",
+   "Expires": "Fri, 27 Sep 2024 17:21:58 GMT",
+   "ETag": "\"j0yt9x7ArHXTyAJbhQ38+KjOUe6BuVHds+II+DqydRc=\"",
+   "X-Content-Type-Options": "nosniff",
+   "X-Frame-Options": "DENY",
+   "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+   "Report-To": "{\"group\":\"NelEcsUpload1\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ecs.nel.measure.office.net?TenantId=ODSP_Sync_Client&DestinationEndpoint=Edge-Prod-SIN22r8a&FrontEnd=AFD\"}],\"include_subdomains\":true}",
+   "NEL": "{\"report_to\":\"NelEcsUpload1\",\"max_age\":604800,\"include_subdomains\":true,\"failure_fraction\":1.0,\"success_fraction\":0.01}",
+   "X-Cache": "CONFIG_NOCACHE",
+   "X-MSEdge-Ref": "Ref A: 2F686B9C6A7742E5B0BE24F9C542FAA4 Ref B: SIN221080715037 Ref C: 2024-09-27T05:21:58Z",
+   "Date": "Fri, 27 Sep 2024 05:21:57 GMT"
+  }
+ }
+}

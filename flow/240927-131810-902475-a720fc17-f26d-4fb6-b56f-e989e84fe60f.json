@@ -1,0 +1,40 @@
+{
+ "request": {
+  "url": "https://profile.accounts.firefox.com/v1/profile",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "application/json",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "authorization": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiNTg4MjM4NmM2ZDgwMTc3NiIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE3Mjc1MDA2ODcsImlhdCI6MTcyNzQxNDI4NywianRpIjoiZTU2NjliYjkyMDFjMTcwMzgyMDk3N2E1MmIwMjA0ZjM1M2E0ZTdjN2NmM2ZiNTQzNGE0ZGU4ZjgxMGI2NmUxYyIsInNjb3BlIjoicHJvZmlsZSIsInN1YiI6ImFjMjNhZTI2YTdiNjRiZjViODE0NGYxYmZhZGUyYTY0IiwiZnhhLWdlbmVyYXRpb24iOjE3MjEzMDM3Nzc1NTksImZ4YS1wcm9maWxlQ2hhbmdlZEF0IjoxNzIxMzAzNzc3NTU5fQ.IRlvvWzx5PdgKoEgI58gbzEYmi1u8cKRJ5RetVyGq6xCPFBtWp3w92a_KEFzzF1MIg3AkEmDKyArpt8jHWJ8Tq6l3KwTAes6X4RTiI3znFkiRZbYsVhMvoa62kqK7mRV-zVjYO_hhZMUE7gJUWHxjD3uqo-_pIoSr0-vk_2nODyvZIW_C0uZwm_0W2z8ShuKdt9VaGiAbL4sXiFrYecBeY6MlEsN6N3LYN0PbDkHYnPQc1Ots5Q9ZMsSfRwJ-z8QSCNJeW0i8Bdmh0BJfXPxnb9sq-FeoxnpVbpGMRfxhXeSnH4pyRoUY83Fs_qXKmgOLCVAOkrxZyIfuzhEWHF-dA",
+   "if-none-match": "\"9d3623c7769684666330f423faea94ebf9850ed0\"",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "none",
+   "priority": "u=4",
+   "pragma": "no-cache",
+   "cache-control": "no-cache",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "server": "nginx",
+   "date": "Fri, 27 Sep 2024 05:18:08 GMT",
+   "content-type": "application/json; charset=utf-8",
+   "etag": "\"9d3623c7769684666330f423faea94ebf9850ed0-gzip\"",
+   "last-modified": "Fri, 27 Sep 2024 05:18:08 GMT",
+   "vary": "origin,accept-encoding",
+   "access-control-expose-headers": "WWW-Authenticate,Server-Authorization,Timestamp,Accept-Language",
+   "strict-transport-security": "max-age=31536000; includeSubDomains",
+   "x-frame-options": "DENY",
+   "x-xss-protection": "1; mode=block",
+   "x-content-type-options": "nosniff",
+   "cache-control": "private, no-cache, no-store, must-revalidate",
+   "via": "1.1 google",
+   "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "request": {
+  "url": "https://support.weixin.qq.com/cgi-bin/mmsupportmeshnodelogicsvr-bin/cube?biz=3512&label=connect.qrconnect&action=connect_qrconnect_checkLogin_fail&msg=wxa2e126f91fa47914&idx1=snsapi_login",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://open.weixin.qq.com/",
+   "sec-fetch-dest": "image",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "same-site",
+   "priority": "u=5, i",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "x-frame-options": "SAMEORIGIN",
+   "strict-transport-security": "max-age=15552000; includeSubDomains",
+   "vary": "Origin, Accept-Encoding",
+   "access-control-allow-credentials": "true",
+   "content-type": "application/json; charset=utf-8",
+   "content-length": "43",
+   "date": "Thu, 26 Sep 2024 10:13:39 GMT"
+  }
+ }
+}

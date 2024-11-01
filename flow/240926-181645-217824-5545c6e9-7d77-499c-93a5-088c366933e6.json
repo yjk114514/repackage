@@ -1,0 +1,34 @@
+{
+ "request": {
+  "url": "https://activity.windows.com/v3/feeds/me/$batch",
+  "method": "POST",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "Date": "Thu, 26 Sep 2024 10:16:44 GMT",
+   "Content-Type": "multipart/mixed; boundary=\"Batch_1727345804\"",
+   "Accept-Encoding": "gzip, deflate",
+   "Authorization": "EwBIA3l+BAAUvDBLmTCD21dGgKWS1TSPVrFoWQcAAWMThWpPBs+ql6Yj6M9tXT2D9jKyryUlskUDnuiIKDzNzDa1jvoXT4L4/c4NYofN/uxMmebKV3Yhuov7GjSzHjVcCZHyRiyIO9PtWZMPEBtUxqaWuDLeyXKEK0o9T6QMiwOczFEibZoj+gh06yTulr8bpxCBC+Lv+uOvVZgo7LlPb1kylRMDQovm4bNivfqB4Wexiki3MPWEgWW/4WZkwH2+4GW/+PqWOg+OwFgPHkw2ayEnmJB9zOsoxrioAwWIJMb6FbTkbFrfjdqgm+RfgN5nKHtv6gd3pMShd+0vg8MLig9COeB28VZk+d3vDTg7bQ9G4TClx0I50Ccs8aCNXI0QZgAAEESvFP/XURV5yblDw9W6AaIQAp+63w6pNShd7lSshL0MiiQ2zKak7iYlkTYSaiilpHMEtIoZpo97MM/Wctp+N5tiuye8znj6eCTgmhAMPbuao+Z52kLuoSpLf1QsMY20fctrHZX3co/ubYJzOR6TpFErjq5ey/+Qkp1CSxRPFYZ8YIAul0HFRp+/+NBtKeCP+5qt9q66o0rjYZaEl9d2SlmVAKiLKiP4gFGOZqu+Rzq74YePShDturwmRrq8NPYx9gO5sz5EncpjfiiCw/HHYDFgIZ8N0yVYgoU/q6jeGZVHr1VDXOMqvHHcVBE5Ar/HlJCDf9qSmxmZ7dVLUJXVMe8afYqGugSvkQzIxL10XK2Tm5kInAdRixT2QRy7gBYrIH425zseP+rt/2xDun039i74SBA4zshDL5HI9cCMAp8nKAkgVW+RYaZcmy5qMtvbuexsm5jbYhQv10TDH7b6lfLWhvGJSzDI1+aq1UmmOMkF0RCUdSTXOdV4vEN1WExw4BUNn1iTXyy7Hoi1RvHHS4++dOGebbIXYRh22e819FqfPdNSrZufy6benqXln9uxgu1YIXOu1wbqzb5iKqLMhy8zzl1c2ut5GYK90jYZ0Sv0QHVR8oUFG4BORAMA0nvzfMnqAev1ezvBn5QqCqi8Kfc3+RwIcUUzQjNbMqyp6vAt3y6lfwmzqxieKWaxl5o0BpiCjm9IVJnuuzMeTEl/g3jcAkIC",
+   "User-Agent": "SGPlatform 2.0",
+   "OData-MaxVersion": "4.0",
+   "OData-Version": "4.0",
+   "X-AFS-ClientInfo": "os=windows; osVer=10.0.22631.4169; lcid=zh-CN; deviceType=15; deviceModel=LENOVO/21KK;",
+   "X-AFS-CV": "JVHEsik/Yr/rnFPk.0",
+   "Content-Length": "7489",
+   "Host": "activity.windows.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Content-Length": "5811",
+   "Content-Type": "multipart/mixed; boundary=batchresponse_af745778-b5c1-4646-9408-fd5fca2a7d87",
+   "X-AFS-BaseEtag": "13814000-1dd2-11b2-9117-01020305070d",
+   "X-AFS-NewETag": "6e00d310-7bf0-11ef-9117-01020305070d",
+   "X-AFS-Tracking": "cV=JVHEsik/Yr/rnFPk.0.0;server=MW1PEPF00010D60",
+   "client-request-id": "28759e2b-06f8-4c97-8ee3-e531e382fa18",
+   "X-Content-Type-Options": "nosniff",
+   "OData-Version": "4.0",
+   "Date": "Thu, 26 Sep 2024 10:16:43 GMT"
+  }
+ }
+}

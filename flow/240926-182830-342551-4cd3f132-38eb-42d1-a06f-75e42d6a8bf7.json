@@ -1,0 +1,44 @@
+{
+ "request": {
+  "url": "https://mmbiz.qpic.cn/mmbiz_jpg/4wGaYhQrOv0XLnQqJADTw5vSbZADkWvvROlwZXh7sgibnh1McMa3ib6IObSwia7pxmXCyY2iaibXSJcyubSc36ZcibYg/0?wx_fmt=jpeg",
+  "method": "GET",
+  "headers": {
+   "accept": "*/*",
+   "accept-encoding": "gzip, deflate, br",
+   "accept-language": "zh-CN",
+   "origin": "app://.",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) QQ/9.9.12-25765 Chrome/126.0.6478.36 Electron/31.0.1 Safari/537.36 OS/win32,x64,10.0.22631,Windows 11 Home China",
+   "referer": "",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Wed, 25 Sep 2024 13:47:07 GMT",
+   "server": "NWSs",
+   "date": "Wed, 25 Sep 2024 15:12:18 GMT",
+   "content-type": "image/jpeg",
+   "x-delay": "12227 us",
+   "x-info": "real data",
+   "x-bcheck": "0_1",
+   "x-cpt": "filename=0",
+   "user-returncode": "0",
+   "x-datasrc": "1",
+   "x-reqgue": "0",
+   "size": "54001",
+   "chid": "0",
+   "fid": "0",
+   "cache-control": "max-age=2500000",
+   "age": "69371",
+   "content-length": "54001",
+   "accept-ranges": "bytes",
+   "x-nws-log-uuid": "910905473948138373",
+   "x-cache-lookup": "Cache Hit",
+   "vary": "Origin,Accept"
+  }
+ }
+}

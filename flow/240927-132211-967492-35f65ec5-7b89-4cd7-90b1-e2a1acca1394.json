@@ -1,0 +1,26 @@
+{
+ "request": {
+  "url": "https://g.live.com/odclientsettings/ProdV2?OneDriveUpdate=1b6c3fd142f6b7267b30cb8064b0",
+  "method": "GET",
+  "headers": {
+   "accept": "*/*",
+   "accept-encoding": "identity",
+   "if-unmodified-since": "Thu, 26 Sep 2024 22:45:18 GMT",
+   "user-agent": "Microsoft BITS/7.8",
+   "cookie": "MR=0; MUID=2E47A463A9286E783005B167AD286ACC"
+  }
+ },
+ "response": {
+  "status_code": 302,
+  "headers": {
+   "cache-control": "no-cache, must-revalidate",
+   "pragma": "no-cache",
+   "expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+   "location": "https://oneclient.sfx.ms/PreSignInSettings/Prod/2024-09-26-22-45-18/PreSignInSettingsConfig.json?OneDriveUpdate=1b6c3fd142f6b7267b30cb8064b0",
+   "server": "Microsoft-IIS/10.0",
+   "access-control-allow-origin": "*",
+   "date": "Fri, 27 Sep 2024 05:22:08 GMT",
+   "content-length": "0"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "request": {
+  "url": "https://assets.msn.cn/bundles/v1/winWidgets/latest/libs_prong-shared-utils_dist_SyncMUIDHelper_js-libs_super-feed_dist_feed-manager_FeedManagerF-09a837.8d2b602adc8da3e4a6d3.js",
+  "method": "GET",
+  "headers": {
+   "origin": "https://windows.msn.cn",
+   "sec-ch-ua-platform": "\"Windows\"",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\", \"Microsoft Edge WebView2\";v=\"129\"",
+   "sec-ch-ua-mobile": "?0",
+   "accept": "*/*",
+   "sec-ms-gec": "5D737B6630217117736FED9B3D4F51938C95AA51FE2652F98F54849B5761EF04",
+   "sec-ms-gec-version": "1-129.0.2792.52",
+   "sec-fetch-site": "same-site",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-dest": "script",
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-length": "36963",
+   "content-md5": "issmpfqDmOmG+DrdVRZ4cQ==",
+   "last-modified": "Thu, 26 Sep 2024 16:30:49 GMT",
+   "etag": "0x8DCDE4894D7E813",
+   "server": "Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0",
+   "x-ms-request-id": "3903efaa-c01e-0106-1331-1076cf000000",
+   "x-ms-version": "2009-09-19",
+   "x-ms-lease-status": "unlocked",
+   "x-ms-blob-type": "BlockBlob",
+   "content-encoding": "br",
+   "date": "Fri, 27 Sep 2024 05:17:23 GMT",
+   "alt-svc": "h3=\":443\"; ma=93600",
+   "akamai-request-bc": "[a=222.138.6.157,b=40841055,c=g,n=CN_HA_ZHUMADIAN,o=4837]",
+   "server-timing": "clientrtt; dur=53, clienttt; dur=0, origin; dur=0, cdntime; dur=0, wpo;dur=0,1s;dur=0",
+   "akamai-cache-status": "Hit from child",
+   "content-type": "application/javascript",
+   "akamai-server-ip": "222.138.6.157",
+   "akamai-request-id": "26f2f5f",
+   "access-control-allow-credentials": "true",
+   "access-control-allow-origin": "https://windows.msn.cn",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}",
+   "cache-control": "public, no-transform, max-age=31535892",
+   "timing-allow-origin": "*",
+   "akamai-grn": "0.9d068ade.1727414243.26f2f5f",
+   "vary": "Origin"
+  }
+ }
+}

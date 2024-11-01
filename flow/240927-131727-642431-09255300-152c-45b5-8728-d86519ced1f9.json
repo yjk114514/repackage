@@ -1,0 +1,63 @@
+{
+ "request": {
+  "url": "https://assets.msn.cn/service/Finance/Charts?apikey=AEbyVYqTQAPvg4lWwMSFHaLkDzl3weRKKIDDInLQUj&activityId=0E992B61-6D61-4300-9B10-DC48FA2F6D64&ocid=winp2&cm=zh-cn&it=app&scn=APP_ANON&ids=adfh77,adg1m7,adg21h,avym77,ah7etc,adfutc,aopzxm,bkmu1h,adfqnm&type=1D1M&wrapodata=false&chartflag=7",
+  "method": "GET",
+  "headers": {
+   "muid": "2458D68FE4F26CDA37C1C24BE5DC6D6B",
+   "sec-ch-ua-platform": "\"Windows\"",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\", \"Microsoft Edge WebView2\";v=\"129\"",
+   "userauthtoken": "t=EwBIA6AEAAAU+FEkrYVKODxcga16pzW/y5vRf68AARWQXv3UQu5f9JeqwjhZIhUvi3LTVjVJtvsLXfESSTOMFf/GgdoKLizIQ09nS3t4etCO3wmpTgDG8Zj21IVAUZp4gwsolBCVgR6z4DnBQhmsghuqVY51iVVT7Q937iodW16oSf0P6RWJLAEFXMo/OxxYdy7uyzvf0iU4xPq7ecffitrqJHwhMQrl4NoLo4V3cZFVdDiOq46dAJ44MUpWzzKcmfwmsnVnII14DX4WQdi25vpqUiuhkgOJatxpBtPdty0Kp9ubMivAFvo7cd2sjbK3CfObAPIx95VX0iNpH35gm+iJXooti/36YMzRXt0xv7Di0CfhsEirhX3lRhGaCp0QZgAAEHLsJMAjHX7uptrl+eNf9O8QAj/w5KRYg9U9v6NqdTV98V2go6FPjS0tpMFYdwq26TcCaJgljFcmth5QtRKjqWv047GvDoCHX08EYc4pWMlki16YYxPXO1Ricwhk79RaTuJuzkRvdcKT9Um8zwqPz8i5cpsoQPFvdcj3HnHYtSIpGzU6ivGv69JMYx3Tw75Ds+y1E5kbflFDnGwspIHnEJ/29BD/K0dLylChmT8WU64N3IRhUvssvs7hPljrM1dvqjQawM34LwtG4ckSdBizBmbtcTzpmrBkbNd6RGQtZaFX+n+mqXfwEXNHfjhpDeUxku/HNPaa6LZzSR/bQQ1ZyO4QPwFUmGV6l0lMfqjlM6/aiuera+GO2ZhMa23k4FdBQuiv5B9Aljxw5a8GOrV0QeUyUipj2Pvp+IyNbdEfqjk/gw1FWipvXQD4FyWe9DPVedtSQXPXMiP8Jf/fecmBMmGay0IWNwvqeJ3soOgcduH1x/TPHFMT8Ux/VtvwHcmjSf0DtQsB2iddxzcSv4UgKErnHNhndkEtBe2uMBGJCOoyccG6Llq3c9QyaMivRDTf6FejLNRu0RugJAw+SapPFcsF0hqbsPlUQ2ORjA3xDPHaMWCKI9dzIk1bhTh3ybeRG3Lq4f+a3bdYTGxUbAZMQQyT8QfqzxEF315CZyn96umWiIXS3ZFEOcEKftVzPrmCPC2xDt0s7+SKfpE3XsfsnNjGd0MC&p=",
+   "sec-ch-ua-mobile": "?0",
+   "accept": "*/*",
+   "origin": "https://windows.msn.cn",
+   "sec-ms-gec": "5D737B6630217117736FED9B3D4F51938C95AA51FE2652F98F54849B5761EF04",
+   "sec-ms-gec-version": "1-129.0.2792.52",
+   "sec-fetch-site": "same-site",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-dest": "empty",
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-type": "application/json; charset=utf-8",
+   "content-encoding": "gzip",
+   "access-control-allow-headers": "TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,OneSvc-Uni-Feat-Tun,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,s-xbox-token,OneWebServiceLatency,X-FD-Features,DDD-UserType,traceparent,Widgets,Muted,Velocity,DDD-Auth-Features,SoftLanding,PrefMigrated",
+   "access-control-expose-headers": "TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,OneSvc-Uni-Feat-Tun,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,s-xbox-token,OneWebServiceLatency,X-FD-Features,DDD-UserType,traceparent,Widgets,Muted,Velocity,DDD-Auth-Features,SoftLanding,PrefMigrated",
+   "ddd-authenticatedwithjwtflow": "False",
+   "ddd-usertype": "AnonymousMuid",
+   "ddd-activityid": "66f63fb7-3fd6-4a30-8201-601bd4b5b4af",
+   "ddd-strategyexecutionlatency": "00:00:00.0204230",
+   "ddd-debugid": "66f63fb7-3fd6-4a30-8201-601bd4b5b4af|2024-09-27T05:16:39.0822787Z|fabric_finance|KOC-A|Partner_22",
+   "ddd-auth-features": "MuidStateOrigin:MuidFromHeader",
+   "onewebservicelatency": "22",
+   "x-msedge-responseinfo": "22",
+   "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+   "x-ceto-ref": "66f63fb73fd64a308201601bd4b5b4af|AFD:66f63fb73fd64a308201601bd4b5b4af|2024-09-27T05:16:39.055Z",
+   "x-msedge-ref": "Ref A: EE59FE6871B84BE8B2C4A6CE6E01B738 Ref B: OSA30EDGE0413 Ref C: 2024-09-27T05:16:39Z",
+   "content-length": "7793",
+   "date": "Fri, 27 Sep 2024 05:17:25 GMT",
+   "alt-svc": "h3=\":443\"; ma=93600",
+   "akamai-request-bc": "[a=222.138.6.157,b=40842118,c=g,n=CN_HA_ZHUMADIAN,o=4837]",
+   "server-timing": "clientrtt; dur=64, clienttt; dur=0, origin; dur=0, cdntime; dur=0, wpo;dur=0,1s;dur=0",
+   "akamai-cache-status": "Hit from child",
+   "akamai-server-ip": "222.138.6.157",
+   "akamai-request-id": "26f3386",
+   "access-control-allow-methods": "PUT,PATCH,POST,GET,OPTIONS,DELETE",
+   "access-control-allow-credentials": "true",
+   "access-control-allow-origin": "https://windows.msn.cn",
+   "x-as-suppresssetcookie": "1",
+   "cache-control": "public, max-age=60",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}",
+   "timing-allow-origin": "*",
+   "akamai-grn": "0.9d068ade.1727414245.26f3386",
+   "vary": "Origin"
+  }
+ }
+}

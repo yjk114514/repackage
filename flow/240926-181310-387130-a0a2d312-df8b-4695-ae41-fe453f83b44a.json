@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://edge.microsoft.com/extensionrevocation/v1/threatListUpdates:fetch?req=ChcKBm1zZWRnZRINMTI5LjAuMjc5Mi41MhobCAEQCBoNMTcyNzI1OTIyNTMxMSIEIAEgAigEIgIIAQ==&ct=application/x-protobuf&key=d414dd4f9db345fa8003e32adc81b362",
+  "method": "GET",
+  "headers": {
+   "x-http-method-override": "POST",
+   "sec-mesh-client-edge-version": "129.0.2792.52",
+   "sec-mesh-client-edge-channel": "stable",
+   "sec-mesh-client-os": "Windows",
+   "sec-mesh-client-os-version": "10.0.22631",
+   "sec-mesh-client-arch": "x86_64",
+   "sec-mesh-client-webview": "0",
+   "sec-fetch-site": "none",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-dest": "empty",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "priority": "u=4, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "cache-control": "public, max-age=900",
+   "content-type": "application/x-protobuf",
+   "content-encoding": "gzip",
+   "vary": "Accept-Encoding",
+   "x-cache": "TCP_HIT",
+   "x-msedge-ref": "Ref A: 4D09F17490BD4EA496A1F2F1C964CADB Ref B: SIN30EDGE0811 Ref C: 2024-09-26T10:13:09Z",
+   "date": "Thu, 26 Sep 2024 10:13:08 GMT"
+  }
+ }
+}

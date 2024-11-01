@@ -1,0 +1,54 @@
+{
+ "request": {
+  "url": "https://www.msn.cn/pcs/api/widget/winWidgets/winwidgetshp?locale=zh-CN&region=CN",
+  "method": "GET",
+  "headers": {
+   "sec-ch-ua-platform": "\"Windows\"",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\", \"Microsoft Edge WebView2\";v=\"129\"",
+   "sec-ch-ua-mobile": "?0",
+   "accept": "*/*",
+   "origin": "https://windows.msn.cn",
+   "sec-ms-gec": "5D737B6630217117736FED9B3D4F51938C95AA51FE2652F98F54849B5761EF04",
+   "sec-ms-gec-version": "1-129.0.2792.52",
+   "sec-fetch-site": "same-site",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-dest": "empty",
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+   "cookie": "_C_Auth=, USRLOC=, MUIDB=3712707DE9D56B56377E64B9E8966A68, APP_ANON=A=A1C4F5995731DFDF615FB1BDFFFFFFFF, aace=%7b%22child%22%3a0%7d, els=%7b%22account_type%22%3a%22MSA%22%7d, MUID=2458D68FE4F26CDA37C1C24BE5DC6D6B, _EDGE_S=SID=287D09C39DCE673A05841CC69C346683, _clck=1euvwin%7C2%7Cfph%7C0%7C1665",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "cache-control": "no-store, no-cache",
+   "pragma": "no-cache",
+   "content-length": "4742",
+   "content-type": "application/json",
+   "vary": "Origin",
+   "set-cookie": "_C_ETH=1; domain=.msn.cn; path=/; secure; httponly, _C_Auth=",
+   "access-control-allow-credentials": "true",
+   "access-control-allow-methods": "HEAD,GET,OPTIONS",
+   "access-control-allow-origin": "https://windows.msn.cn",
+   "x-ceto-origin-forwardonerror": "https://staticview.msn.com",
+   "content-security-policy": "child-src 'self';connect-src 'self' arc.msn.com assets.msn.com assets2.msn.com assets.msn.cn assets2.msn.cn browser.events.data.msn.com browser.events.data.msn.cn browser.events.data.microsoftstart.com browser.events.data.microsoftstart.cn business.bing.com/api/ cn.bing.com/api/v6/Places/AutoSuggest cn.bing.com/api/v6/geoentities events-sandbox.data.msn.com events-sandbox.data.msn.cn events-sandbox.data.microsoftstart.com events-sandbox.data.microsoftstart.cn finance-services.msn.com https://bingretailmsndata.azureedge.net/msndata/ https://dev.virtualearth.net/REST/v1/Imagery/ https://ecn.dev.virtualearth.net https://petrol.office.microsoft.com/v1/feedback https://services.bingapis.com https://trafficanswer.trafficmanager.net/ https://web.vortex.data.microsoft.com/collect/ img-s-msn-com.akamaized.net login.microsoftonline.com notification.services.msn.com ris.api.iris.microsoft.com srtb.msn.com srtb.msn.cn usgov.business.bing.com/api/ www.bing.com/AS/Suggestions www.bing.com/AS/Suggestions/v2 www.bing.com/HPImageArchive.aspx www.bing.com/api/v1/mediation/tracking www.bing.com/api/v1/mediation/trends www.bing.com/api/v6/Places/AutoSuggest www.bing.com/api/v6/geoentities www.bing.com/as/ www.bing.com/historyHandler www.bing.com/profile/history/data www.bing.com/retail/msn/api/shopcard www.bing.com/retailexp/msn/api/ www.bing.com/retailexpdata/msndata/ www.bing.com/th www.bing.com/api/v1/mediation/prongclient www.msn.com www.microsoftstart.com *.oneservice.msn.com *.oneservice.msn.cn api.msn.com api.msn.cn ent-api.msn.com ent-api.msn.cn ppe-api.msn.com ppe-api.msn.cn wus-streaming-video-msn-com.akamaized.net prod-streaming-video-msn-com.akamaized.net prod-streaming-video.msn.cn prod-video-cms-amp-microsoft-com.akamaized.net msn-api.go2yd.com graph.microsoft.com/v1.0/ https://t.ssl.ak.dynamic.tiles.virtualearth.net/comp/ch/ https://dynamic.t0.tiles.ditu.live.com/comp/ch/ https://cxcs.microsoft.net/api/tips-content/;default-src 'none';font-src 'self' data: assets.msn.com assets2.msn.com assets.msn.cn assets2.msn.cn;frame-src 'self' login.live.com login.microsoftonline.com;img-src https://* blob: chrome-search://local-ntp/ chrome-search://ntpicon/ data:;media-src 'self' blob: assets.msn.com assets2.msn.com assets.msn.cn assets2.msn.cn wus-streaming-video-msn-com.akamaized.net prod-streaming-video-msn-com.akamaized.net prod-streaming-video.msn.cn prod-video-cms-amp-microsoft-com.akamaized.net video.yidianzixun.com;report-to csp-endpoint;style-src 'self' 'unsafe-inline' assets.msn.com assets2.msn.com assets.msn.cn assets2.msn.cn c.s-microsoft.com/mscc/;worker-src 'self' blob: 'report-sample';script-src 'self' 'report-sample' assets.msn.cn assets2.msn.cn assets.msn.com assets2.msn.com c.s-microsoft.com/mscc/ https://clarity.microsoft.com/js/879b55d3-7b96-457b-af7c-03a114c2ae20 https://mem.gfx.ms/meversion https://mem.gfx.ms/scripts/me/MeControl/ platform.bing.com/geo/AutoSuggest/v1 www.bing.com/as/ www.bing.com/s/as/ 'nonce-sAjsdk87efMmn7E9znYtRWW83aGBArcvOxSXOyr1CLg='",
+   "x-robots-tag": "noindex",
+   "x-content-type-options": "nosniff",
+   "x-frame-options": "SAMEORIGIN",
+   "x-xss-protection": "1",
+   "x-ua-compatible": "IE=Edge;chrome=1",
+   "x-fabric-cluster": "msnprodkc",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.5}",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]},{\"group\":\"csp-endpoint\",\"max_age\":86400,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report\"}]}",
+   "strict-transport-security": "max-age=1209600; includeSubDomains; preload",
+   "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+   "x-ceto-ref": "66f63fe0b728478b850f66a8c1cad30f|AFD:5912CB37DFCF485A88728D9FCC34139F|2024-09-27T05:17:20.408Z",
+   "x-cache": "CONFIG_NOCACHE",
+   "x-msedge-ref": "Ref A: 5912CB37DFCF485A88728D9FCC34139F Ref B: BJ1EDGE1209 Ref C: 2024-09-27T05:17:20Z",
+   "date": "Fri, 27 Sep 2024 05:17:19 GMT"
+  }
+ }
+}

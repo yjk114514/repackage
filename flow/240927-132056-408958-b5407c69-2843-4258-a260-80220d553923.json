@@ -1,0 +1,32 @@
+{
+ "request": {
+  "url": "https://config.edge.skype.com/config/v1/Edge/129.0.2792.52?clientId=4702572928466351117&agents=Edge%2CEdgeConfig%2CEdgeServices%2CEdgeFirstRun%2CEdgeFirstRunConfig&osname=win&client=edge&channel=stable&scpfre=0&osarch=x86_64&osver=10.0.22631&wu=1&devicefamily=desktop&uma=1&sessionid=128&mngd=0&installdate=1721629395&edu=0&bphint=2&soobedate=1721629385&fg=0",
+  "method": "GET",
+  "headers": {
+   "if-none-match": "\"DebAK0lmVRxNlb8aswGt4A4we7HoQuBec+b0L5MBuME=\"",
+   "accept-encoding": "gzip",
+   "sec-fetch-site": "none",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-dest": "empty",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "priority": "u=4, i"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "cache-control": "no-cache,max-age=3600",
+   "content-type": "application/json",
+   "expires": "Fri, 27 Sep 2024 06:20:53 GMT",
+   "etag": "\"DebAK0lmVRxNlb8aswGt4A4we7HoQuBec+b0L5MBuME=\"",
+   "x-content-type-options": "nosniff",
+   "x-frame-options": "DENY",
+   "strict-transport-security": "max-age=31536000; includeSubDomains",
+   "report-to": "{\"group\":\"NelEcsUpload1\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://ecs.nel.measure.office.net?TenantId=Edge&DestinationEndpoint=Edge-Prod-SIN30r4a&FrontEnd=AFD\"}],\"include_subdomains\":true}",
+   "nel": "{\"report_to\":\"NelEcsUpload1\",\"max_age\":604800,\"include_subdomains\":true,\"failure_fraction\":1.0,\"success_fraction\":0.01}",
+   "x-cache": "CONFIG_NOCACHE",
+   "x-msedge-ref": "Ref A: 74B0B03EAF6F4E1CB5A6E6BD1A77554D Ref B: SIN30EDGE0122 Ref C: 2024-09-27T05:20:53Z",
+   "date": "Fri, 27 Sep 2024 05:20:53 GMT"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "request": {
+  "url": "https://assets.msn.cn/staticsb/statics/latest/fixed/CloudConfigs/WindowsDashboard/ClientApp/wdgts_conf.json",
+  "method": "GET",
+  "headers": {
+   "accept-encoding": "gzip, deflate",
+   "if-modified-since": "Wed, 25 Sep 2024 23:04:09 GMT",
+   "if-none-match": "0x8DCDDB65CD323AB",
+   "cookie": "MUIDB=3712707DE9D56B56377E64B9E8966A68; _EDGE_V=1; MUID=3712707DE9D56B56377E64B9E8966A68; USRLOC="
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "content-type": "application/json",
+   "last-modified": "Wed, 25 Sep 2024 23:04:09 GMT",
+   "etag": "0x8DCDDB65CD323AB",
+   "date": "Thu, 26 Sep 2024 09:03:53 GMT",
+   "alt-svc": "h3=\":443\"; ma=93600",
+   "akamai-request-bc": "[a=23.15.177.229,b=41270771,c=g,n=DE_NW_DUSSELDORF,o=20940]",
+   "server-timing": "clientrtt; dur=310, clienttt; dur=0, origin; dur=0, cdntime; dur=0, wpo;dur=0,1s;dur=0",
+   "akamai-cache-status": "Hit from child",
+   "x-fd-market": "",
+   "akamai-server-ip": "23.15.177.229",
+   "akamai-request-id": "275bdf3",
+   "cache-control": "public, max-age=900",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}",
+   "timing-allow-origin": "*",
+   "akamai-grn": "0.e5b10f17.1727341433.275bdf3",
+   "vary": "Origin"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "request": {
+  "url": "https://update.googleapis.com/service/update2/json?cup2key=14:g1YhcAQK4H00qyIM9r_nkDGeN-SfatvvZDZU6FrVc6E&cup2hreq=36f8db3a2bebc100b96ac9da86a166175255f065c2bcd28f763f3f101da9b2e5",
+  "method": "POST",
+  "headers": {
+   "cache-control": "no-cache",
+   "pragma": "no-cache",
+   "content-type": "application/json",
+   "accept-encoding": "gzip, deflate",
+   "user-agent": "GoogleUpdater 130.0.6679.0",
+   "x-goog-update-appid": "{44fc7fe2-65ce-487c-93f4-edee46eeaaab},{8a69d345-d564-463c-aff1-a69d9e530f96}",
+   "x-goog-update-interactivity": "bg",
+   "x-goog-update-updater": "updater-130.0.6679.0",
+   "content-length": "1285"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-security-policy": "script-src 'report-sample' 'nonce-3bLQDN1ZBHfBpJYkNHdSfA' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1",
+   "cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+   "pragma": "no-cache",
+   "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+   "date": "Thu, 26 Sep 2024 09:04:31 GMT",
+   "x-cup-server-proof": "3044022016c2cb15e26dc756ea0ff3e9bc961203f13e6f6603ccfdc86d6e9f201f024d46022006c5a143ecb1a85a1c0fc67edd5c5a721d2310b166160aa4e030888b4ecaf226:36f8db3a2bebc100b96ac9da86a166175255f065c2bcd28f763f3f101da9b2e5",
+   "etag": "W/\"3044022016c2cb15e26dc756ea0ff3e9bc961203f13e6f6603ccfdc86d6e9f201f024d46022006c5a143ecb1a85a1c0fc67edd5c5a721d2310b166160aa4e030888b4ecaf226:36f8db3a2bebc100b96ac9da86a166175255f065c2bcd28f763f3f101da9b2e5\"",
+   "content-type": "application/json; charset=utf-8",
+   "x-daynum": "6478",
+   "x-daystart": "7471",
+   "content-encoding": "gzip",
+   "x-content-type-options": "nosniff",
+   "x-frame-options": "SAMEORIGIN",
+   "x-xss-protection": "1; mode=block",
+   "content-length": "671",
+   "server": "GSE",
+   "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+  }
+ }
+}

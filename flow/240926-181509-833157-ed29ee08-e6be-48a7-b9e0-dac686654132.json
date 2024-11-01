@@ -1,0 +1,37 @@
+{
+ "request": {
+  "url": "https://assets.codehub.cn/micro-frontend/layout/images/star-empty.a4e.svg",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://assets.codehub.cn/micro-frontend/layout/layout-fc6d5734e9.css",
+   "sec-fetch-dest": "image",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "same-origin",
+   "priority": "u=4, i",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Wed, 04 Sep 2024 08:47:50 GMT",
+   "content-encoding": "gzip",
+   "etag": "\"9bba071cd6a622790a0de00d1fe339e3\"",
+   "content-type": "image/svg+xml",
+   "cache-control": "max-age=2592000",
+   "age": "290670",
+   "content-length": "1365",
+   "accept-ranges": "bytes",
+   "x-nws-log-uuid": "13859427698828036787",
+   "server": "Lego Server",
+   "date": "Thu, 26 Sep 2024 10:15:08 GMT",
+   "x-cache-lookup": "Cache Hit",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "GET"
+  }
+ }
+}

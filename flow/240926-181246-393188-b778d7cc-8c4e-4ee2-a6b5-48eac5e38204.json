@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "http://10.6.18.2/index_1.html?wlanuserip=10.172.18.179&wlanacname=XJTU-Wlan-Auth-&ssid=&nasip=10.6.16.245&mac=3897d6b4e001&t=wireless-v2-plain&url=http://www.msftconnecttest.com/redirect",
+  "method": "GET",
+  "headers": {
+   "Host": "10.6.18.2",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate",
+   "Connection": "keep-alive",
+   "Referer": "http://www.msftconnecttest.com/",
+   "Cookie": "lang=zh-CN",
+   "Upgrade-Insecure-Requests": "1",
+   "Priority": "u=0, i"
+  }
+ },
+ "response": {
+  "status_code": 302,
+  "headers": {
+   "Server": "nginx",
+   "Date": "Thu, 26 Sep 2024 09:08:19 GMT",
+   "Content-Type": "text/html; charset=utf-8",
+   "Content-Length": "255",
+   "Connection": "close",
+   "Access-Control-Allow-Credentials": "true",
+   "Access-Control-Allow-Headers": "Origin,Authorization,Access-Control-Allow-Origin,Access-Control-Allow-Headers,Content-Type",
+   "Access-Control-Allow-Methods": "GET,POST",
+   "Access-Control-Allow-Origin": "*",
+   "Access-Control-Expose-Headers": "Content-Length,Access-Control-Allow-Origin,Access-Control-Allow-Headers,Content-Type",
+   "Location": "/srun_portal_pc?ac_id=1&mac=3897d6b4e001&nasip=10.6.16.245&ssid=&t=wireless-v2-plain&theme=basic&url=http%3A%2F%2Fwww.msftconnecttest.com%2Fredirect&wlanacname=XJTU-Wlan-Auth-&wlanuserip=10.172.18.179",
+   "SRunFlag": "SRun portal server golang version"
+  }
+ }
+}

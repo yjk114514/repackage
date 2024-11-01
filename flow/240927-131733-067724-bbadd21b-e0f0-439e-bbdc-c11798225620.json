@@ -1,0 +1,25 @@
+{
+ "request": {
+  "url": "https://content-signature-2.cdn.mozilla.net/chains/onecrl.content-signature.mozilla.org-2024-10-28-16-15-58.chain",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "if-modified-since": "Sun, 08 Sep 2024 16:16:00 GMT",
+   "if-none-match": "\"24a7a9285d9b01ae4fcc65fb3e08b314\"",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "date": "Fri, 27 Sep 2024 04:53:44 GMT",
+   "age": "1426",
+   "etag": "\"24a7a9285d9b01ae4fcc65fb3e08b314\"",
+   "cache-control": "public,max-age=3600",
+   "alt-svc": "clear"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "http://innopac.lib.xjtu.edu.cn/scripts/features.js",
+  "method": "GET",
+  "headers": {
+   "Host": "innopac.lib.xjtu.edu.cn",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate",
+   "Connection": "keep-alive",
+   "Referer": "http://innopac.lib.xjtu.edu.cn/search~S3*chx/?searchtype=t&searcharg=sdcdsc&searchscope=3&SORT=D&extended=0&SUBMIT=%E6%A3%80%E7%B4%A2&searchlimits=&searchorigarg=t%7Bu7A0D%7D%7Bu7B49%7D1",
+   "Cookie": "SESSION_LANGUAGE=chx; III_EXPT_FILE=aa32357; III_SESSION_ID=2aadc5e14bb036cc8bf913c58bfa930c; SESSION_SCOPE=3",
+   "Priority": "u=2",
+   "Pragma": "no-cache",
+   "Cache-Control": "no-cache"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Date": "Thu, 26 Sep 2024 09:03:44 GMT",
+   "Server": "III 100",
+   "MIME-version": "1.0",
+   "Last-Modified": "Thu, 2 Jan 2020 04:48:29 GMT",
+   "Expires": "Fri, 27 Sep 2024 09:03:44 GMT",
+   "Content-Type": "text/javascript; charset=UTF-8",
+   "Vary": "Accept-Encoding,User-Agent",
+   "Content-Encoding": "gzip",
+   "Content-Length": "587",
+   "Keep-Alive": "timeout=15, max=100",
+   "Connection": "Keep-Alive"
+  }
+ }
+}

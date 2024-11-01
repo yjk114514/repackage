@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "https://firefox-settings-attachments.cdn.mozilla.net/security-state-staging/intermediates/db85e469-23bc-4f83-8795-f88f767b17e8.pem",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "x-goog-generation": "1727359367833005",
+   "x-goog-metageneration": "1",
+   "x-goog-stored-content-encoding": "identity",
+   "x-goog-stored-content-length": "2694",
+   "x-goog-hash": "crc32c=yhKgGQ==, md5=qDBL+qJTqiwqLFH3YzpoCg==",
+   "x-goog-storage-class": "STANDARD",
+   "accept-ranges": "bytes",
+   "content-length": "2694",
+   "x-guploader-uploadid": "AD-8ljtGYMwNaOFGFFARCEWB67S5s1vC9BLTlgetyz5jIGeqxa2-iTRkAi-PH5Bg5GhLGo946kQ3WISX0g",
+   "server": "UploadServer",
+   "date": "Thu, 26 Sep 2024 15:00:04 GMT",
+   "cache-control": "public,max-age=604800",
+   "last-modified": "Thu, 26 Sep 2024 14:02:47 GMT",
+   "etag": "\"a8304bfaa253aa2c2a2c51f7633a680a\"",
+   "content-type": "application/octet-stream",
+   "age": "51449",
+   "alt-svc": "clear"
+  }
+ }
+}

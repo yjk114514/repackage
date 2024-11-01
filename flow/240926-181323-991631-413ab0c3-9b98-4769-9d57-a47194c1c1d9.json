@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://assets.codehub.cn/micro-frontend/operation/production/operation-e1340b4705.css",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "text/css,*/*;q=0.1",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://taimuer.coding.net/",
+   "sec-fetch-dest": "style",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "cross-site",
+   "if-modified-since": "Fri, 05 Jul 2024 03:08:37 GMT",
+   "if-none-match": "\"a8d1e86a849713599a786ed0f2134875\"",
+   "priority": "u=2",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "etag": "\"a8d1e86a849713599a786ed0f2134875\"",
+   "content-type": "text/css",
+   "x-nws-log-uuid": "9679485296845577265",
+   "server": "Lego Server",
+   "date": "Thu, 26 Sep 2024 10:13:23 GMT",
+   "x-cache-lookup": "Cache Hit",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "GET"
+  }
+ }
+}

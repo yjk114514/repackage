@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "https://otheve.beacon.qq.com/analytics/v2_upload?appkey=0WEB055KSHNIQ0D5",
+  "method": "POST",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "application/json, text/plain, */*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://taimuer.coding.net/",
+   "content-type": "application/json;charset=utf-8",
+   "content-length": "585",
+   "origin": "https://taimuer.coding.net",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "priority": "u=4",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Thu, 26 Sep 2024 10:13:23 GMT",
+   "content-type": "text/plain",
+   "content-length": "99",
+   "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-27=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, h3-Q039=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"39,43,46\"",
+   "set-cookie": "tgw_l7_route=1337b9f3a09ef45bd2e3d517e3b35b3e; Expires=Thu, 26-Sep-2024 10:43:23 GMT; Path=/",
+   "access-control-max-age": "600",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "POST",
+   "access-control-allow-headers": "x-requested-with,content-type"
+  }
+ }
+}

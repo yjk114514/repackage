@@ -1,0 +1,37 @@
+{
+ "request": {
+  "url": "https://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/vue.runtime.esm.m1j7b62zd662c451.js",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://mp.weixin.qq.com/",
+   "origin": "https://mp.weixin.qq.com",
+   "sec-fetch-dest": "script",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "same-site",
+   "priority": "u=1",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Fri, 27 Sep 2024 02:20:00 GMT",
+   "content-encoding": "br",
+   "content-type": "application/x-javascript",
+   "cache-control": "must-revalidate, max-age=31536000",
+   "age": "3367",
+   "content-length": "26815",
+   "accept-ranges": "bytes",
+   "x-nws-log-uuid": "4393606392949590007",
+   "server": "Lego Server",
+   "date": "Fri, 27 Sep 2024 05:17:42 GMT",
+   "x-cache-lookup": "Cache Hit",
+   "vary": "Origin",
+   "access-control-allow-origin": "*"
+  }
+ }
+}

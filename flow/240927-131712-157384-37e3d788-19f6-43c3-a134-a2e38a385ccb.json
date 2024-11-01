@@ -1,0 +1,43 @@
+{
+ "request": {
+  "url": "https://odc.officeapps.live.com/odc/v2.1/federationprovider?domain=9188040d-6c67-4c5b-b112-36a304b66dad",
+  "method": "GET",
+  "headers": {
+   "X-OneAuth-AppName": "OneDrive",
+   "X-CorrelationId": "860c5d06-2270-4fc9-b8ea-c7cce50dedcd",
+   "X-Office-Platform-Version": "10.0.22621.3958",
+   "X-Office-Application": "145",
+   "X-OneAuth-AppId": "com.microsoft.Onedrive",
+   "X-Office-Platform": "Win32",
+   "X-Office-Version": "24.171.0825.0002",
+   "X-OneAuth-Version": "1.101.2",
+   "Enlightened-Hrd-Client": "1",
+   "User-Agent": "Mozilla/5.0 (compatible; OneAuth)",
+   "Host": "odc.officeapps.live.com",
+   "Cookie": "MUID=29E936C4C0886B891F8C23C1C4886F8C"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Cache-Control": "private, max-age=2592000",
+   "Content-Type": "application/json; charset=utf-8",
+   "Server": "Microsoft-IIS/10.0",
+   "X-CorrelationId": "860c5d06-2270-4fc9-b8ea-c7cce50dedcd",
+   "X-UserSessionId": "860c5d06-2270-4fc9-b8ea-c7cce50dedcd",
+   "X-OfficeFE": "OdcFE_IN_18",
+   "X-OfficeVersion": "16.0.18115.30552",
+   "X-OfficeCluster": "jpe-000.odc.officeapps.live.com",
+   "P3P": "CP=\"CAO DSP COR ADMa DEV CONi TELi CUR PSA PSD TAI IVDi OUR SAMi BUS DEM NAV STA UNI COM INT PHY ONL FIN PUR\"",
+   "X-AspNetMvc-Version": "5.2",
+   "Access-Control-Allow-Origin": "*",
+   "Access-Control-Expose-Headers": "Content-Length,Content-Type,X-OfficeCluster,X-OfficeFE,X-OfficeVersion,X-CorrelationId",
+   "ClientConfig": "https://clientconfig.microsoftonline-p.net",
+   "X-AspNet-Version": "4.0.30319",
+   "X-Powered-By": "ASP.NET",
+   "X-Content-Type-Options": "nosniff",
+   "Date": "Fri, 27 Sep 2024 05:17:09 GMT",
+   "Content-Length": "568"
+  }
+ }
+}

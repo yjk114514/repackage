@@ -1,0 +1,26 @@
+{
+ "request": {
+  "url": "https://open.weixin.qq.com/connect/qrcode/071auZ4V3XUdGa12",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://open.weixin.qq.com/connect/qrconnect?appid=wxa2e126f91fa47914&redirect_uri=https%3A%2F%2Fe.coding.net%2Fapi%2Fplatform%2Foauth2%2Flogin%2Fcode%2Fwechat_qr&response_type=code&scope=snsapi_login&state=APSo5Up5k03j1x2TuXwL9g1iEVl2ALmEND737yFEI5w%3D&login_type=jssdk&self_redirect=true&styletype=&sizetype=&bgcolor=&rst=&href=https%3A%2F%2Fassets.codehub.cn%2Fmicro-frontend%2Flogin-tencent%2Fwechat-qr.css%3Ft%3D1",
+   "sec-fetch-dest": "image",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "same-origin",
+   "priority": "u=5, i",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-type": "image/jpeg",
+   "x-wx-fj": "001,018,0000001024",
+   "skfrmwrespcookie": "6xgAIA4QASgO3g=="
+  }
+ }
+}

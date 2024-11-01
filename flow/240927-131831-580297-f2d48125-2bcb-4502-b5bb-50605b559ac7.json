@@ -1,0 +1,44 @@
+{
+ "request": {
+  "url": "http://1d.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7deeb1aa-663d-4cbe-87e6-770f196c2b7a?P1=1727416227&P2=404&P3=2&P4=ELrdX%2bPGpjpezFLnAKEdjFBvEV0JX%2bu%2fAGMH1DVTQb8esVnM2mr77wjLi0TUMYKylSSEc8rm7xo5LQhUQUDW4g%3d%3d",
+  "method": "GET",
+  "headers": {
+   "Proxy-Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "Range": "bytes=74448896-74526283",
+   "User-Agent": "Microsoft-Delivery-Optimization/10.1",
+   "MS-CV": "GzlHJLCi30S/tZ+g.1.3.1.0.0.11.1.1.6.1.1.2",
+   "Content-Length": "0",
+   "Host": "1d.tlu.dl.delivery.mp.microsoft.com"
+  }
+ },
+ "response": {
+  "status_code": 206,
+  "headers": {
+   "Content-Type": "application/octet-stream",
+   "Content-Length": "77388",
+   "Connection": "keep-alive",
+   "Server": "Microsoft-IIS/10.0",
+   "ETag": "\"Hz98OBj7GcP9YYLZjObmOc5z6/8=\"",
+   "Date": "Fri, 13 Sep 2024 01:03:06 GMT",
+   "Last-Modified": "Fri, 13 Sep 2024 00:18:35 GMT",
+   "Expires": "Tue, 01 Apr 2025 01:03:06 GMT",
+   "Age": "1224923",
+   "Cache-Control": "public, max-age=17280000",
+   "Content-Range": "bytes 74448896-74526283/74526284",
+   "Accept-Ranges": "bytes",
+   "Content-Disposition": "attachment; filename=MicrosoftWindows.CrossDevice_1.24082.53.0_neutral_~_cw5n1h2txyewy.AppxBundle",
+   "MS-CorrelationId": "988c2e6e-bcaa-441b-a2fb-386937cc9bc8",
+   "MS-CV": "WgXWCVZHMEWh/dwX.1.3.1.0.0.11.1.1.6.1.1.1.0",
+   "MS-RequestId": "636a9865-11d6-4bb8-a85d-8b057b2ab8e0",
+   "X-AspNet-Version": "4.0.30319",
+   "X-AspNetMvc-Version": "5.3",
+   "X-CCC": "CN",
+   "X-CID": "16",
+   "X-Powered-By": "ASP.NET, ARR/3.0, ASP.NET",
+   "x-link-via": "akun01:80;hamp12:443;fzct321:443;",
+   "X-Cache-Status": "MISS from KS-CLOUD-FZ-CT-321-11, HIT from KS-CLOUD-HA-MP-12-10, HIT from KS-CLOUD-AK-UN-01-10-L",
+   "X-Cdn-Request-ID": "f207f79e324e6cd8b84a934e2e536efb"
+  }
+ }
+}

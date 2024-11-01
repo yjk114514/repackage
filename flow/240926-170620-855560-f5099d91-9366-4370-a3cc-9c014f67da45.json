@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "http://track.lc.quark.cn/collect?uc_param_str=dndsfrpfbibdosvessbtbmnilauputogpintnwmtsvcppcprsnnnchmicckpua&uid=d168210d-d99e-9232-bf3c-0f627a28af1c&sid=d6636e24-b0f7-cd2a-2c0b-12a64dfa5134&appid=29351a4155a4&ev_ct=clouddrive&app_type=quark-cloud-drive-desktop&project_id=quark-cloud-drive&sub_project_id=desktop&platform=pcnative&login_status=1&sessionID=AATn%2BQ1lN2l2iVVH3pZnCkB1&ucid=AATn%2BQ1lN2l2iVVH3pZnCkB1&wa_param_str=ucid%3A1%3B&outerUuid=undefined&guid=81db827f-0dbb-4e0c-aace-766dd4a5d06e&entry=default&fp=default&js_version=3.11.7&appver=3.11.7&appsubver=trial2&appch=pckk%40clouddrive_share_ch&electron_ver=24.1.3.8&system_enter_type=windows&login_way=avatar&login_src=default&utdid=ZvQj9wAAACkDAIWGAeB5EF8r&page=page_clouddrive_pcdownload&page_h5=page_clouddrive_pcdownload&card_type=four-data&state=&rom=Windows_NT_10.0.22631&brand=Windows_NT&osarch=x64&cpu_model=AMD+Ryzen+7+7730U+with+Radeon+Graphics+++++++++&gpu_model=OrayIddDriver+Device%2CAMD+Radeon+(TM)+Graphics&user_type=NORMAL&data_id=%4011427_B%40_%4011372_A%40_%4011017_B%4010912_E%40_%4011392_A%4011393_A%40&grey_scale_ids=%40cloud_video_courseware_enable%40pc_guide_list%40pdf_svip_control%40wx_announcement%40ai_subtitle_bilingual_enable%40recorder_asr_text%40download_big_memory_buffer%40private_storagetype%40video_preview_open_new%40pc_notify_activity%40pdfium_entry_gray%40video_tab_use%40doc_feedback_entry%40cms_pc_quark_clouddrive_pay_check%40access_coupons%40search_hot_recommend%40doc_ai_entry%40private_global_net_req_strategy%40cloud_member_boot_upgrade_entrance%40download_privilege%40cloud_video_courseware_entry_enable%40backup_use_guide%40upload_use_unet%40pc_vip_keep_modal_config%40pc_cloudtab_activity%40pc_uploadtab_activity%40backup_sniffing_operation%40parse_resource_award%40member_status_sync_online_switch%40pdf_viewer_gray%40pc_member_first_enter_qk_tab_experiment%40cloud_video_supports%40pc_vip_head_config%40pc_vip_first_modal_config%40sw_scan_switch%40pc_recenttab_activity%40pc_vip_config%40video_activity%40flutter_apollo_audio_max_volume_enable%40pc_vip_first_modal_activity_config%40flutter_video%40private_download_net_req_strategy%40video_tab_source_control%40prevent_sleep%40cloud_video_ai_entry_enable%40pc_modal_daily_open_count%40cms_cloud_offline_resolution_map%40sug_search%40flutter_audio_switch%40im_official_group%40private_download_net_lib%40pc_backup%40video_document_export_errot_tips_config%40private_net_req_strategy%40note_performance_limit%40new_upload_use_unet%40cms_quark_member_home_entrance%40pc_setting_announcement%40native_menu%40cloud_video_document_enable%40apollo_feature_switch%40file_preview_switch%40apollo_str%40cms_quark_member_down_coupon_modal%40client_public_download%40watcher_optimize%40cloud_video_document_export_free%40pc_sniffer_backup_modal%40cloud_video_series_enable%40cms_quark_cloud_yxxx_config%40cloud_aisubtitle_enable%40ai_lecture_export_errot_tips_config%40save_safe_control%40vip_independent_switch%40apollo_unet_enable%40cms_quark_clouddrive_pay_backup%40&identity=%5B%5D&stat_a=a2s0k&stat_b=pcdownload&stat_c=0&stat_d=0&uptime=65265&stotalmem=14177.24&sfreemem=880.02&mheapt=20.99&mheapu=16.79&mext=3.74&mrss=90.5&smemp=93.79&mmemp=0.64&scpuu=0&stcpuu=1.98&pmrss=98.8&psmemp=95.63&pmmemp=0.7&pscpuu=0&pstcpuu=3.2&mwinpid=32604&some_low_energy=false&some_daily=false&some_interval=false&not_product_log=1&event_id=19999&type=event&arg1=local_sy_inf&arg1_h5=local_sy_inf&lt=event&c_lt=event&cost_time=300000&no_url_de=1&spm=a2s0k.pcdownload.0.0&ref_url=&time=1727341580762",
+  "method": "POST",
+  "headers": {
+   "Host": "track.lc.quark.cn",
+   "Proxy-Connection": "keep-alive",
+   "Content-Length": "0",
+   "Accept": "*/*",
+   "Accept-Encoding": "gzip, deflate",
+   "Accept-Language": "zh-CN",
+   "Content-Type": "text/plain;charset=UTF-8",
+   "Cookie": "_UP_D_=pc;_UP_A4A_11_=wb96910e5dc9413ab4a702bae0056684;tfstk=gC0q9k4uUELqynLQN7UaTjDnLxaY5rvImVw_sfcgG-20GrGi4fGeM5MjsRoaEAdAlrvASRcKeowmCr6w7Yz0Xmw_hRzZ6vRWdeTIMjUTjp9BRP9YoS4TIFaMRu181mJBdeTSMjUTSpi_dKRDG5euiS2gsQ5ue5PgS-qGEgV3ER4iIPArZ8FgSRY2YxHOdWqDOc8ZrcITioyni87ZM4P00ih0UNbizwZ4KAwPSN0zMbIiDM_efJmLhkNtEU_47bVZLWkVELziaq3UqqvR7vkrxzP-2dSaLccjv70H1MeSz-MiuuAC8laoRk4mV3pbfrPEIqHV_NDnNXgY2VJFERnb9zVqIevP4iXTZzLIWmWGboV8aJOya3eY-RKwxDUlXGEux7yBMljOXoV8aJOyaGITm7FzdQRP.;__uid=AATn+Q1lN2l2iVVH3pZnCkB1;__pus=018e25bdb5e9f57fb5267c3709ca1e25AASo+apxE/8AIBmZgo9sJNGuGy5H64+fGr6ZMU/kQyWVQmwTAJY+fXuOyePWABLhwaScXvgp9k7eUIRGqmce/Jcd96y3tFeNHLz7St7rTbSzIhHeW96lWjMved4r0f2KuMyxOcqodvTb/ODkOMfkD44ZRhA1Ea2hyQB/tOHEdQuQe5J1GXjq3iTkApZvNTUhGrs=;__kp=d89b96d0-7be4-11ef-a8fe-cd410f22e8ca;__kuus=NekCAXI4vo02iNUYoEy+AU/9SHwPeD9Cs07T0pkUgAoMpdLRiPfWNV7TKqN+OBmU+DcgSUJrTWuSR+t/DpkALMFF595RHnj46YKBW4Dbi1Ksvw==;__puus=6aeb0a5936ee2c7999abd1b649178f3dAAQLqHJP0GO9QIn5mIUl6UFXFXTpTLshcBG0Y9unPdjg4faO9YklGCil98JZWG9ps9eMAH9G5LeSI4U+SKZr6a0KC0vwtyzoF9COUxQrp18T0jzNkLzyEl/Rn6SsOIcygWl5jHfzm3FjdcPACSYKh4YDLbi47DsBPx7/IMNqQNUVaxyQo/W8eXfaSUwai3CwWGgHqh5ZPUq3g7GUYotYhTnX",
+   "Origin": "https://pan.quark.cn",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) quark-cloud-drive/3.11.7 Chrome/112.0.5615.165 Electron/24.1.3.8 Safari/537.36 Channel/pckk_clouddrive_share_ch",
+   "Referer": "https://pan.quark.cn/"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Server": "Tengine/2.1.3_400",
+   "Date": "Thu, 26 Sep 2024 09:06:19 GMT",
+   "Content-Type": "text/plain;charset=UTF-8",
+   "Content-Length": "33",
+   "Connection": "keep-alive",
+   "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+   "Access-Control-Allow-Origin": "https://pan.quark.cn, *",
+   "Access-Control-Allow-Credentials": "true",
+   "Cache-Control": "no-cache"
+  }
+ }
+}

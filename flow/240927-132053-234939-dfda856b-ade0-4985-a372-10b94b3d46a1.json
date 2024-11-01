@@ -1,0 +1,41 @@
+{
+ "request": {
+  "url": "https://incoming.telemetry.mozilla.org/submit/firefox-desktop/fx-accounts/1/a0880ee3-2ed0-4709-9617-6874870363b4",
+  "method": "POST",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "x-telemetry-agent": "Glean/60.4.0 (Rust on Windows)",
+   "content-type": "application/json; charset=utf-8",
+   "date": "Fri, 27 Sep 2024 05:20:52 GMT",
+   "content-encoding": "gzip",
+   "content-length": "796",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "none",
+   "priority": "u=4",
+   "pragma": "no-cache",
+   "cache-control": "no-cache",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "server": "openresty",
+   "date": "Fri, 27 Sep 2024 05:20:50 GMT",
+   "content-type": "text/plain; charset=utf-8",
+   "vary": "Accept-Encoding",
+   "strict-transport-security": "max-age=31536000",
+   "x-frame-options": "DENY",
+   "access-control-allow-methods": "GET, POST, PUT, OPTIONS",
+   "access-control-max-age": "1728000",
+   "access-control-allow-headers": "Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent",
+   "content-encoding": "gzip",
+   "via": "1.1 google",
+   "alt-svc": "clear"
+  }
+ }
+}

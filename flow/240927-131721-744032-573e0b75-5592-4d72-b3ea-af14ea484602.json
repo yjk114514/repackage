@@ -1,0 +1,42 @@
+{
+ "request": {
+  "url": "https://assets.msn.cn/staticsb/statics/latest/fixed/CloudConfigs/WindowsDashboard/ClientApp/wdgts_conf.json",
+  "method": "GET",
+  "headers": {
+   "accept-encoding": "gzip, deflate",
+   "if-modified-since": "Wed, 25 Sep 2024 23:04:09 GMT",
+   "if-none-match": "0x8DCDDB65CD323AB",
+   "cookie": "MUIDB=3712707DE9D56B56377E64B9E8966A68; _EDGE_V=1; MUID=3712707DE9D56B56377E64B9E8966A68; USRLOC="
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-type": "application/json",
+   "content-md5": "GwqUehqzJ1t0omN86hyNSg==",
+   "last-modified": "Fri, 27 Sep 2024 02:18:11 GMT",
+   "etag": "0x8DCDE9AA2DA896E",
+   "server": "Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0",
+   "x-ms-request-id": "dc308a80-c01e-00c2-3a85-10fdfb000000",
+   "x-ms-version": "2009-09-19",
+   "x-ms-lease-status": "unlocked",
+   "x-ms-blob-type": "BlockBlob",
+   "content-encoding": "gzip",
+   "content-length": "216",
+   "date": "Fri, 27 Sep 2024 05:17:19 GMT",
+   "alt-svc": "h3=\":443\"; ma=93600",
+   "akamai-request-bc": "[a=222.138.6.157,b=40839239,c=g,n=CN_HA_ZHUMADIAN,o=4837]",
+   "server-timing": "clientrtt; dur=65, clienttt; dur=0, origin; dur=0, cdntime; dur=0, wpo;dur=0,1s;dur=0",
+   "akamai-cache-status": "Hit from child",
+   "x-fd-market": "",
+   "akamai-server-ip": "222.138.6.157",
+   "akamai-request-id": "26f2847",
+   "cache-control": "public, max-age=900",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}",
+   "timing-allow-origin": "*",
+   "akamai-grn": "0.9d068ade.1727414239.26f2847",
+   "vary": "Origin"
+  }
+ }
+}

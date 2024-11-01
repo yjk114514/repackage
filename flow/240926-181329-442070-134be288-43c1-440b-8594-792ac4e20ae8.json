@@ -1,0 +1,26 @@
+{
+ "request": {
+  "url": "http://ocsp.digicert.com/MFEwTzBNMEswSTAJBgUrDgMCGgUABBSRXerF0eFeSWRripTgTkcJWMm7iQQUaDfg67Y7%2BF8Rhvv%2BYXsIiGX0TkICEAcfFBuLMA0l8xTrIwzQ0d0%3D",
+  "method": "GET",
+  "headers": {
+   "Proxy-Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "User-Agent": "Microsoft-CryptoAPI/10.0",
+   "Host": "ocsp.digicert.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Accept-Ranges": "bytes",
+   "Age": "2406",
+   "Cache-Control": "max-age=7200",
+   "Content-Type": "application/ocsp-response",
+   "Date": "Thu, 26 Sep 2024 10:13:28 GMT",
+   "Last-Modified": "Thu, 26 Sep 2024 09:33:23 GMT",
+   "Server": "ECAcc (hkc/BDCE)",
+   "X-Cache": "HIT",
+   "Content-Length": "727"
+  }
+ }
+}

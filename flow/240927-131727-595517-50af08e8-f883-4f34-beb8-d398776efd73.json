@@ -1,0 +1,48 @@
+{
+ "request": {
+  "url": "https://assets.msn.cn/service/Finance/ExchangeStatistics?apikey=AEbyVYqTQAPvg4lWwMSFHaLkDzl3weRKKIDDInLQUj&activityId=0E992B61-6D61-4300-9B10-DC48FA2F6D64&ocid=winp2&cm=zh-cn&it=app&scn=APP_ANON&ids=r6dwp2&wrapodata=false",
+  "method": "OPTIONS",
+  "headers": {
+   "accept": "*/*",
+   "access-control-request-method": "GET",
+   "access-control-request-headers": "muid,userauthtoken",
+   "origin": "https://windows.msn.cn",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "same-site",
+   "sec-fetch-dest": "empty",
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-type": "text/html",
+   "content-length": "2",
+   "expires": "Fri, 27 Sep 2024 05:17:25 GMT",
+   "date": "Fri, 27 Sep 2024 05:17:25 GMT",
+   "alt-svc": "h3=\":443\"; ma=93600",
+   "akamai-request-bc": "[a=222.138.6.157,b=40842103,c=g,n=CN_HA_ZHUMADIAN,o=4837]",
+   "server-timing": "clientrtt; dur=61, clienttt; dur=0, origin; dur=, cdntime; dur=0, wpo;dur=0,1s;dur=0",
+   "akamai-cache-status": "NotCacheable from child",
+   "access-control-max-age": "300",
+   "akamai-server-ip": "222.138.6.157",
+   "akamai-request-id": "26f3377",
+   "access-control-expose-headers": "TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,X-Statics-Fallback,X-FD-RevIP,X-FD-ClientIP,s-xbox-token,X-Client-Data,x-fd-features,cache-control,pragma,traceparent,Widgets,Muted,OneSvc-Uni-Feat-Tun,appUninstall,Velocity,SoftLanding,PrefMigrated,DDD-TMPL-Removed,Akamai-Request-BC",
+   "access-control-allow-headers": "TicketType,RequestContinuationKey,AuthToken,Content-Type,x-client-activityid,ms-cv,signedInCookieName,muid,appid,User-Location,user-location,userauthtoken,usertickettype,sitename,s2sauthtoken,thumbprint,Authorization,Ent-Authorization,UserIdToken,DDD-TMPL,DDD-ActivityId,DDD-FeatureSet,DDD-Session-ID,Date,date,ads-referer,taboola-sessionId,taboola-sessionid,Akamai-Request-ID,Akamai-Server-IP,X-MSEdge-Ref,DDD-DebugId,X-Statics-Fallback,X-FD-RevIP,X-FD-ClientIP,s-xbox-token,X-Client-Data,x-fd-features,cache-control,pragma,traceparent,Widgets,Muted,OneSvc-Uni-Feat-Tun,appUninstall,Velocity,SoftLanding,PrefMigrated,DDD-TMPL-Removed",
+   "access-control-allow-methods": "PUT,PATCH,POST,GET,OPTIONS,DELETE",
+   "access-control-allow-credentials": "true",
+   "access-control-allow-origin": "https://windows.msn.cn",
+   "x-as-suppresssetcookie": "1",
+   "cache-control": "public, max-age=60",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}",
+   "timing-allow-origin": "*",
+   "akamai-grn": "0.9d068ade.1727414245.26f3377",
+   "vary": "Origin"
+  }
+ }
+}

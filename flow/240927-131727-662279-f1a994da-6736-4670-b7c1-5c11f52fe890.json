@@ -1,0 +1,40 @@
+{
+ "request": {
+  "url": "https://www.bing.com/th?id=OADD2.10239389353880_1HPOA9I77UJ6BG3UR&pid=21.2&c=16&roil=0&roit=0&roir=1&roib=1&w=16&h=16&dynsize=1&qlt=90",
+  "method": "GET",
+  "headers": {
+   "sec-ch-ua-platform": "\"Windows\"",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\", \"Microsoft Edge WebView2\";v=\"129\"",
+   "sec-ch-ua-mobile": "?0",
+   "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+   "sec-ms-gec": "5D737B6630217117736FED9B3D4F51938C95AA51FE2652F98F54849B5761EF04",
+   "sec-ms-gec-version": "1-129.0.2792.52",
+   "sec-fetch-site": "cross-site",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-dest": "image",
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "cache-control": "public, max-age=2592000",
+   "content-length": "263",
+   "content-type": "image/png",
+   "x-cache": "TCP_HIT",
+   "access-control-allow-origin": "*",
+   "access-control-allow-headers": "*",
+   "access-control-allow-methods": "GET, POST, OPTIONS",
+   "timing-allow-origin": "*",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://aefd.nelreports.net/api/report?cat=bingth&ndcParam=QUZE\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":1.0}",
+   "accept-ch": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+   "x-msedge-ref": "Ref A: DF15126CE8ED47A7A3F89182E986F5CB Ref B: BJ1EDGE0419 Ref C: 2024-09-27T05:17:25Z",
+   "date": "Fri, 27 Sep 2024 05:17:24 GMT"
+  }
+ }
+}

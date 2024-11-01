@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "https://ark-release-1251316161.file.myqcloud.com/wasmoon/glue.wasm?x-ntqq-desk-ark-engine=1",
+  "method": "GET",
+  "headers": {
+   "accept": "*/*",
+   "accept-encoding": "gzip, deflate, br",
+   "accept-language": "zh-CN",
+   "origin": "https://ark-release-1251316161.file.myqcloud.com",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) QQ/9.9.12-25765 Chrome/126.0.6478.36 Electron/31.0.1 Safari/537.36 OS/win32,x64,10.0.22631,Windows 11 Home China",
+   "if-none-match": "\"ac342e760111ce5da98b78ed1c82a582\"",
+   "if-modified-since": "Fri, 14 Oct 2022 12:02:22 GMT",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "etag": "\"ac342e760111ce5da98b78ed1c82a582\"",
+   "content-type": "application/wasm",
+   "date": "Sun, 05 Nov 2023 03:19:08 GMT",
+   "server": "tencent-cos",
+   "x-cos-hash-crc64ecma": "6237104390718480142",
+   "x-cos-request-id": "NjU0NzA5YWNfMWQzMjI3MGJfMjJjYmRfYjljMGQxZQ==",
+   "x-cos-trace-id": "OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OWE4OGMxZjNjY2JiNTBmMTVmMWY1MzAzYzkyZGQ2ZWM4MzZkMTZiZDQxYTg4MzRiMzIwYzRkYTRjMWFkNDM3YjQ=",
+   "x-nws-log-uuid": "9097781659259430870",
+   "x-cache-lookup": "Cache Hit",
+   "access-control-allow-methods": "GET",
+   "access-control-max-age": "60"
+  }
+ }
+}

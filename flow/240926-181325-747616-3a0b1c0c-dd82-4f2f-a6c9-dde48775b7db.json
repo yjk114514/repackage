@@ -1,0 +1,28 @@
+{
+ "request": {
+  "url": "https://h.trace.qq.com/kv?attaid=00400014144&token=6478159937&product_id=0WEB055EVW1K05ID&platform=web&uin=XEXzTSRtMjw13AP4hpRM0cxCjRP6d685&model=&os=web&app_version=&sdk_version=4.5.9-web&error_stack=&_dc=0.8486108587225176&error_msg=NetworkError%20when%20attempting%20to%20fetch%20resource.&error_code=600",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "application/json, text/plain, */*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://taimuer.coding.net/",
+   "origin": "https://taimuer.coding.net",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "priority": "u=4",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Thu, 26 Sep 2024 10:13:24 GMT",
+   "content-type": "image/gif",
+   "content-length": "2",
+   "server": "Trpc httpd"
+  }
+ }
+}

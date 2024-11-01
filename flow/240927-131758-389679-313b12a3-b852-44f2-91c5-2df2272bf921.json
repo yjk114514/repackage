@@ -1,0 +1,25 @@
+{
+ "request": {
+  "url": "http://c.pki.goog/r/r1.crl",
+  "method": "GET",
+  "headers": {
+   "Cache-Control": "max-age = 3000",
+   "Proxy-Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "If-Modified-Since": "Thu, 25 Jul 2024 14:48:00 GMT",
+   "User-Agent": "Microsoft-CryptoAPI/10.0",
+   "Host": "c.pki.goog"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "Date": "Fri, 27 Sep 2024 04:48:17 GMT",
+   "Expires": "Fri, 27 Sep 2024 05:38:17 GMT",
+   "Age": "1779",
+   "Last-Modified": "Thu, 25 Jul 2024 14:48:00 GMT",
+   "Cache-Control": "public, max-age=3000",
+   "Vary": "Accept-Encoding"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "request": {
+  "url": "http://detectportal.firefox.com/canonical.html",
+  "method": "GET",
+  "headers": {
+   "Host": "detectportal.firefox.com",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate",
+   "Cache-Control": "no-cache",
+   "Pragma": "no-cache",
+   "Connection": "keep-alive"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Server": "nginx",
+   "Content-Length": "90",
+   "Via": "1.1 google",
+   "Date": "Thu, 26 Sep 2024 12:54:41 GMT",
+   "Age": "58944",
+   "Content-Type": "text/html",
+   "Cache-Control": "public,must-revalidate,max-age=0,s-maxage=3600"
+  }
+ }
+}

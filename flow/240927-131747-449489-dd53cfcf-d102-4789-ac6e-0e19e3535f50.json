@@ -1,0 +1,37 @@
+{
+ "request": {
+  "url": "https://res.wx.qq.com/t/wx_fed/weui-source/res/2.6.4/weui.min.css",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "text/css,*/*;q=0.1",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://mp.weixin.qq.com/",
+   "cookie": "RK=PZVYaKWHFs, ptcz=821b4fded0de30fe55b4e6b17e90f39517a128da4caaf57c56563243bf94461d",
+   "sec-fetch-dest": "style",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "same-site",
+   "priority": "u=2",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Fri, 30 Jun 2023 16:29:39 GMT",
+   "content-encoding": "br",
+   "etag": "\"4e30f812030c6dd3dfec9df9c3fb9aad\"",
+   "content-type": "text/css",
+   "content-length": "19599",
+   "accept-ranges": "bytes",
+   "x-nws-log-uuid": "3722810117848101757",
+   "server": "Lego Server",
+   "date": "Fri, 27 Sep 2024 05:17:45 GMT",
+   "x-cache-lookup": "Cache Hit",
+   "vary": "Origin",
+   "cache-control": "max-age=31536000",
+   "access-control-allow-origin": "*"
+  }
+ }
+}

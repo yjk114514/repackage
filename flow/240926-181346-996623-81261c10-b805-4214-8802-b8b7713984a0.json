@@ -1,0 +1,32 @@
+{
+ "request": {
+  "url": "https://assets.codehub.cn/micro-frontend/monkitIcons-c2463990.js",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://taimuer.coding.net/",
+   "sec-fetch-dest": "script",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "cross-site",
+   "if-modified-since": "Mon, 15 Jul 2024 02:38:33 GMT",
+   "if-none-match": "\"ee8969ee0cf0628b930f37e20cc05aa5\"",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "etag": "\"ee8969ee0cf0628b930f37e20cc05aa5\"",
+   "content-type": "application/javascript",
+   "x-nws-log-uuid": "15465043676148405495",
+   "server": "Lego Server",
+   "date": "Thu, 26 Sep 2024 10:13:46 GMT",
+   "x-cache-lookup": "Cache Hit",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "GET"
+  }
+ }
+}

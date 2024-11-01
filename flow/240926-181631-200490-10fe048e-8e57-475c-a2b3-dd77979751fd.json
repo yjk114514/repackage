@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "https://assets.codehub.cn/micro-frontend/vcs/editor.a85ce25e.worker.js",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://taimuer.coding.net/",
+   "sec-fetch-dest": "script",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "cross-site",
+   "priority": "u=4",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Wed, 11 Sep 2024 06:29:48 GMT",
+   "content-encoding": "gzip",
+   "etag": "\"a4e86a74e6737b387f0759b358db0a4b\"",
+   "content-type": "application/javascript",
+   "content-length": "44584",
+   "accept-ranges": "bytes",
+   "x-nws-log-uuid": "9607492459284017097",
+   "server": "Lego Server",
+   "date": "Thu, 26 Sep 2024 10:16:30 GMT",
+   "x-cache-lookup": "Cache Hit",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "GET"
+  }
+ }
+}

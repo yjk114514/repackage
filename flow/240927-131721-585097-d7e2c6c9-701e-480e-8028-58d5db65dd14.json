@@ -1,0 +1,59 @@
+{
+ "request": {
+  "url": "https://assets.msn.cn/service/news/feed/pages/dashboard4?locale=zh-CN&region=CN&aver=524.24900.80.0&over=10.0.22631.4169.amd64fre.ni_release.220506-1250&fring=Retail&devicetype=10&oem=LENOVO&smode=false&machineId=%7B1149569B-155A-4839-B568-3C0389DFE265%7D&clv=1.0&usri=-2&apikey=lxSNtibdZ45aPe8BHuUR6XwhuuruYfwejEYNpSqgcd&ocid=winp2widget&timeOut=2000&activityId=94c50aac-3d7e-4813-b933-9267982855fa&user=m-2458D68FE4F26CDA37C1C24BE5DC6D6B&cm=zh-cn&caller=bgtask&theme=dark&aeprd=0&aepbd=0&clientLocation=34.24656900000000093%7C108.97574799999999584&clientLocationAccuracy=213.00000000000000000&clientLocationProvider=WiFi&clientLocationTimestamp=2024-09-27T05%3A17%3A18Z&it=app&scn=app_anon&clientFeatures=1",
+  "method": "GET",
+  "headers": {
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate",
+   "muted": "",
+   "userauthtoken": "t=EwBIA6AEAAAU+FEkrYVKODxcga16pzW/y5vRf68AARWQXv3UQu5f9JeqwjhZIhUvi3LTVjVJtvsLXfESSTOMFf/GgdoKLizIQ09nS3t4etCO3wmpTgDG8Zj21IVAUZp4gwsolBCVgR6z4DnBQhmsghuqVY51iVVT7Q937iodW16oSf0P6RWJLAEFXMo/OxxYdy7uyzvf0iU4xPq7ecffitrqJHwhMQrl4NoLo4V3cZFVdDiOq46dAJ44MUpWzzKcmfwmsnVnII14DX4WQdi25vpqUiuhkgOJatxpBtPdty0Kp9ubMivAFvo7cd2sjbK3CfObAPIx95VX0iNpH35gm+iJXooti/36YMzRXt0xv7Di0CfhsEirhX3lRhGaCp0QZgAAEHLsJMAjHX7uptrl+eNf9O8QAj/w5KRYg9U9v6NqdTV98V2go6FPjS0tpMFYdwq26TcCaJgljFcmth5QtRKjqWv047GvDoCHX08EYc4pWMlki16YYxPXO1Ricwhk79RaTuJuzkRvdcKT9Um8zwqPz8i5cpsoQPFvdcj3HnHYtSIpGzU6ivGv69JMYx3Tw75Ds+y1E5kbflFDnGwspIHnEJ/29BD/K0dLylChmT8WU64N3IRhUvssvs7hPljrM1dvqjQawM34LwtG4ckSdBizBmbtcTzpmrBkbNd6RGQtZaFX+n+mqXfwEXNHfjhpDeUxku/HNPaa6LZzSR/bQQ1ZyO4QPwFUmGV6l0lMfqjlM6/aiuera+GO2ZhMa23k4FdBQuiv5B9Aljxw5a8GOrV0QeUyUipj2Pvp+IyNbdEfqjk/gw1FWipvXQD4FyWe9DPVedtSQXPXMiP8Jf/fecmBMmGay0IWNwvqeJ3soOgcduH1x/TPHFMT8Ux/VtvwHcmjSf0DtQsB2iddxzcSv4UgKErnHNhndkEtBe2uMBGJCOoyccG6Llq3c9QyaMivRDTf6FejLNRu0RugJAw+SapPFcsF0hqbsPlUQ2ORjA3xDPHaMWCKI9dzIk1bhTh3ybeRG3Lq4f+a3bdYTGxUbAZMQQyT8QfqzxEF315CZyn96umWiIXS3ZFEOcEKftVzPrmCPC2xDt0s7+SKfpE3XsfsnNjGd0MC&p=",
+   "widgets": "|Microsoft.WindowsAlarms_8wekyb3d8bbwe!ClockWidgets!!ClockWidgetProviderAppId!!FocusSessionsWidgetId|Microsoft.YourPhone_8wekyb3d8bbwe!App!!PhoneLinkApp!!PhoneLinkWidget|Microsoft.Windows.DevHome_8wekyb3d8bbwe!App!!CoreWidgetProvider!!SSH_Wallet|Microsoft.Windows.DevHome_8wekyb3d8bbwe!App!!CoreWidgetProvider!!System_Memory|Microsoft.Windows.DevHome_8wekyb3d8bbwe!App!!CoreWidgetProvider!!System_NetworkUsage|Microsoft.Windows.DevHome_8wekyb3d8bbwe!App!!CoreWidgetProvider!!System_CPUUsage|Microsoft.Windows.DevHome_8wekyb3d8bbwe!App!!CoreWidgetProvider!!System_GPUUsage|Tips|Family|MoneyInfo|ShoppingProngCardResponse|esportsCasualGames|SportsMatch|TrafficDelays|WeatherSummary",
+   "muid": "2458D68FE4F26CDA37C1C24BE5DC6D6B",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "velocity": "48064775",
+   "cookie": "_C_Auth=; MUID=2458D68FE4F26CDA37C1C24BE5DC6D6B; MUIDB=3712707DE9D56B56377E64B9E8966A68; _EDGE_V=1; MUID=3712707DE9D56B56377E64B9E8966A68; USRLOC="
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-type": "application/json; charset=utf-8",
+   "content-encoding": "gzip",
+   "x-ceto-origin-forwardonerror": "fabric:/winfeed/OneService",
+   "x-ceto-origin-forwardonerrorstatuscode": "429",
+   "ddd-authenticatedwithjwtflow": "False",
+   "ddd-usertype": "PersonalMicrosoftAccount",
+   "ddd-tmpl": "pr2spotlightnews:1;UserHasActionSignal:1;RecoSource:Sage_;tmpl-boost-1s;tmpl-triggering-prod;winbadge:1;BingRecoCode:Success;click28d_0;eePosList:0;UserCohortByEngagement28d:0;ForYouNotify_Traffic_ForYou;triggercf_5_cfxeverything_0;FCTarget|2|0.42_3|0.16_7|0.41_0|0;RR:0;FCSupply#3|20_2|52_7|51;StableIdCS:A1C4F5995731DFDF615FB1BDFFFFFFFF;ULatLon34.25:108.98;FCRelBarP_0.32;StrongDemotionV2Trigger:0;cptvtn_a-0_sr-0_nw-0_t-0;SageUserStatus:0_0_0_0;v_click_0;WxLockScreen:Weather3DLock_Nowcast;tmpl-rctbrdq:1;com_topic_li_v4:1;ForYouNotify_FilterReason_0;TPUser:1;tmpl-1snonusloc;wxunt:_C;triggercf_2_crossdomain_offcanvas_gnn_v2;tmpl-rctbrid:1;WxCardValid:1;v_MainFeedsColdUser:true;IMArticleNegUser:0;ExplcitFollowCohort:0;numofmutepub:0;UserProfileActionSignal:0;ForYouNotify_Traffic1;click_0;InterestCount:0;AIBrkNews:AA1rhBAI;\"AA1rhu4S\":\"3\"};UTnegImpr;HasPersRecall;tmpl-rctbrld:1;ForYouNotify_TrafficNum_46;tmpl-triggering-shared;v_click28d_0;LTInterests:;FixIds:0;RecoSource:Notification_;XAIG:100_0;IsRecoNewUser:1;triggercf;UserGroupId:3_1_1_2_0_312103_483104;tmpl-cc;PageViewCount0;FCSignal#0|0;wpo-coldstart:1;GEM:C;MyFeed;tmpl-pr2rail:1;tmpl-tmpltlayout;usercrosstera;triggercf_3_ip2i_30d;RelevanceWarmUser;tmpl-boost:1;spotlight:1;MainFeedsColdUser:true;BNDetails_{\"AA1rhBAI\":\"3\";tmpl-523750010:1;wxpkg:1.678.0;usq_text_v9;XAIG:6_0;ClickCohort:0;tmpl-1sboostprong2;BNTrigger_AA1rhBAI;TaggingUserActionSignal;XFeed;TileID:wqj6;SageUser:0;spotlight:1;tmpl-tmpltlayout;tmpl-cc;tmpl-pr2rail:1;tmpl-523750010:1;pr2spotlightnews:1;wpo-coldstart:1;tmpl-boost:1;",
+   "ddd-feednewsitemcount": "40",
+   "x-wpo-activityid": "27654433-A53E-4955-97C0-7347A5CE22AB|2024-09-27T05:17:18.9192523Z|fabric_wpo|EUS-C|WPO_33",
+   "ddd-featureset": "0,Msn.OneDataService.Search.FeatureTracker.Models.NewsFeedFeature:wgAA;",
+   "ddd-activityid": "27654433-a53e-4955-97c0-7347a5ce22ab",
+   "ddd-strategyexecutionlatency": "00:00:00.7683220",
+   "ddd-tmpl-removed": "False",
+   "ddd-debugid": "27654433-a53e-4955-97c0-7347a5ce22ab|2024-09-27T05:17:18.9639485Z|fabric_winfeed|EUS-C|WinFeed_1976",
+   "ddd-auth-features": "AT:MSA;DID:m-2458D68FE4F26CDA37C1C24BE5DC6D6B;IT:App;MsaStateOrigin:LegacyCompactTokenFromHeader;MuidStateOrigin:MuidFromHeader",
+   "onewebservicelatency": "773",
+   "x-msedge-responseinfo": "773",
+   "x-1s-fallbackreason": "RetryOnThrottling",
+   "x-ceto-ref": "66f63fde6c23437b8d29f42e07a744ef|AFD:66f63fde6c23437b8d29f42e07a744ef|2024-09-27T05:17:18.168Z",
+   "accept-ch": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+   "x-msedge-ref": "Ref A: A75623DAA17A4A519955DC7E690AB706 Ref B: SIN30EDGE0121 Ref C: 2024-09-27T05:17:18Z",
+   "expires": "Fri, 27 Sep 2024 05:17:19 GMT",
+   "date": "Fri, 27 Sep 2024 05:17:19 GMT",
+   "set-cookie": "_C_ETH=1; domain=.msn.com; path=/; secure; httponly, _C_Auth=, APP_ANON=A=A1C4F5995731DFDF615FB1BDFFFFFFFF; domain=msn.com; path=/; expires=Wed, 26-Mar-2025 05:17:18 GMT; secure; HttpOnly; samesite=none, aace=%7b%22child%22%3a0%7d; domain=msn.com; path=/; expires=Wed, 26-Mar-2025 05:17:18 GMT; secure; samesite=none, _EDGE_S=SID=37870F49974369A61D6C1A4E96F66841; domain=.msn.com; path=/; httponly",
+   "alt-svc": "h3=\":443\"; ma=93600",
+   "akamai-request-bc": "[a=222.138.6.157,b=40838426,c=g,n=CN_HA_ZHUMADIAN,o=4837],[a=204.79.197.203,c=o]",
+   "server-timing": "clientrtt; dur=41, clienttt; dur=1082, origin; dur=1080, cdntime; dur=2, wpo;dur=35,1s;dur=571",
+   "akamai-cache-status": "NotCacheable from child",
+   "akamai-server-ip": "222.138.6.157",
+   "akamai-request-id": "26f251a",
+   "x-as-suppresssetcookie": "1",
+   "cache-control": "private, max-age=0",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}",
+   "timing-allow-origin": "*",
+   "akamai-grn": "0.9d068ade.1727414238.26f251a",
+   "vary": "Origin"
+  }
+ }
+}

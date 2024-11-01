@@ -1,0 +1,45 @@
+{
+ "request": {
+  "url": "https://img-s.msn.cn/tenant/amp/entityid/AA1mNcez.img?w=16&h=16&q=100&m=6&f=png&u=t",
+  "method": "GET",
+  "headers": {
+   "Host": "img-s.msn.cn",
+   "Connection": "keep-alive",
+   "sec-ch-ua-platform": "\"Windows\"",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\", \"Microsoft Edge WebView2\";v=\"129\"",
+   "sec-ch-ua-mobile": "?0",
+   "Accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+   "Sec-MS-GEC": "5D737B6630217117736FED9B3D4F51938C95AA51FE2652F98F54849B5761EF04",
+   "Sec-MS-GEC-Version": "1-129.0.2792.52",
+   "Sec-Fetch-Site": "same-site",
+   "Sec-Fetch-Mode": "no-cors",
+   "Sec-Fetch-Dest": "image",
+   "Referer": "https://windows.msn.cn/",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+   "Cookie": "USRLOC=; APP_ANON=A=A1C4F5995731DFDF615FB1BDFFFFFFFF; aace=%7b%22child%22%3a0%7d; els=%7b%22account_type%22%3a%22MSA%22%7d; MUID=2458D68FE4F26CDA37C1C24BE5DC6D6B; _EDGE_S=SID=287D09C39DCE673A05841CC69C346683; _clck=1euvwin%7C2%7Cfph%7C0%7C1665",
+   "If-Modified-Since": "Tue, 10 Sep 2024 02:51:22 GMT"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Access-Control-Allow-Origin": "*",
+   "Last-Modified": "Sat, 21 Sep 2024 10:23:37 GMT",
+   "X-Datacenter": "eastus",
+   "X-ActivityId": "55d9fc83-8c9e-4951-a3e3-1896ba1ab37b",
+   "Timing-Allow-Origin": "*",
+   "X-Frame-Options": "DENY",
+   "X-ResizerVersion": "1.0",
+   "Content-Type": "image/png",
+   "Content-Location": "https://img.s-msn.com/tenant/amp/entityid/AA1mNcez?w=16&h=16&q=100&m=6&f=png&u=t",
+   "X-Source-Length": "908",
+   "Content-Length": "1798",
+   "Cache-Control": "public, max-age=320841",
+   "Expires": "Mon, 30 Sep 2024 22:24:45 GMT",
+   "Date": "Fri, 27 Sep 2024 05:17:24 GMT",
+   "Connection": "keep-alive"
+  }
+ }
+}

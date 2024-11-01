@@ -1,0 +1,45 @@
+{
+ "request": {
+  "url": "https://wx.qlogo.cn/mmhead/Q3auHgzwzM4r6BdYvN5fMmdvk8icdNSpYzzXU10GJLPCC84zs5MDfow/0?v=0.02066305983731853",
+  "method": "GET",
+  "headers": {
+   "Host": "wx.qlogo.cn",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Origin": "https://mp.weixin.qq.com",
+   "Referer": "https://mp.weixin.qq.com/",
+   "Connection": "keep-alive",
+   "Sec-Fetch-Dest": "image",
+   "Sec-Fetch-Mode": "cors",
+   "Sec-Fetch-Site": "cross-site",
+   "Priority": "u=5, i",
+   "Cache-Control": "max-age=0"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Server": "ImgHttp3.0.0",
+   "Connection": "keep-alive",
+   "Vary": "Origin",
+   "Content-Type": "image/jpeg",
+   "Content-Length": "80016",
+   "Last-Modified": "Sat, 12 Aug 2023 17:54:24 GMT",
+   "Cache-Control": "max-age=2592000",
+   "X-Delay": "28500 us",
+   "X-Info": "real data",
+   "Size": "80016",
+   "chid": "0",
+   "fid": "0",
+   "X-Time": "1691834064",
+   "X-TaskId": "1727414265_824991731",
+   "X-RtFlag": "0",
+   "Access-Control-Allow-Methods": "GET,POST,OPTIONS",
+   "Timing-Allow-Origin": "*",
+   "Access-Control-Allow-Origin": "*",
+   "Access-Control-Max-Age": "2592000"
+  }
+ }
+}

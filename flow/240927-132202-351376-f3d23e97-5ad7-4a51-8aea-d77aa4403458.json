@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "https://self.events.data.microsoft.com/OneCollector/1.0/",
+  "method": "POST",
+  "headers": {
+   "Accept": "*/*",
+   "APIKey": "5476d0c4a7a347909c4b8a13078d4390-f8bdcecf-243f-40f8-b7c3-b9c44a57dead-7230",
+   "Client-Id": "NO_AUTH",
+   "Content-Encoding": "deflate",
+   "Content-Type": "application/bond-compact-binary",
+   "SDK-Version": "EVT-Windows-C++-No-3.4.276.7",
+   "Upload-Time": "1727414522104",
+   "Host": "self.events.data.microsoft.com",
+   "Content-Length": "5152",
+   "Connection": "Keep-Alive",
+   "Cache-Control": "no-cache"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Content-Length": "9",
+   "Content-Type": "application/json",
+   "Server": "Microsoft-HTTPAPI/2.0",
+   "Strict-Transport-Security": "max-age=31536000",
+   "time-delta-millis": "-2176",
+   "Access-Control-Allow-Headers": "time-delta-millis",
+   "Access-Control-Allow-Methods": "POST",
+   "Access-Control-Allow-Credentials": "true",
+   "Access-Control-Allow-Origin": "*",
+   "Access-Control-Expose-Headers": "time-delta-millis",
+   "Date": "Fri, 27 Sep 2024 05:21:59 GMT"
+  }
+ }
+}

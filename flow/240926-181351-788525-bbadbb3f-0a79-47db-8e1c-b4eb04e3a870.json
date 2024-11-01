@@ -1,0 +1,37 @@
+{
+ "request": {
+  "url": "https://assets.codehub.cn/micro-frontend/projects/monkit~projects-1b04647d9c.js",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "origin": "https://taimuer.coding.net",
+   "referer": "https://taimuer.coding.net/",
+   "sec-fetch-dest": "script",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Mon, 15 Jul 2024 07:48:05 GMT",
+   "content-encoding": "gzip",
+   "etag": "\"ed6afbbd4a21a1c1821dbb849bbe4697\"",
+   "content-type": "application/javascript",
+   "cache-control": "max-age=2592000",
+   "age": "746982",
+   "content-length": "312093",
+   "accept-ranges": "bytes",
+   "x-nws-log-uuid": "17318120533710019107",
+   "server": "Lego Server",
+   "date": "Thu, 26 Sep 2024 10:13:49 GMT",
+   "x-cache-lookup": "Cache Hit",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "GET"
+  }
+ }
+}

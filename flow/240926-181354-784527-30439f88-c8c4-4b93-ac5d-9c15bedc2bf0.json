@@ -1,0 +1,34 @@
+{
+ "request": {
+  "url": "https://assets.codehub.cn/micro-frontend/vcs/css/common-git-tree-components.d5798b8e.chunk.css",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "text/css,*/*;q=0.1",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "origin": "https://taimuer.coding.net",
+   "referer": "https://taimuer.coding.net/",
+   "sec-fetch-dest": "style",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "if-modified-since": "Tue, 27 Aug 2024 08:59:50 GMT",
+   "if-none-match": "\"a36c662e0f31dad440aa5c92d3002c2c\"",
+   "priority": "u=2",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "etag": "\"a36c662e0f31dad440aa5c92d3002c2c\"",
+   "content-type": "text/css",
+   "x-nws-log-uuid": "10305212720896545173",
+   "server": "Lego Server",
+   "date": "Thu, 26 Sep 2024 10:13:53 GMT",
+   "x-cache-lookup": "Cache Hit",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "GET"
+  }
+ }
+}

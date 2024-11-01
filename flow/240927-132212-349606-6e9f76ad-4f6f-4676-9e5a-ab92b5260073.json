@@ -1,0 +1,27 @@
+{
+ "request": {
+  "url": "https://oneclient.sfx.ms/PreSignInSettings/Prod/2024-09-26-22-45-18/PreSignInSettingsConfig.json?OneDriveUpdate=1b6c3fd142f6b7267b30cb8064b0",
+  "method": "GET",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "Accept-Encoding": "identity",
+   "If-Unmodified-Since": "Thu, 26 Sep 2024 22:45:18 GMT",
+   "User-Agent": "Microsoft BITS/7.8",
+   "Host": "oneclient.sfx.ms"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Accept-Ranges": "bytes",
+   "Content-Type": "application/json",
+   "ETag": "\"860e42871c30bb3e585250f81b8b3739:1727390719.507294\"",
+   "Last-Modified": "Thu, 26 Sep 2024 22:45:18 GMT",
+   "Server": "AkamaiNetStorage",
+   "Content-Length": "85134",
+   "Date": "Fri, 27 Sep 2024 05:22:09 GMT",
+   "Connection": "keep-alive"
+  }
+ }
+}

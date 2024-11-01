@@ -1,0 +1,31 @@
+{
+ "request": {
+  "url": "https://graph.microsoft.com/beta/me/settings/storage/quota?$expand=services($orderby=used+desc)",
+  "method": "GET",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "Accept": "application/json",
+   "Accept-Language": "en-US",
+   "Authorization": "Bearer EwB4A8l6BAAUbDba3x2OMJElkF7gJ4z/VbCPEz0AAVBv/JxmdI6VsB43CSH5YKkfvbZLyRJtXo79NuT+5anzncJSTsIWbndp/3YeLE+JR3lvZm5/ANxxQehPj7z5iSb0/qPb32PRzU/LI1CdwQdnIuiCdJMzEF/fqMDmQcrDWRQRFe9sGRJhFaqZFw5d2wv9cHFq1dZQaTr2J3SfU9sN4kbgfqoAsf3Tb6REcQT+wTSkuBhyI153dxy4t78AkgGQrIBq1z1QTWhyZ4Hmx/C3PEwhrpBc5XnheG8M7xjM7zLxlMMkz3XhCVLx1Dh9bxrF8lG++CAW8aG/9j1v4U7bSZFq2n9MpQc1zzZVoOy0kFJG4GzI+YrmKZSUNn8XcSYQZgAAELEmQtHjbEHpzS/s69z0uUxAAgXVywKFnNv6qWVYJ7y6rPmWe+7+gnenVdM2DFhMc/8tzFXCIphjHPRa+f1A4s9Ts81uYnrEsgop8OswAtQbtJWsm9hLPnKBDGfwOr18TzjYwkhtVUJbn54Wkc0UTlP6GH2aTHvG0CX2iRmRZ2QJFBicNnNgY1a68DrmwxO5Ff3H2MpcMeb2q97jT4l93Hx1PLaGOh3WYEr7wVOJTKlcdOyoZOPqJm4jT/y/eJ/bG7z99Ftkk7TmPhj0uzq/zs+EGdGIzL49ZkDA9fJeH+jfYzg5vJ070pvoyAI6sQzQHYRXkZYuAu9ruSgPLQpULifLZxqJBBiumQMXk+ppcmOJY+plYciMkZUI7zq41CeS5TNdaqTLmKGDJjwS/ZYVpx6GA5240y1ZCI0noS+XhtG0t24bIJ9uHEOnHemmZAVpNTZDkcGfYLZRveKTWERSIGdMzltcVAfuf0nmWvJHtVvIVn5Q+E/1x1Nxofa5h0BnrpAbyw+QwUrXksPhFSVAUKlj2Te38MhxX66frsK4bf1U8Y1th131xZis9um0+joAABBmaIqSOKQ7x3GUpXci9SMosHBXB7Zfn9Fu3sBFt7kAYBE0BSua4R5YG6Rohju2oGNQOLX9ekKkmuLkyGZ/t/aLS2Pam+MjfbwkfUPFcFU1Q+TzS7Fics1xal0kgACekEeqOTyCWUxT1sTyYTnJACejs90a5tAORnrQja405Z6pQ+NG3f940SeqJrIbjuJMaaHOIlqSVmkih50tOOox7aIqi1MC",
+   "User-Agent": "Microsoft SkyDriveSync 24.171.0825.0002 ship; Windows NT 10.0 (22631)",
+   "Host": "graph.microsoft.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Cache-Control": "no-store",
+   "Transfer-Encoding": "chunked",
+   "Content-Type": "application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8",
+   "Strict-Transport-Security": "max-age=31536000",
+   "request-id": "b792157e-538c-4767-82fc-084b4c4296f2",
+   "client-request-id": "b792157e-538c-4767-82fc-084b4c4296f2",
+   "x-ms-ags-diagnostic": "{\"ServerInfo\":{\"DataCenter\":\"Korea Central\",\"Slice\":\"E\",\"Ring\":\"4\",\"ScaleUnit\":\"002\",\"RoleInstance\":\"SE1PEPF00000823\"}}",
+   "Link": "<https://developer.microsoft-tst.com/en-us/graph/changes?$filterby=beta,PrivatePreview:copilotExportAPI&from=2024-07-01&to=2024-08-01>;rel=\"deprecation\";type=\"text/html\"",
+   "Deprecation": "Tue, 02 Jul 2024 23:59:59 GMT",
+   "Sunset": "Thu, 02 Jul 2026 23:59:59 GMT",
+   "OData-Version": "4.0",
+   "Date": "Thu, 26 Sep 2024 09:05:37 GMT"
+  }
+ }
+}

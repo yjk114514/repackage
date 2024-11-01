@@ -1,0 +1,45 @@
+{
+ "request": {
+  "url": "https://assets.msn.com/service/msn/livetile/singletile?market=zh-CN&source=appxmanifest&tenant=amp&vertical=news",
+  "method": "GET",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "User-Agent": "Microsoft-WNS/10.0",
+   "Host": "assets.msn.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Content-Type": "text/xml; charset=utf-8",
+   "DDD-AuthenticatedWithJwtFlow": "False",
+   "DDD-UserType": "Unknown",
+   "DDD-ActivityId": "274a4cf1-351a-40aa-a659-30150c3c10f0",
+   "DDD-StrategyExecutionLatency": "00:00:00.0197932",
+   "DDD-TMPL-Removed": "False",
+   "DDD-DebugId": "274a4cf1-351a-40aa-a659-30150c3c10f0|2024-09-26T10:19:12.0214246Z|fabric_msn|NEU-A|News_432",
+   "DDD-Auth-Features": "AT:NA;IT:Unknown",
+   "OneWebServiceLatency": "22",
+   "X-MSEdge-ResponseInfo": "22",
+   "X-Ceto-ref": "66f5352076cb47f09a5d894fc06b9e09|AFD:66f5352076cb47f09a5d894fc06b9e09|2024-09-26T10:19:12.018Z",
+   "Accept-CH": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+   "X-MSEdge-Ref": "Ref A: 135AD933C2764AD98F8F3A9C12D03795 Ref B: DUS30EDGE0817 Ref C: 2024-09-26T10:19:12Z",
+   "Date": "Thu, 26 Sep 2024 10:23:17 GMT",
+   "Content-Length": "1078",
+   "Connection": "keep-alive",
+   "Alt-Svc": "h3=\":443\"; ma=86400",
+   "Akamai-Request-BC": "[a=23.62.61.135,b=34009928,c=g,n=NL__SCHIPHOL,o=20940]",
+   "Server-Timing": "clientrtt; dur=187, clienttt; dur=1, origin; dur=0, cdntime; dur=1, wpo;dur=0,1s;dur=0",
+   "Akamai-Cache-Status": "Hit from child",
+   "Akamai-Server-IP": "23.62.61.135",
+   "Akamai-Request-ID": "206f348",
+   "X-AS-SuppressSetCookie": "1",
+   "Cache-Control": "public, max-age=300",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}",
+   "Timing-Allow-Origin": "*",
+   "Akamai-GRN": "0.873d3e17.1727346197.206f348",
+   "Vary": "Origin"
+  }
+ }
+}

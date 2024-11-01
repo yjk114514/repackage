@@ -1,0 +1,34 @@
+{
+ "request": {
+  "url": "https://incoming.telemetry.mozilla.org/submit/telemetry/3366f820-ee0b-4e16-80c7-87fb5264d5e9/sync/Firefox/130.0.1/release/20240913135723?v=4",
+  "method": "POST",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "content-type": "application/json; charset=UTF-8",
+   "date": "Fri, 27 Sep 2024 05:17:58 GMT",
+   "content-encoding": "gzip",
+   "content-length": "795",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "server": "openresty",
+   "date": "Fri, 27 Sep 2024 05:17:56 GMT",
+   "content-type": "text/plain; charset=utf-8",
+   "vary": "Accept-Encoding",
+   "strict-transport-security": "max-age=31536000",
+   "x-frame-options": "DENY",
+   "access-control-allow-methods": "GET, POST, PUT, OPTIONS",
+   "access-control-max-age": "1728000",
+   "access-control-allow-headers": "Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent",
+   "content-encoding": "gzip",
+   "via": "1.1 google",
+   "alt-svc": "clear"
+  }
+ }
+}

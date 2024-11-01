@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2024-10-28-16-16-00.chain",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "x-amz-id-2": "a2ZiJi/hP2uO6Hl2FpSN5/asZVWy6Wrk87yn4YpJdWwrJ1isWCg4ZwKscEEZ0dk+paAZ6Vlbd6oWF1ZGkDtYcw==",
+   "x-amz-request-id": "B84DAXWWN90MS3X6",
+   "x-amz-server-side-encryption": "AES256",
+   "content-disposition": "attachment",
+   "accept-ranges": "bytes",
+   "server": "AmazonS3",
+   "content-length": "5352",
+   "via": "1.1 google",
+   "date": "Fri, 27 Sep 2024 04:40:34 GMT",
+   "age": "2213",
+   "last-modified": "Sun, 08 Sep 2024 16:16:01 GMT",
+   "etag": "\"8ac4ad6a30aefbf5c27f40661532547a\"",
+   "content-type": "binary/octet-stream",
+   "cache-control": "public,max-age=3600",
+   "alt-svc": "clear"
+  }
+ }
+}

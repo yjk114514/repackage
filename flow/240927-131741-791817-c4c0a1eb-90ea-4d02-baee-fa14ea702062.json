@@ -1,0 +1,37 @@
+{
+ "request": {
+  "url": "https://tpstelemetry.tencent.com/v1/metrics",
+  "method": "POST",
+  "headers": {
+   "content-length": "1343",
+   "accept": "*/*",
+   "accept-encoding": "gzip, deflate, br",
+   "accept-language": "zh-CN",
+   "content-type": "application/json",
+   "origin": "app://.",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) QQ/9.9.12-25765 Chrome/126.0.6478.36 Electron/31.0.1 Safari/537.36 OS/win32,x64,10.0.22631,Windows 11 Home China",
+   "x-tps-tenantid": "qq",
+   "referer": "",
+   "sec-ch-ua": "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\"",
+   "sec-ch-ua-mobile": "?0",
+   "sec-ch-ua-platform": "\"Windows\"",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Fri, 27 Sep 2024 05:17:39 GMT",
+   "content-type": "application/json",
+   "content-length": "2",
+   "access-control-allow-credentials": "true",
+   "access-control-allow-origin": "*",
+   "vary": "Origin",
+   "x-envoy-upstream-service-time": "2",
+   "server": "envoy"
+  }
+ }
+}

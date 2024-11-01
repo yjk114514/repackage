@@ -1,0 +1,34 @@
+{
+ "request": {
+  "url": "https://hm.baidu.com/hm.gif?hca=DAB7D867AE161D5C&cc=1&ck=1&cl=24-bit&ds=1707x1067&vl=934&ep=10743%2C10743&et=3&ja=0&ln=zh-cn&lo=0&rnd=284736372&si=ace7c8d54625851fd5b5ff3d33d0d7e2&v=1.3.2&lv=1&sn=42803&r=0&ww=1706&u=http%3A%2F%2Fjob.xjtu.edu.cn%2Fxsfw%2Fsys%2Femaphome%2Fwebsite%2Findex.html",
+  "method": "GET",
+  "headers": {
+   "Host": "hm.baidu.com",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Connection": "keep-alive",
+   "Referer": "http://job.xjtu.edu.cn/",
+   "Sec-Fetch-Dest": "image",
+   "Sec-Fetch-Mode": "no-cors",
+   "Sec-Fetch-Site": "cross-site",
+   "Priority": "u=6, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Cache-Control": "private, max-age=0, no-cache",
+   "Content-Length": "43",
+   "Content-Type": "image/gif",
+   "Date": "Fri, 27 Sep 2024 05:19:02 GMT",
+   "P3p": "CP=\"CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"",
+   "Pragma": "no-cache",
+   "Server": "apache",
+   "Set-Cookie": "HMACCOUNT=5A45131C315548DF; Path=/; Domain=hm.baidu.com; Expires=Sun, 18 Jan 2038 00:00:00 GMT, BAIDUID=4EA7FE43F0A5AD6D0E5885ACAE9680EC:FG=1; Path=/; Domain=baidu.com; Max-Age=31536000, BAIDUID_BFESS=4EA7FE43F0A5AD6D0E5885ACAE9680EC:FG=1; Path=/; Domain=baidu.com; Max-Age=31536000; Secure; SameSite=None",
+   "Strict-Transport-Security": "max-age=172800",
+   "X-Content-Type-Options": "nosniff"
+  }
+ }
+}

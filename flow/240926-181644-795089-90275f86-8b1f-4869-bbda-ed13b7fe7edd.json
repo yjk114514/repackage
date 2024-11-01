@@ -1,0 +1,30 @@
+{
+ "request": {
+  "url": "http://clientservices.googleapis.com/uma/v2",
+  "method": "POST",
+  "headers": {
+   "Host": "clientservices.googleapis.com",
+   "Proxy-Connection": "keep-alive",
+   "Content-Length": "34356",
+   "X-Chrome-UMA-Log-SHA1": "CkjpwteB0GrZctcstDIuKJ7dekCAMQ6umXBl888pGBCB1x3vPBJKObYDQq6ibcdMk+zyHUeixqaolcpdiJQRS2PyGIsHehUcQ2kQARogS4/KIYMkTgnHsf9pM1Jul81sBakI294OvH8an4m6dCcgAQ==",
+   "X-Chrome-UMA-Log-HMAC-SHA256": "Ckzaxp4R22YUZPOJHcnav0p9E4fNO+RMnYu9Zb3BgcSvOog8barpfyiVpB0iyC6W62DP5QccsSTmXhC3UOKk28cH4W2DqxTp9DdO5gDxEAEaIDIBvI+2WHzITFdYKM+TBryhGA3EMfX8I5YpVeI0YgkeIAE=",
+   "X-Chrome-UMA-ReportingInfo": "CjjHVHjkGYb/TSHF94+8YTv/IudNHUbPrUQVlswPggCrgykDUs/yW2gfYEl+O+xnPR2G+RzEKhZQ4RABGiBVB7BTwT8viZsumn0ptzamLq/uG7+1JnduNPg4xS1ObSAB",
+   "Content-Type": "application/vnd.chrome.uma",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+   "Accept-Encoding": "gzip, deflate"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Content-Type": "text/plain; charset=UTF-8",
+   "Content-Encoding": "gzip",
+   "Date": "Thu, 26 Sep 2024 10:16:43 GMT",
+   "Server": "scaffolding on HTTPServer2",
+   "Cache-Control": "private",
+   "Content-Length": "22",
+   "X-XSS-Protection": "0",
+   "X-Frame-Options": "SAMEORIGIN"
+  }
+ }
+}

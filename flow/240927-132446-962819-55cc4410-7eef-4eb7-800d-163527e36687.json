@@ -1,0 +1,31 @@
+{
+ "request": {
+  "url": "https://job.xjtu.edu.cn/xsfw/sys/swpubapp/sqszpubjs/apply/apply_fj.js",
+  "method": "GET",
+  "headers": {
+   "Host": "job.xjtu.edu.cn",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Connection": "keep-alive",
+   "Referer": "https://job.xjtu.edu.cn/xsfw/sys/jytjbapp/*default/index.do?EMAP_LANG=zh",
+   "Cookie": "_WEU=tKcpB045ny6alOfruRRdlgoqdgsFR3csf0yMPNr5trYXTs7aKJJe18sDxlpkBCvkxxI3dFA7ziFx39ACADTzM_644CNgNzPMVzxUJ9nl6gEFC9X97cG0*9ikhds5eoBNOQ6ZkXkCOFG6n5NOE3cKC6mEFRV3SDqKKJJH*nFKnoIKOnf_K7rsdMLr4J3LNRc5G4atwHZ5*gVTwZmJa*3*HEIW5lmtX09Fd4vfMNg4yfpHEYl_QekcnFdbLMVYp2cBr0kfdZqq0RD4umPfzhGzBhCdDZejiFgBDVdrBPF5lKlEGZpXk5iCtpLFi37VeRyPFrZvBgV8LZsjYpN3oEDe58pQqZAy4LfkAgjaruz6M3W9FPI2kfW4ab2sWRUZ_StJ3v003_LB3dP.; EMAP_LANG=zh; route=3a9f91d8afee7032c27f145bd2e3ae5d; Hm_lvt_ace7c8d54625851fd5b5ff3d33d0d7e2=1727414333; Hm_lpvt_ace7c8d54625851fd5b5ff3d33d0d7e2=1727414363; HMACCOUNT=DAB7D867AE161D5C; JSESSIONID=NU4x66vjFMmuzbmk_ENjo_57vgtfnwWbIhM2hfviB7jQiU0S53IF!838871852",
+   "Sec-Fetch-Dest": "script",
+   "Sec-Fetch-Mode": "no-cors",
+   "Sec-Fetch-Site": "same-origin",
+   "Priority": "u=2"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Date": "Fri, 27 Sep 2024 04:30:32 GMT",
+   "Content-Type": "application/stream",
+   "Content-Length": "2072",
+   "Connection": "keep-alive",
+   "Server": "openresty/1.11.2.5",
+   "Last-Modified": "Tue, 24 Oct 2023 14:56:45 GMT"
+  }
+ }
+}

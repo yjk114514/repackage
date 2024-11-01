@@ -1,0 +1,38 @@
+{
+ "request": {
+  "url": "https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id={036a55b4-5e72-4d05-a06c-cba2dfcc134a}&version=10.0.1.1&maxAppVersion=*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=130.0.1&appOS=WINNT&appABI=x86_64-msvc&locale=zh-CN&currentAppVersion=130.0.1&updateType=112&compatMode=normal",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "pragma": "no-cache",
+   "cache-control": "no-cache",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "server": "openresty",
+   "content-length": "391",
+   "x-amo-request-id": "d1e558740f0f4fbd8c9008b9f7948f4f",
+   "content-security-policy": "style-src 'unsafe-inline' https://addons.mozilla.org/static-server/; object-src 'none'; img-src 'self' blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; child-src https://www.recaptcha.net/recaptcha/; frame-src https://www.recaptcha.net/recaptcha/; media-src https://videos.cdn.mozilla.net; default-src 'none'; form-action 'self'; script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; font-src 'self' https://addons.mozilla.org/static-server/; report-uri /__cspreport__",
+   "x-frame-options": "DENY",
+   "x-content-type-options": "nosniff",
+   "referrer-policy": "same-origin",
+   "cross-origin-opener-policy": "same-origin",
+   "content-encoding": "gzip",
+   "via": "1.1 google, 1.1 google",
+   "date": "Thu, 26 Sep 2024 09:57:35 GMT",
+   "cache-control": "max-age=3600",
+   "age": "1834",
+   "etag": "W/\"5aee5d3b872c9f25fa78949c768bfce2\"",
+   "content-type": "application/json",
+   "vary": "Accept-Encoding",
+   "x-cache-status": "hit",
+   "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+  }
+ }
+}

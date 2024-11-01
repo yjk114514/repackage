@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "https://org.xjtu.edu.cn/openplatform/oauth/auth/getRedirectUrl?userType=1&personNo=2216113205&_=1727414383345",
+  "method": "GET",
+  "headers": {
+   "Host": "org.xjtu.edu.cn",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Content-Type": "application/json;charset=utf-8",
+   "Connection": "keep-alive",
+   "Referer": "https://org.xjtu.edu.cn/openplatform/login.html",
+   "Cookie": "route=7ee49a7421c3f563a7b57a532bfd53bb; cur_appId_=pGDEpg0VBXg=; state=xjdCas; JSESSIONID=A7C5CF48A3E0FC6F0D13D09E884E0773; sid_code=workbench_login_jcaptcha_A7C5CF48A3E0FC6F0D13D09E884E0773; open_Platform_User=user_token_6fd0fb7f-e2ff-4295-9a2d-ef5c84611f10; memberId=875427",
+   "Sec-Fetch-Dest": "empty",
+   "Sec-Fetch-Mode": "cors",
+   "Sec-Fetch-Site": "same-origin"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Server": "nginx",
+   "Date": "Fri, 27 Sep 2024 05:19:41 GMT",
+   "Content-Type": "application/json;charset=UTF-8",
+   "Transfer-Encoding": "chunked",
+   "Connection": "keep-alive",
+   "Access-Control-Allow-Origin": "*",
+   "Access-Control-Allow-Methods": "POST, GET,OPTIONS",
+   "Access-Control-Max-Age": "3600",
+   "Access-Control-Allow-Headers": "x-requested-with, content-type, accept, origin, X-Toon-User-ID, X-Toon-User-Token, X-Toon-User-Agent,sessionId",
+   "Set-Cookie": "usertypekey=1; Domain=org.xjtu.edu.cn; Path=/, employeenokey=2216113205; Domain=org.xjtu.edu.cn; Path=/"
+  }
+ }
+}

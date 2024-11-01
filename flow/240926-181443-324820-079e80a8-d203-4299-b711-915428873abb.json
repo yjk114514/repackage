@@ -1,0 +1,28 @@
+{
+ "request": {
+  "url": "https://edge.microsoft.com/entityextractiontemplates/api/v1/assets/find-assets?name=addressbar_uu_files.zh-cn&version=1.*.*&channel=stable&key=d414dd4f9db345fa8003e32adc81b362",
+  "method": "GET",
+  "headers": {
+   "edge-asset-group": "AddressBar",
+   "sec-fetch-site": "none",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-dest": "empty",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+   "priority": "u=4, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "cache-control": "public, max-age=3600",
+   "content-length": "262",
+   "content-type": "application/json; charset=utf-8",
+   "x-cache": "TCP_HIT",
+   "x-frame-options": "sameorigin",
+   "x-msedge-ref": "Ref A: 4A17608366394D728D35C58B96DB137E Ref B: TYBEDGE0507 Ref C: 2024-09-26T10:14:42Z",
+   "date": "Thu, 26 Sep 2024 10:14:42 GMT"
+  }
+ }
+}

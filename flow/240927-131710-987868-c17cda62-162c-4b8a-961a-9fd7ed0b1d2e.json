@@ -1,0 +1,34 @@
+{
+ "request": {
+  "url": "https://login.live.com/RST2.srf",
+  "method": "POST",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "Content-Type": "application/soap+xml",
+   "Accept": "*/*",
+   "User-Agent": "MSAWindows/45 (OS 10.0.22631.0.0 ni_release; IDK 10.0.22621.1 ; Cfg 16.000.29325.00; Test 0)",
+   "Content-Length": "6815",
+   "Host": "login.live.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Cache-Control": "no-store, no-cache",
+   "Pragma": "no-cache",
+   "Content-Type": "application/soap+xml; charset=utf-8",
+   "Expires": "Fri, 27 Sep 2024 05:16:08 GMT",
+   "P3P": "CP=\"DSP CUR OTPi IND OTRi ONL FIN\"",
+   "Referrer-Policy": "strict-origin-when-cross-origin",
+   "x-ms-route-info": "C524_SN1",
+   "x-ms-request-id": "a28444c0-1875-49a5-9b5f-4f22310e0831",
+   "PPServer": "PPV: 30 H: SN1PEPF0002F169 V: 0",
+   "X-Content-Type-Options": "nosniff",
+   "Strict-Transport-Security": "max-age=31536000",
+   "X-XSS-Protection": "1; mode=block",
+   "Date": "Fri, 27 Sep 2024 05:17:07 GMT",
+   "Connection": "close",
+   "Content-Length": "19453"
+  }
+ }
+}

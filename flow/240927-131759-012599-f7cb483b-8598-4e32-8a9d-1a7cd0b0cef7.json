@@ -1,0 +1,31 @@
+{
+ "request": {
+  "url": "http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/disallowedcertstl.cab?d7fbd9027e6ab870",
+  "method": "GET",
+  "headers": {
+   "Proxy-Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "User-Agent": "Microsoft-CryptoAPI/10.0",
+   "Host": "ctldl.windowsupdate.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Last-Modified": "Tue, 26 Sep 2023 18:01:51 GMT",
+   "Etag": "\"746787a3f0d91:0\"",
+   "Content-Type": "application/vnd.ms-cab-compressed",
+   "Date": "Tue, 10 Sep 2024 02:26:42 GMT",
+   "Age": "5397",
+   "Server": "Lego Server",
+   "Cache-Control": "public, max-age=900",
+   "Content-Length": "4770",
+   "Accept-Ranges": "bytes",
+   "X-NWS-LOG-UUID": "4727383355944223393",
+   "Connection": "keep-alive",
+   "X-Cache-Lookup": "Cache Hit",
+   "X-CID": "15",
+   "X-CCC": "CN"
+  }
+ }
+}

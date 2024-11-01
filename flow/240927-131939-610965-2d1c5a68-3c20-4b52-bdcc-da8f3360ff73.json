@@ -1,0 +1,36 @@
+{
+ "request": {
+  "url": "https://org.xjtu.edu.cn/openplatform/oauth/authorize?appId=1449&redirectUri=https://job.xjtu.edu.cn/xsfw/sys/emaphome/portal/index.do&responseType=code&scope=user_info&state=1234",
+  "method": "GET",
+  "headers": {
+   "Host": "org.xjtu.edu.cn",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Referer": "http://job.xjtu.edu.cn/",
+   "Connection": "keep-alive",
+   "Upgrade-Insecure-Requests": "1",
+   "Sec-Fetch-Dest": "document",
+   "Sec-Fetch-Mode": "navigate",
+   "Sec-Fetch-Site": "cross-site",
+   "Sec-Fetch-User": "?1",
+   "Priority": "u=0, i"
+  }
+ },
+ "response": {
+  "status_code": 302,
+  "headers": {
+   "Server": "nginx",
+   "Date": "Fri, 27 Sep 2024 05:19:37 GMT",
+   "Content-Length": "0",
+   "Connection": "keep-alive",
+   "Set-Cookie": "route=7ee49a7421c3f563a7b57a532bfd53bb; Expires=Fri, 27-Sep-2024 06:19:37 GMT; Path=/, statesuccess=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Domain=org.xjtu.edu.cn; Path=/, app_info_urla=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Domain=org.xjtu.edu.cn; Path=/, cur_appId_=pGDEpg0VBXg=; Domain=org.xjtu.edu.cn; Path=/, state=xjdCas; Domain=org.xjtu.edu.cn; Path=/",
+   "Access-Control-Allow-Origin": "*",
+   "Access-Control-Allow-Methods": "POST, GET,OPTIONS",
+   "Access-Control-Max-Age": "3600",
+   "Access-Control-Allow-Headers": "x-requested-with, content-type, accept, origin, X-Toon-User-ID, X-Toon-User-Token, X-Toon-User-Agent,sessionId",
+   "Location": "https://org.xjtu.edu.cn/openplatform/login.html"
+  }
+ }
+}

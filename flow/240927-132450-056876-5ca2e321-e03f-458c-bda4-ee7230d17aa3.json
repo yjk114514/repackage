@@ -1,0 +1,31 @@
+{
+ "request": {
+  "url": "http://pcsdtest5.lenovo.com.cn/api/v2/upgrade/client",
+  "method": "POST",
+  "headers": {
+   "Accept": "*/*",
+   "Host": "pcsdtest5.lenovo.com.cn",
+   "Authorization": "Bearer",
+   "L-App-Name": "smart-pc",
+   "Content-Length": "405",
+   "Content-Type": "application/json",
+   "User-Agent": "PC-WIN7",
+   "Proxy-Connection": "Keep-Alive",
+   "Pragma": "no-cache"
+  }
+ },
+ "response": {
+  "status_code": 400,
+  "headers": {
+   "Date": "Fri, 27 Sep 2024 05:24:47 GMT",
+   "Content-Length": "10",
+   "Connection": "keep-alive",
+   "X-Powered-By": "Express",
+   "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+   "X-Content-Type-Options": "nosniff",
+   "Content-Security-Policy": "default-src https: pcm: wss: data: 'unsafe-inline' 'unsafe-eval'",
+   "X-Xss-Protection": "1; mode=block",
+   "X-Ser": "BC212_dx-lt-yd-jiangsu-huaian-8-cache-2, BC17_lt-guizhou-guiyang-9-cache-1"
+  }
+ }
+}

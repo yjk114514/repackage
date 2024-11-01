@@ -1,0 +1,29 @@
+{
+ "request": {
+  "url": "https://licensing.mp.microsoft.com/v7.0/licenses/content",
+  "method": "POST",
+  "headers": {
+   "content-type": "application/json; charset=utf-8",
+   "authorization": "t=EwCoBF8iAQAU83yqpqqR54GevzgBeOaUQZ3Kf9cAAQF0Q5alKfZl2WwZQmU9bZuP8l42cd0Ud5Bh80aMqjTKPmwP3eW0UP/QVhrT6acRKpxazXDZFlXr3yLS/FtJ9Gr8IfBkLp+aNXHKb7kyGznRYlezp8dhzpPJPLKaZ38ekMeAoiIGebwA9cL80m56UrNH99e/yyBx6GoqPn3rHj+uJ72MOcymZ1iY/KiT9CQjzkxeCUV7VsBJ3346RNohCE6p4hEwKy6Tzjg83yNFbivsQsMiR1IpmJqkl97UfvsjpYpHgENYC7kOhxPjnLSRSL11yaGcuhuQ2Tb1TesxEeP9UXp/loIhS0M4cUv5hkqibYJSgRYEve8rrYpObDOqoCcQZgAAEBa5l1xpySu8ntiO4ldIe+hwA98HpezITfd2QFUpkH938AlBBKzPBougmNxvENZD66tjimKzPBpDpgJGcByy7fVpkCLFE0Feo9xu1MXg7Lvk3N2DTVOqc4xhjpjo+uXJcCCY1moVbmk2DTwjDER7XlnKqApwz+bgloQbbt9WQP8dFarLAY53jwjx+fm7l/1N9t8MqX4XQaXtMUxIpzFtG9Q71sL9SiUYooKwxqa90iQpvUUahQy2iJC8bvCsCZNoI5dyAHMFhk1KE1kYhJN9zPZTqqM/Fhbzp3HoKf0piSvBlS3sie8z4QvxN5ED6JUED1xkpW2ioNloK+tdLlheJnmxMkgatlKszq8tSVR5xIMUB6txlijA7PD2DH7zI7x+Qn0bd8TRxSeWcQNMnbM+KqipaHIajORkLc0yZmiLzoyr6fsywmVIgAq6YenO1HC+OOpr3A3b3zwwX0RgTRX9uKGaKsAcLIgy/gpIuCLuJol5hMrUS5IamWuvCGNMpWtK/OnrFpdzG65v+0EdYE57aR6XSc/Loue5y3z1Y2OcSfdcd6s2VhOgM+wym9BOtS1IZM1MSsYYB7Pd2bqtccELrEgPf8T6G7n8OGpkI+aKk1bjNMtI55bvk8agED93xe9+94W4n9gExi80/0KG6IG4BJUT9NH50WLns9Q8Y34Io88y18aqWawirTHhs59j54+av7xbLLcAJ3YOh8pAJDj5Xk9nbc+SR5z3K7ZF7qcBLySjnaJEC2ofBgdzpQa6fjm8MZUjCuWef5ZsMzkp6eMxUsdHFz8Jpne9hQ3VBrKsj+CFjBrdOzwmjxtw6426SNJL9UwJPllFeNAEc0VweukCG21IL385YAXhN5XFiVzpD4WKDt5di75i+PpGPt7/XQUDcFI9puGRaFLqCBaO0LuPiAdImlCb8RRw/iWDvdMNl92zHeYyLEIpXPHPtRP73kzFBcz8CdLmGjQUgL4YqoeJuWxX/BgiIooTmljY04u1OE94Q5KlJoc3nXOST6VfXzX1gZdzGfA+cB+Q0uJqmoUQrgxR1QKHyHEXGbSeK4W6gnwOtODvH5aq3X83JcYNKDsiQ8iAGr5pz+MK58jHGsdeCBA/KzxhIj1iRI/YEMv8gBWIC83cGtV5GvcjwkU/oQmRtJWq9MfFDURg1OyOqlmFMI1bsNnQP2hWZvJpkpJBoh21LmCeAw==&p=",
+   "user-agent": "LM",
+   "ms-cv": "Nk5lEv9FzEumF03q.6",
+   "content-length": "2021"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Thu, 26 Sep 2024 10:13:00 GMT",
+   "content-type": "application/json; charset=utf-8",
+   "content-length": "4576",
+   "server": "istio-envoy",
+   "ms-correlationid": "e011744d-f0fb-42bc-8f8d-c2658edde71a",
+   "ms-requestid": "4cf79f3d-09a1-43e5-8f80-b576b8347e39",
+   "ms-cv": "Nk5lEv9FzEumF03q.6.3725839620.1442381428.0",
+   "x-content-type-options": "nosniff",
+   "ms-serverid": "52",
+   "x-envoy-upstream-service-time": "3",
+   "x-envoy-decorator-operation": "licensingfd-service.consumerlicensing.svc.cluster.local:80/*"
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "request": {
+  "url": "http://ocsp.entrust.net/MFEwTzBNMEswSTAJBgUrDgMCGgUABBRr2bwARTxMtEy9aspRAZg5QFhagQQUgrrWPZfOn89x6JI3r%2F2ztWk1V88CEDWvt3udNB9q%2FI%2BERqsxNSs%3D",
+  "method": "GET",
+  "headers": {
+   "Cache-Control": "max-age = 3187",
+   "Proxy-Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "If-Modified-Since": "Wed, 24 Jul 2024 13:00:00 GMT",
+   "If-None-Match": "\"B1E43A1A701632DF73508856CD6D4670C30ACEE60508F507D2DF0A87C8AF0961\"",
+   "User-Agent": "Microsoft-CryptoAPI/10.0",
+   "Host": "ocsp.entrust.net"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Server": "Apache",
+   "Content-Length": "335",
+   "Cache-Control": "no-cache",
+   "Connection": "close"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "http://r2---sn-2x3eenel.gvt1-cn.com/edgedl/release2/chrome/km4xaevs3zzp3hjawoiqjhst6u_129.0.6668.70/-8a69d345-d564-463c-aff1-a69d9e530f96-_129.0.6668.70_all_f5tzieodyywjtfacpapls223w4.crx3?cms_redirect=yes&mh=ou&mip=123.138.191.159&mm=28&mn=sn-2x3eenel&ms=nvh&mt=1727340982&mv=m&mvi=2&pl=15&shardbypass=sd&smhost=r2---sn-2x3eenes.gvt1-cn.com",
+  "method": "GET",
+  "headers": {
+   "Cache-Control": "no-cache",
+   "Proxy-Connection": "Keep-Alive",
+   "Pragma": "no-cache",
+   "Accept-Encoding": "gzip, deflate",
+   "User-Agent": "GoogleUpdater 130.0.6679.0",
+   "Host": "r2---sn-2x3eenel.gvt1-cn.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Accept-Ranges": "bytes",
+   "Cache-Control": "public,max-age=86400",
+   "Content-Disposition": "attachment",
+   "Content-Length": "8687867",
+   "Content-Security-Policy": "default-src 'none'",
+   "Content-Type": "application/octet-stream",
+   "Etag": "\"32aa609\"",
+   "Server": "downloads",
+   "X-Content-Type-Options": "nosniff",
+   "X-Frame-Options": "SAMEORIGIN",
+   "X-Xss-Protection": "0",
+   "Date": "Wed, 25 Sep 2024 23:15:12 GMT",
+   "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+   "Last-Modified": "Tue, 24 Sep 2024 01:53:00 GMT",
+   "Connection": "keep-alive",
+   "Vary": "Origin"
+  }
+ }
+}

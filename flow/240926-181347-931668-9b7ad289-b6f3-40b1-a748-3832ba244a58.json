@@ -1,0 +1,38 @@
+{
+ "request": {
+  "url": "https://taimuer.coding.net/api/unified/redirect?redirect=https%3A%2F%2Ftaimuer.coding.net%2Fp%2Fxiaoming%2Fd%2Fxiaoming-server%2Fgit&remember=false",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://taimuer.coding.net/login?redirect=https%3A%2F%2Ftaimuer.coding.net%2Fp%2Fxiaoming%2Fd%2Fxiaoming-server%2Fgit",
+   "cookie": "exp=89cd78c2, c=auth-by-wechat%3Dtrue%2Cproject-permission-management%3Dtrue%2Centerprise-permission-management%3Dtrue%2C5c58505d, cf=f209dd7c8633cd6fea913a8de3ee0640, code=artifact-reforge%3Dfalse%2Casync-blocked%3Dtrue%2Cauth-by-wechat%3Dtrue%2Cci-qci%3Dfalse%2Cci-team-step%3Dfalse%2Cci-team-templates%3Dfalse%2Ccoding-flow%3Dfalse%2Ccoding-ocd-java%3Dfalse%2Ccoding-ocd-pages%3Dtrue%2Centerprise-permission-management%3Dtrue%2Cmobile-layout-test%3Dfalse%2Cproject-permission-management%3Dtrue%2Cservice-exception-tips%3Dfalse%2Ctencent-cloud-object-storage%3Dtrue%2C5b585a51, eid=e85695d6-e2ae-48ea-ad6a-00971c0cef56, enterprise_domain=taimuer, clientId=47d4202a-36e7-4b1a-9d2c-26cd5ef45f20, XSRF-TOKEN=5e68e1c4-be3e-41ea-86bb-88c115fe08a2, SameSite=Lax, login=4a058150-2aa4-4332-8263-0f1a02313303, coding_utm_source=Login%20Success",
+   "upgrade-insecure-requests": "1",
+   "sec-fetch-dest": "document",
+   "sec-fetch-mode": "navigate",
+   "sec-fetch-site": "same-origin",
+   "priority": "u=0, i",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 302,
+  "headers": {
+   "date": "Thu, 26 Sep 2024 10:13:47 GMT",
+   "server": "Nginx",
+   "x-gateway": "entrance-gateway-5955c88799-vtcx4",
+   "x-tr-info": "9215d198d4b449bd8282eca9e5d971ae-00",
+   "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+   "set-cookie": "eid=3a2b3a0a-c97a-4500-a7df-24aca626dd28; Path=/; Domain=.taimuer.coding.net; Expires=Wed, 25-Dec-2024 10:13:46 GMT; Max-Age=7776000; Secure; HttpOnly, enterprise_domain=taimuer; Path=/; Domain=.coding.net; Expires=Fri, 26-Sep-2025 10:13:47 GMT; Max-Age=31536000; Secure",
+   "expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+   "content-language": "zh-CN",
+   "x-content-type-options": "nosniff",
+   "x-xss-protection": "1; mode=block",
+   "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+   "location": "https://taimuer.coding.net/p/xiaoming/d/xiaoming-server/git",
+   "x-target-env": "standard_nginx"
+  }
+ }
+}

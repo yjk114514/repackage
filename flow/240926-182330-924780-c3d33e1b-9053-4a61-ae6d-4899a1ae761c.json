@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "https://otheve.beacon.qq.com/analytics/v2_upload?appkey=0WEB04SGH543EALS",
+  "method": "OPTIONS",
+  "headers": {
+   "accept": "*/*",
+   "accept-encoding": "gzip, deflate, br",
+   "accept-language": "zh-CN",
+   "access-control-request-headers": "content-type",
+   "access-control-request-method": "POST",
+   "origin": "app://.",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) QQ/9.9.12-25765 Chrome/126.0.6478.36 Electron/31.0.1 Safari/537.36 OS/win32,x64,10.0.22631,Windows 11 Home China",
+   "referer": "",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Thu, 26 Sep 2024 10:23:30 GMT",
+   "content-type": "text/plain",
+   "content-length": "32",
+   "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000, h3-27=\":443\"; ma=2592000, h3-Q050=\":443\"; ma=2592000, h3-Q046=\":443\"; ma=2592000, h3-Q043=\":443\"; ma=2592000, h3-Q039=\":443\"; ma=2592000, quic=\":443\"; ma=2592000; v=\"39,43,46\"",
+   "set-cookie": "tgw_l7_route=2c25f27a251a5493d849a615ffefcb4e; Expires=Thu, 26-Sep-2024 10:53:29 GMT; Path=/",
+   "error-type": "unsupport-type",
+   "access-control-max-age": "600",
+   "access-control-allow-origin": "*",
+   "access-control-allow-methods": "POST",
+   "access-control-allow-headers": "x-requested-with,content-type"
+  }
+ }
+}

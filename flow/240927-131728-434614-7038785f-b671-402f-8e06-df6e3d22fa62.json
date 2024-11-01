@@ -1,0 +1,36 @@
+{
+ "request": {
+  "url": "https://www.clarity.ms/tag/3j9o3mfoml",
+  "method": "GET",
+  "headers": {
+   "origin": "https://windows.msn.cn",
+   "sec-ch-ua-platform": "\"Windows\"",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\", \"Microsoft Edge WebView2\";v=\"129\"",
+   "sec-ch-ua-mobile": "?0",
+   "accept": "*/*",
+   "sec-fetch-site": "cross-site",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-dest": "script",
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Fri, 27 Sep 2024 05:17:26 GMT",
+   "content-type": "application/x-javascript",
+   "content-length": "831",
+   "access-control-allow-origin": "*",
+   "cache-control": "no-cache, no-store",
+   "expires": "-1",
+   "set-cookie": "CLID=0993a4cd5a6d4b0986ba79dbb96feff1.20240927.20250927; expires=Sat, 27 Sep 2025 05:17:25 GMT; path=/; secure; samesite=none; httponly",
+   "request-context": "appId=cid-v1:67bc0b23-8423-4b52-b1ca-6a87709ceaa2",
+   "x-azure-ref": "20240927T051725Z-16d947897fc6vwz6pgm1eua03n00000001d000000000ekzu",
+   "x-cache": "CONFIG_NOCACHE",
+   "accept-ranges": "bytes"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "request": {
+  "url": "https://coding-net-production-static-ci.codehub.cn/7c5b8dbc-db44-4c70-8596-8fd0ce824833.jpg?imageView2/1/w/0/h/0",
+  "method": "GET",
+  "headers": {
+   "Host": "coding-net-production-static-ci.codehub.cn",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Connection": "keep-alive",
+   "Referer": "https://taimuer.coding.net/",
+   "Sec-Fetch-Dest": "image",
+   "Sec-Fetch-Mode": "no-cors",
+   "Sec-Fetch-Site": "cross-site",
+   "Priority": "u=5, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Etag": "77872cd62fc24786213248f7886672e2",
+   "Server": "tencent-ci",
+   "Content-Type": "image/jpeg",
+   "X-Delay": "100963 us",
+   "X-Info": "real data",
+   "X-DataSrc": "7",
+   "Size": "2486",
+   "X-ReqId": "MTcyNjg4NDc0M18wX0RFODQ5MDZDMDFFMDQ5Rjk5NDE2NjAyMjU3Nzc5MTJF",
+   "X-RtFlag": "1",
+   "Timing-Allow-Origin": "*",
+   "Date": "Sat, 21 Sep 2024 02:12:24 GMT",
+   "X-Cache-Lookup": "Cache Hit, Hit From Inner Cluster, Cache Miss",
+   "Last-Modified": "Thu, 12 May 2022 18:28:55 GMT",
+   "Cache-Control": "max-age=2592000",
+   "Age": "0",
+   "Content-Length": "2486",
+   "Accept-Ranges": "bytes",
+   "X-NWS-LOG-UUID": "4055761997445302320",
+   "Connection": "keep-alive",
+   "Access-Control-Allow-Origin": "*"
+  }
+ }
+}

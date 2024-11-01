@@ -1,0 +1,54 @@
+{
+ "request": {
+  "url": "https://assets.msn.cn/resolver/api/resolve/v3/config/?expType=AppConfig&expInstance=default&apptype=winWidgets&v=20240926.119&targetScope={%22audienceMode%22:%22adult%22,%22browser%22:{%22browserType%22:%22edgeChromium%22,%22version%22:%22129%22,%22ismobile%22:%22false%22},%22deviceFormFactor%22:%22desktop%22,%22domain%22:%22windows.msn.cn%22,%22locale%22:{%22content%22:{%22language%22:%22zh%22,%22market%22:%22cn%22},%22display%22:{%22language%22:%22zh%22,%22market%22:%22cn%22}},%22os%22:%22windows%22,%22platform%22:%22web%22,%22pageType%22:%22winwidgetshp%22,%22pageExperiments%22:[%22prg-1s-acclnk%22,%22prg-1s-fincfanncf%22,%22prg-1s-otel%22,%22prg-1s-twid%22,%22prg-1s-workid%22,%22prg-1sw-1688%22,%22prg-1sw-1688click%22,%22prg-1sw-1688title%22,%22prg-1sw-abortwv2%22,%22prg-1sw-c-rivsighalt%22,%22prg-1sw-calconfeed%22,%22prg-1sw-cc-calfeed%22,%22prg-1sw-cc-cefeed%22,%22prg-1sw-clari%22,%22prg-1sw-cnmidwebcc%22,%22prg-1sw-crypinf%22,%22prg-1sw-cryptren%22,%22prg-1sw-finvldc%22,%22prg-1sw-hupsell-5%22,%22prg-1sw-hupsell-tip%22,%22prg-1sw-hupsell-tr5%22,%22prg-1sw-impvicp1%22,%22prg-1sw-lightningicon2%22,%22prg-1sw-noads%22,%22prg-1sw-noads-offercard%22,%22prg-1sw-offercard%22,%22prg-1sw-pr2clarity%22,%22prg-1sw-rccountc%22,%22prg-1sw-rcux2%22,%22prg-1sw-sa-dnet%22,%22prg-1sw-sacnrolloutvc%22,%22prg-1sw-saeetcpvt1%22,%22prg-1sw-santf-cpgt1%22,%22prg-1sw-saqglbexprubackup_c%22,%22prg-1sw-sdwttvr%22,%22prg-1sw-sh1688%22,%22prg-1sw-spsuclut1%22,%22prg-1sw-stalerbcontrol%22,%22prg-1sw-v1tweb2en%22,%22prg-1sw-wv2-sdwttvr%22,%22prg-1sw-wxesv2%22,%22prg-1sw-wxinst%22,%22prg-1sw-zhcnalt2%22,%22prg-accountlink%22,%22prg-ad-ast-cfg-ref-c%22,%22prg-ad-fb-rlinkag-c%22,%22prg-ad-v1stcall-t%22,%22prg-ad-vcontext-c%22,%22prg-adspeek%22,%22prg-cg-ad-ref-if-2%22,%22prg-cg-ad-rtrn-ld%22,%22prg-cg-blk-adv-2%22,%22prg-cg-cnapihost%22,%22prg-cg-cnapihost-t%22,%22prg-cg-dom-cleac%22,%22prg-cg-int-ad-pod%22,%22prg-cg-pub-entry%22,%22prg-cg-seclarity-c%22,%22prg-cg-signin-t2%22,%22prg-chpdpvrefresh%22,%22prg-csacclink%22,%22prg-enabprev-atf%22,%22prg-enabprev-atf2%22,%22prg-fin-noadup%22,%22prg-fin-staginc%22,%22prg-health-staging%22,%22prg-hp-resp%22,%22prg-hp-zhnavuc%22,%22prg-ntp-tfherott-on%22,%22prg-ntp-wchctl1%22,%22prg-postscrlprev%22,%22prg-pr2-cg-cnapihost%22,%22prg-pr2-cg-pvxap%22,%22prg-pr2-igfeedr%22,%22prg-pr2-impvicp2%22,%22prg-pr2-neutralsds%22,%22prg-pr2-rail2colboard%22,%22prg-pr2-sdwttvr%22,%22prg-pr2-trdischi%22,%22prg-pr2-trdischi2%22,%22prg-pr2-widget-tab%22,%22prg-pw-bhpsuperad%22,%22prg-pw-t-no-ad-css%22,%22prg-rpt2%22,%22prg-sh-bd-video%22,%22prg-sh-eprore%22,%22prg-sh-imageurl1688%22,%22prg-sh-rmitmlnk%22,%22prg-sp-liveapi%22,%22prg-sp-nhl24%22,%22prg-toubanner-1%22,%22prg-toubannern-1%22,%22prg-upsaip-w1-t%22,%22prg-wpo-inforot%22,%22prg-wx-dhgrd%22,%22prg-wx-n1unr%22,%22prg-wx-nfeed%22]}",
+  "method": "GET",
+  "headers": {
+   "sec-ch-ua-platform": "\"Windows\"",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\", \"Microsoft Edge WebView2\";v=\"129\"",
+   "sec-ch-ua-mobile": "?0",
+   "accept": "*/*",
+   "origin": "https://windows.msn.cn",
+   "sec-ms-gec": "5D737B6630217117736FED9B3D4F51938C95AA51FE2652F98F54849B5761EF04",
+   "sec-ms-gec-version": "1-129.0.2792.52",
+   "sec-fetch-site": "same-site",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-dest": "empty",
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+   "priority": "u=1, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-length": "68015",
+   "content-type": "application/json; charset=utf-8",
+   "server": "Kestrel",
+   "etag": "\"uNnPPLXbbAGN6d0GAokirXfGjAA\"",
+   "x-crs-buildversion": "20240724.6_master",
+   "x-crs-env": "Production",
+   "x-as-suppresssetcookie": "1",
+   "nel-report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "accept-ch": "Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA",
+   "x-ceto-ref": "66f63fe1f13d4b1c8c5437352acf0c13|AFD:66f63fe1f13d4b1c8c5437352acf0c13|2024-09-27T05:17:21.722Z",
+   "content-encoding": "br",
+   "cache-control": "public, max-age=1728000",
+   "date": "Fri, 27 Sep 2024 05:17:21 GMT",
+   "alt-svc": "h3=\":443\"; ma=93600",
+   "akamai-request-bc": "[a=222.138.6.157,b=40840273,c=g,n=CN_HA_ZHUMADIAN,o=4837],[c=c,n=IT__MILANO,o=20940],[a=20.105.24.231,c=o]",
+   "server-timing": "clientrtt; dur=36, clienttt; dur=391, origin; dur=47, cdntime; dur=344, wpo;dur=0,1s;dur=0",
+   "akamai-cache-status": "Miss from child, Miss from parent",
+   "akamai-server-ip": "222.138.6.157",
+   "akamai-request-id": "26f2c51",
+   "access-control-allow-credentials": "true",
+   "access-control-allow-origin": "https://windows.msn.cn",
+   "report-to": "{\"group\":\"network-errors\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://deff.nelreports.net/api/report?cat=msn\"}]}",
+   "nel": "{\"report_to\":\"network-errors\",\"max_age\":604800,\"success_fraction\":0.001,\"failure_fraction\":0.1}",
+   "timing-allow-origin": "*",
+   "akamai-grn": "0.9d068ade.1727414241.26f2c51",
+   "vary": "Origin"
+  }
+ }
+}

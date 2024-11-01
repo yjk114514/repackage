@@ -1,0 +1,38 @@
+{
+ "request": {
+  "url": "https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=extension@xdownloader.com&version=1.0.0&maxAppVersion=*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=130.0.1&appOS=WINNT&appABI=x86_64-msvc&locale=zh-CN&currentAppVersion=130.0.1&updateType=112&compatMode=normal",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "pragma": "no-cache",
+   "cache-control": "no-cache",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "server": "openresty",
+   "content-length": "375",
+   "x-amo-request-id": "5512cff4937649c8ad498c85c10bef89",
+   "content-security-policy": "frame-src https://www.recaptcha.net/recaptcha/; form-action 'self'; style-src 'unsafe-inline' https://addons.mozilla.org/static-server/; img-src 'self' blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; font-src 'self' https://addons.mozilla.org/static-server/; child-src https://www.recaptcha.net/recaptcha/; media-src https://videos.cdn.mozilla.net; script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; default-src 'none'; object-src 'none'; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; report-uri /__cspreport__",
+   "x-frame-options": "DENY",
+   "x-content-type-options": "nosniff",
+   "referrer-policy": "same-origin",
+   "cross-origin-opener-policy": "same-origin",
+   "content-encoding": "gzip",
+   "via": "1.1 google, 1.1 google",
+   "date": "Thu, 26 Sep 2024 10:28:09 GMT",
+   "cache-control": "max-age=3600",
+   "etag": "W/\"4261978dde417b80bfafd0db8d6f10b9\"",
+   "content-type": "application/json",
+   "vary": "Accept-Encoding",
+   "age": "0",
+   "x-cache-status": "revalidated",
+   "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+  }
+ }
+}

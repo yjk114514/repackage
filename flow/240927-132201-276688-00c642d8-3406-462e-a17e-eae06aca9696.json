@@ -1,0 +1,26 @@
+{
+ "request": {
+  "url": "https://oneclient.sfx.ms/Win/Prod/96351a228b9e6e247178ed6ae036fc0d018901f0.xml",
+  "method": "HEAD",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "Accept-Encoding": "identity",
+   "User-Agent": "Microsoft BITS/7.8",
+   "Host": "oneclient.sfx.ms"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Accept-Ranges": "bytes",
+   "Content-Length": "899",
+   "Content-Type": "application/xml",
+   "ETag": "\"46b4c523912256a84f7fb9d71c3e8ec7:1727290985.957755\"",
+   "Last-Modified": "Wed, 25 Sep 2024 19:03:05 GMT",
+   "Server": "AkamaiNetStorage",
+   "Date": "Fri, 27 Sep 2024 05:21:58 GMT",
+   "Connection": "keep-alive"
+  }
+ }
+}

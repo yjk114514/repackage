@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzA4NzkwNDYxMQ==&mid=2692228507&idx=1&sn=28a8c9fe19d1a5f74405ab45f24aa8d1&send_time=",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://mp.weixin.qq.com/s?__biz=MzA4NzkwNDYxMQ==&mid=2692228507&idx=1&sn=28a8c9fe19d1a5f74405ab45f24aa8d1&chksm=b44a40d18bdd0b55724ec05c7c3384dffe2105e18c3cd9811512a649bb47fbab679ea600747c&mpshare=1&scene=23&srcid=0920p6mdyTp8AXH3I779AhMb&sharer_shareinfo=c872f51edba0d201a25be9185b47ad78&sharer_shareinfo_first=a8b50a987fa96c8841bbeeaddfc5fda2",
+   "cookie": "RK=PZVYaKWHFs, ptcz=821b4fded0de30fe55b4e6b17e90f39517a128da4caaf57c56563243bf94461d, rewardsn=, wxtokenkey=777",
+   "sec-fetch-dest": "image",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "same-origin",
+   "priority": "u=4, i",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Fri, 27 Sep 2024 05:17:46 GMT",
+   "accept-ranges": "bytes",
+   "content-type": "image/bmp",
+   "cache-control": "max-age=604800",
+   "expires": "Fri, 4 Oct 2024 13:17:46 +0800",
+   "retkey": "14",
+   "logicret": "0",
+   "strict-transport-security": "max-age=0",
+   "mmlas-verifyresult": "CAEoADCFggg="
+  }
+ }
+}

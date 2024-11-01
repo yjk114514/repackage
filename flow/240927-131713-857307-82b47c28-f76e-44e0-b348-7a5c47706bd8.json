@@ -1,0 +1,30 @@
+{
+ "request": {
+  "url": "https://kv501.prod.do.dsp.mp.microsoft.com/all?doClientVersion=10.1.0.13&countryCode=CN&profile=65280&CacheId=7",
+  "method": "GET",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "Accept-Encoding": "gzip, deflate",
+   "User-Agent": "Microsoft-Delivery-Optimization/10.1",
+   "MS-CV": "oS33PKEty0Gqeilo.47.1.1",
+   "Content-Length": "0",
+   "Host": "kv501.prod.do.dsp.mp.microsoft.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Content-Type": "text/json",
+   "Server": "Microsoft-IIS/10.0",
+   "X-AspNet-Version": "4.0.30319",
+   "X-Powered-By": "ASP.NET",
+   "Vary": "Accept-Encoding",
+   "Content-Encoding": "gzip",
+   "Cache-Control": "max-age=34",
+   "Date": "Fri, 27 Sep 2024 05:17:11 GMT",
+   "Content-Length": "1025",
+   "Connection": "keep-alive"
+  }
+ }
+}

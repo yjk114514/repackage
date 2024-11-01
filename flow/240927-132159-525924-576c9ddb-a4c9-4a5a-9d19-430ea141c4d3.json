@@ -1,0 +1,28 @@
+{
+ "request": {
+  "url": "https://userver.upaas.quark.cn/login?appkey=quark_pc&ds=ZvQj9wAAACkDAIWGAeB5EF8r&dsType=utdid&ec=1&nonce=2032758012&nw=wifi&sve=trial2&timestamp=1727414516&uptime=138511436194&uve=7.1.4.4-pc-32d8d4e0&ve=3.11.7&version=2&sign=35e9e67377677ecf86d22194e45697f2142fb0a69411",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.79 Safari/537.36",
+   "accept-encoding": "gzip, deflate",
+   "accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Fri, 27 Sep 2024 05:21:57 GMT",
+   "content-type": "text/plain;charset=UTF-8",
+   "content-length": "0",
+   "x-application-context": "osb:15541",
+   "x-trace-id": "0191ff83-f3d6-4531-9c82-def5abf07ae1",
+   "x-id": "0191ff83-f3d6-4531-9c82-def5abf07ae1",
+   "x-vid": "0a5fa70625adeadb75d4371fb6b13614",
+   "x-status": "0",
+   "x-statusinfo": "OK!",
+   "x-detail-status": "0",
+   "x-server-time": "1727414517",
+   "x-server-push": "on"
+  }
+ }
+}

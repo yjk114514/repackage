@@ -1,0 +1,40 @@
+{
+ "request": {
+  "url": "https://www.bing.com/api/v1/mediation/tracking?adUnit=11730609&auId=3882a5f0-0a29-4f95-a8f6-de6f3c6bee95&bidId=15000&bidderId=4&cmExpId=BV1&oAdUnit=11730609&publisherId=251978541&rId=27654433a53e495597c07347a5ce22ab&rlink=https%3A%2F%2Fwww.bing.com%2Faes%2Fc.gif%3FRG%3D772e8b368fa743408b3cffa79b224fe7%26med%3D10%26pubId%3D251978541%26DI%3D0%26DIS%3DSB_15000-1-0%3F%26SNR%3D1%26GV%3D2&rtype=miFeedbackURL&tagId=11730609&trafficGroup=obbfg_qrsnhyg&trafficSubGroup=anrkpunatrBayl",
+  "method": "GET",
+  "headers": {
+   "sec-ch-ua-platform": "\"Windows\"",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\", \"Microsoft Edge WebView2\";v=\"129\"",
+   "sec-ch-ua-mobile": "?0",
+   "accept": "image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8",
+   "sec-ms-gec": "5D737B6630217117736FED9B3D4F51938C95AA51FE2652F98F54849B5761EF04",
+   "sec-ms-gec-version": "1-129.0.2792.52",
+   "sec-fetch-site": "cross-site",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-dest": "image",
+   "referer": "https://windows.msn.cn/",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "accept-language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6",
+   "priority": "i"
+  }
+ },
+ "response": {
+  "status_code": 303,
+  "headers": {
+   "cache-control": "no-cache, no-store, must-revalidate",
+   "pragma": "no-cache",
+   "content-length": "174",
+   "content-type": "text/html; charset=utf-8",
+   "expires": "0",
+   "location": "https://www.bing.com/aes/c.gif?RG=772e8b368fa743408b3cffa79b224fe7&med=10&pubId=251978541&DI=0&DIS=SB_15000-1-0?&SNR=1&GV=2",
+   "vary": "Origin",
+   "strict-transport-security": "max-age=31536000; includeSubDomains",
+   "x-cache": "CONFIG_NOCACHE",
+   "accept-ch": "Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version",
+   "x-msedge-ref": "Ref A: 7ABD71B32DC341DDB9E9099ED28B88E6 Ref B: BJ1EDGE0419 Ref C: 2024-09-27T05:17:25Z",
+   "set-cookie": "_EDGE_S=F=1&SID=1D8D47AEED9E655E003552A9ECDD647D; path=/; httponly; domain=bing.com, _EDGE_V=1; path=/; httponly; expires=Wed, 22-Oct-2025 05:17:25 GMT; domain=bing.com, MUID=19AA195CFD0F68AE108C0C5BFC4C6944; samesite=none; path=/; secure; expires=Wed, 22-Oct-2025 05:17:25 GMT; domain=bing.com, MUIDB=19AA195CFD0F68AE108C0C5BFC4C6944; path=/; httponly; expires=Wed, 22-Oct-2025 05:17:25 GMT",
+   "date": "Fri, 27 Sep 2024 05:17:24 GMT"
+  }
+ }
+}

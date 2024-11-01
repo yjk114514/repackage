@@ -1,0 +1,30 @@
+{
+ "request": {
+  "url": "http://10.6.18.2/cgi-bin/get_challenge?callback=jQuery112409602567057848859_1727345566580&username=2216113205%40stu&ip=10.172.18.179&_=1727345566582",
+  "method": "GET",
+  "headers": {
+   "Host": "10.6.18.2",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate",
+   "X-Requested-With": "XMLHttpRequest",
+   "Connection": "keep-alive",
+   "Referer": "http://10.6.18.2/srun_portal_pc?ac_id=1&mac=3897d6b4e001&nasip=10.6.16.245&ssid=&t=wireless-v2-plain&theme=basic&url=http%3A%2F%2Fwww.msftconnecttest.com%2Fredirect&wlanacname=XJTU-Wlan-Auth-&wlanuserip=10.172.18.179",
+   "Cookie": "lang=zh-CN",
+   "Priority": "u=0"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Server": "nginx",
+   "Date": "Thu, 26 Sep 2024 09:08:22 GMT",
+   "Content-Type": "application/json; charset=utf-8",
+   "Content-Length": "306",
+   "Connection": "close",
+   "Srun-Server": "SRunCGIAuthIntfSvr V1.18 B20191227",
+   "X-Frame-Options": "SAMEORIGIN"
+  }
+ }
+}

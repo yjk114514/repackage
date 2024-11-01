@@ -1,0 +1,41 @@
+{
+ "request": {
+  "url": "https://addons.mozilla.org/firefox/downloads/file/4356394/immersive_translate-1.9.7.xpi",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "cross-site",
+   "priority": "u=4",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "content-type": "application/x-xpinstall",
+   "content-length": "4564600",
+   "server": "openresty",
+   "date": "Wed, 25 Sep 2024 14:20:12 GMT",
+   "last-modified": "Wed, 25 Sep 2024 14:19:13 GMT",
+   "cache-control": "max-age=86400",
+   "access-control-allow-origin": "*",
+   "content-security-policy": "script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; child-src https://www.recaptcha.net/recaptcha/; style-src 'unsafe-inline' https://addons.mozilla.org/static-server/; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; font-src 'self' https://addons.mozilla.org/static-server/; default-src 'none'; img-src 'self' blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; frame-src https://www.recaptcha.net/recaptcha/; object-src 'none'; media-src https://videos.cdn.mozilla.net; form-action 'self'; report-uri /__cspreport__",
+   "referrer-policy": "same-origin",
+   "strict-transport-security": "max-age=31536000",
+   "x-content-type-options": "nosniff",
+   "x-frame-options": "DENY",
+   "accept-ranges": "bytes",
+   "via": "1.1 google, 1.1 8506672ae1a5a7cdd1de484800633f9c.cloudfront.net (CloudFront)",
+   "vary": "X-Country-Code",
+   "x-cache": "Hit from cloudfront",
+   "x-amz-cf-pop": "NRT57-C4",
+   "x-amz-cf-id": "XZApLDM0RwhwMpC2aceO6jrCWbIEIv8YfnxIJf1sOnH0LvqkdbW4Jg==",
+   "age": "72478"
+  }
+ }
+}

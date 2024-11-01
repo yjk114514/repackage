@@ -1,0 +1,36 @@
+{
+ "request": {
+  "url": "https://e.coding.net/api/platform/oauth2/login/code/wechat_qr?code=001aGF1w3WKzy33cpa2w3eFTPe0aGF1J&state=APSo5Up5k03j1x2TuXwL9g1iEVl2ALmEND737yFEI5w=",
+  "method": "GET",
+  "headers": {
+   "Host": "e.coding.net",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Connection": "keep-alive",
+   "Referer": "https://open.weixin.qq.com/",
+   "Cookie": "cf=f209dd7c8633cd6fea913a8de3ee0640; enterprise_domain=taimuer; clientId=47d4202a-36e7-4b1a-9d2c-26cd5ef45f20; XSRF-TOKEN=1bb13bfb-b086-4310-a037-40e6e98514ff",
+   "Upgrade-Insecure-Requests": "1",
+   "Sec-Fetch-Dest": "iframe",
+   "Sec-Fetch-Mode": "navigate",
+   "Sec-Fetch-Site": "cross-site",
+   "Priority": "u=4"
+  }
+ },
+ "response": {
+  "status_code": 302,
+  "headers": {
+   "Server": "Nginx",
+   "Date": "Thu, 26 Sep 2024 10:13:45 GMT",
+   "Transfer-Encoding": "chunked",
+   "Connection": "keep-alive",
+   "X-Gateway": "entrance-gateway-5955c88799-m6f6t",
+   "X-Tr-Info": "2220c4ff82dc436bba7602b97a89a074-00",
+   "Set-Cookie": "JSESSIONID=node01w70wa4xszqr11o2wl9w29jx0p1883.node0; Path=/; Secure",
+   "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+   "Location": "https://e.coding.net/api/unified/wechat/callback?code=APSo5Up5k03j1x2TuXwL9g1iEVl2ALmEND737yFEI5w=&state=APSo5Up5k03j1x2TuXwL9g1iEVl2ALmEND737yFEI5w=",
+   "X-Target-Env": "standard_nginx"
+  }
+ }
+}

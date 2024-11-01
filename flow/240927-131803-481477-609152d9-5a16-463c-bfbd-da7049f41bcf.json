@@ -1,0 +1,48 @@
+{
+ "request": {
+  "url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/Ocn1RrzLCrXjoIOb6NiamYHKkiadjx7Ev9zFmuViaDYwdbBale11R5T881N1MSoHuyaricNE7DJyVcj6Z1C9ibBCYsA/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://mp.weixin.qq.com/",
+   "origin": "https://mp.weixin.qq.com",
+   "sec-fetch-dest": "image",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "cross-site",
+   "priority": "u=5, i",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Fri, 20 Sep 2024 01:01:56 GMT",
+   "server": "NWSs",
+   "date": "Fri, 20 Sep 2024 07:57:25 GMT",
+   "content-type": "image/gif",
+   "x-delay": "3354 us",
+   "x-info": "real data",
+   "x-bcheck": "0_1",
+   "x-cpt": "filename=0",
+   "user-returncode": "0",
+   "x-datasrc": "9",
+   "x-reqgue": "0",
+   "size": "61342",
+   "chid": "0",
+   "fid": "0",
+   "x-webp-type": "tp",
+   "cache-control": "max-age=2592000",
+   "age": "585068",
+   "content-length": "61342",
+   "accept-ranges": "bytes",
+   "x-nws-log-uuid": "15931837662631294623",
+   "x-cache-lookup": "Cache Hit",
+   "vary": "Origin,Accept",
+   "timing-allow-origin": "https://mp.weixin.qq.com",
+   "access-control-allow-origin": "https://mp.weixin.qq.com"
+  }
+ }
+}

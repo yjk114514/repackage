@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://hm.baidu.com/hm.js?ace7c8d54625851fd5b5ff3d33d0d7e2",
+  "method": "GET",
+  "headers": {
+   "Host": "hm.baidu.com",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Connection": "keep-alive",
+   "Referer": "http://job.xjtu.edu.cn/",
+   "Sec-Fetch-Dest": "script",
+   "Sec-Fetch-Mode": "no-cors",
+   "Sec-Fetch-Site": "cross-site"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Cache-Control": "max-age=0, must-revalidate",
+   "Content-Encoding": "gzip",
+   "Content-Length": "11295",
+   "Content-Type": "application/javascript",
+   "Date": "Fri, 27 Sep 2024 05:18:50 GMT",
+   "Etag": "be55b08d1a2c79838d5057c154ac7b52",
+   "P3p": "CP=\"CURa ADMa DEVa PSAo PSDo OUR BUS UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR\"",
+   "Server": "apache",
+   "Set-Cookie": "HMACCOUNT=DAB7D867AE161D5C; Path=/; Domain=hm.baidu.com; Expires=Sun, 18 Jan 2038 00:00:00 GMT, BAIDUID=9923EDE0DEC16D38F893FBA027100ECC:FG=1; Path=/; Domain=baidu.com; Max-Age=31536000, BAIDUID_BFESS=9923EDE0DEC16D38F893FBA027100ECC:FG=1; Path=/; Domain=baidu.com; Max-Age=31536000; Secure; SameSite=None",
+   "Strict-Transport-Security": "max-age=172800"
+  }
+ }
+}

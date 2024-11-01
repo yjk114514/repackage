@@ -1,0 +1,27 @@
+{
+ "request": {
+  "url": "https://badjs.weixinbridge.com/frontend/reportspeed?pid=462&uin=0&rid=0&speeds=36_0",
+  "method": "GET",
+  "headers": {
+   "Host": "badjs.weixinbridge.com",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Referer": "https://mp.weixin.qq.com/",
+   "Connection": "keep-alive",
+   "Sec-Fetch-Dest": "image",
+   "Sec-Fetch-Mode": "no-cors",
+   "Sec-Fetch-Site": "cross-site",
+   "Priority": "u=5, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Date": "Fri, 27 Sep 2024 05:17:46 GMT",
+   "Content-Length": "0",
+   "Connection": "keep-alive"
+  }
+ }
+}

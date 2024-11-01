@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://jobres.xjtu.edu.cn/bower_components/cropper/cropper.min.js",
+  "method": "GET",
+  "headers": {
+   "Host": "jobres.xjtu.edu.cn",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Connection": "keep-alive",
+   "Referer": "https://job.xjtu.edu.cn/",
+   "Sec-Fetch-Dest": "script",
+   "Sec-Fetch-Mode": "no-cors",
+   "Sec-Fetch-Site": "same-site",
+   "Priority": "u=2"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Date": "Fri, 27 Sep 2024 05:18:37 GMT",
+   "Content-Type": "application/javascript",
+   "Content-Length": "27927",
+   "Connection": "keep-alive",
+   "Server": "openresty/1.11.2.5",
+   "Last-Modified": "Sat, 25 Nov 2023 13:21:49 GMT",
+   "ETag": "\"6561f4ed-6d17\"",
+   "Access-Control-Allow-Origin": "*",
+   "Accept-Ranges": "bytes"
+  }
+ }
+}

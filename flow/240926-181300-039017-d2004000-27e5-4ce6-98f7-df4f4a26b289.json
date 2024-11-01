@@ -1,0 +1,36 @@
+{
+ "request": {
+  "url": "https://push.services.mozilla.com/",
+  "method": "GET",
+  "headers": {
+   "Host": "push.services.mozilla.com",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Sec-WebSocket-Version": "13",
+   "Origin": "wss://push.services.mozilla.com/",
+   "Sec-WebSocket-Protocol": "push-notification",
+   "Sec-WebSocket-Extensions": "permessage-deflate",
+   "Sec-WebSocket-Key": "ocJCCozyEgvJjuXmvd+FUA==",
+   "Connection": "keep-alive, Upgrade",
+   "Sec-Fetch-Dest": "empty",
+   "Sec-Fetch-Mode": "websocket",
+   "Sec-Fetch-Site": "cross-site",
+   "Pragma": "no-cache",
+   "Cache-Control": "no-cache",
+   "Upgrade": "websocket"
+  }
+ },
+ "response": {
+  "status_code": 101,
+  "headers": {
+   "sec-websocket-accept": "RBR41+bcAKiClyPZijWaPPcOqYM=",
+   "date": "Thu, 26 Sep 2024 10:12:58 GMT",
+   "Via": "1.1 google",
+   "Upgrade": "websocket",
+   "Connection": "Upgrade",
+   "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+  }
+ }
+}

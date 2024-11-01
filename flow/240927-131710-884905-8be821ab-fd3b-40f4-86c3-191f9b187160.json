@@ -1,0 +1,29 @@
+{
+ "request": {
+  "url": "http://detectportal.firefox.com/success.txt?ipv6",
+  "method": "GET",
+  "headers": {
+   "Host": "detectportal.firefox.com",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate",
+   "Connection": "keep-alive",
+   "Priority": "u=4",
+   "Pragma": "no-cache",
+   "Cache-Control": "no-cache"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Server": "nginx",
+   "Content-Length": "8",
+   "Via": "1.1 google",
+   "Date": "Thu, 26 Sep 2024 14:38:42 GMT",
+   "Age": "52706",
+   "Content-Type": "text/plain",
+   "Cache-Control": "public,must-revalidate,max-age=0,s-maxage=3600"
+  }
+ }
+}

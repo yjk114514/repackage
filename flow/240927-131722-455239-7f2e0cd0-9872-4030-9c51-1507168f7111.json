@@ -1,0 +1,46 @@
+{
+ "request": {
+  "url": "https://edge.microsoft.com/componentupdater/api/v1/update?cup2key=7:hZqUG6qFoN8PV0Kgppp44yrq3IaBgUws-gsg_4eqT9E&cup2hreq=73948919a852697f496d608402dce9bcc57a8627e9aedd3d8746d0ebf44d06f5",
+  "method": "POST",
+  "headers": {
+   "content-length": "5825",
+   "x-microsoft-update-appid": "ndikpojcjlepofdkaaldkinkjbeeebkl,ahmaebgpfccdhgidjaidaoojjcijckba,oankkpibpaokgecfckkdkgaoafllipag,eeobbhfgfagbclfofmgbdfoicabjdbkn,ohckeflnhegojcjlcpbfpciadgikcohk,kpfehajjjbbcifeehjgfgnabifknmdad,fppmbhmldokgmleojlplaaodlkibgikh,alpjnmnfbgfkmmpcfpejmmoebdndedno,fgbafbciocncjfbbonhocjaohoknlaco,ojblfafjmiikbkepnnolpgbbhejhlcim,jbfaflocpnkhbgcijpkiafdpbjkedane",
+   "x-microsoft-update-interactivity": "bg",
+   "x-microsoft-update-service-cohort": "8651",
+   "x-microsoft-update-updater": "msedge-129.0.2792.52",
+   "content-type": "application/json",
+   "sec-mesh-client-edge-version": "129.0.2792.52",
+   "sec-mesh-client-edge-channel": "stable",
+   "sec-mesh-client-os": "Windows",
+   "sec-mesh-client-os-version": "10.0.22631",
+   "sec-mesh-client-arch": "x86_64",
+   "sec-mesh-client-webview": "1",
+   "x-client-data": "CJ+GywE=",
+   "sec-fetch-site": "none",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-dest": "empty",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "priority": "u=4, i"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "cache-control": "no-store, must-revalidate, no-cache, max-age=0",
+   "pragma": "no-cache",
+   "content-length": "415",
+   "content-type": "application/json",
+   "content-encoding": "gzip",
+   "expires": "Mon, 01 Jan 1990 00:00:00 GMT",
+   "etag": "3045022023C1CE12627245A10CA1E2525E0F054C28EBA56AF5019AFC9F85C5C2C472D8370221008452A7596556EE26C24CD0E211FA1E89152BDDA9AFF58E3809EAA8FBD6830878:73948919a852697f496d608402dce9bcc57a8627e9aedd3d8746d0ebf44d06f5",
+   "x-frame-options": "sameorigin",
+   "x-content-type-options": "nosniff",
+   "x-xss-protection": "1; mode=block",
+   "x-cup-server-proof": "3045022023C1CE12627245A10CA1E2525E0F054C28EBA56AF5019AFC9F85C5C2C472D8370221008452A7596556EE26C24CD0E211FA1E89152BDDA9AFF58E3809EAA8FBD6830878:73948919a852697f496d608402dce9bcc57a8627e9aedd3d8746d0ebf44d06f5",
+   "x-cache": "CONFIG_NOCACHE",
+   "x-msedge-ref": "Ref A: 4B4EBC58F8D246669E1E39984C1D9486 Ref B: SIN30EDGE0116 Ref C: 2024-09-27T05:17:20Z",
+   "date": "Fri, 27 Sep 2024 05:17:19 GMT"
+  }
+ }
+}

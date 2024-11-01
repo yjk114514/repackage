@@ -1,0 +1,43 @@
+{
+ "request": {
+  "url": "http://1d.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/7deeb1aa-663d-4cbe-87e6-770f196c2b7a?P1=1727416227&P2=404&P3=2&P4=ELrdX%2bPGpjpezFLnAKEdjFBvEV0JX%2bu%2fAGMH1DVTQb8esVnM2mr77wjLi0TUMYKylSSEc8rm7xo5LQhUQUDW4g%3d%3d",
+  "method": "GET",
+  "headers": {
+   "Proxy-Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "Range": "bytes=30408704-31457279",
+   "User-Agent": "Microsoft-Delivery-Optimization/10.1",
+   "MS-CV": "GzlHJLCi30S/tZ+g.1.3.1.0.0.11.1.1.6.5.1.1",
+   "Content-Length": "0",
+   "Host": "1d.tlu.dl.delivery.mp.microsoft.com"
+  }
+ },
+ "response": {
+  "status_code": 206,
+  "headers": {
+   "Date": "Fri, 27 Sep 2024 05:18:40 GMT",
+   "Content-Type": "application/octet-stream",
+   "Content-Length": "1048576",
+   "Connection": "keep-alive",
+   "Age": "788497",
+   "Accept-Ranges": "bytes",
+   "Cache-Control": "public, max-age=17280000",
+   "Content-Disposition": "attachment; filename=MicrosoftWindows.CrossDevice_1.24082.53.0_neutral_~_cw5n1h2txyewy.AppxBundle",
+   "ETag": "\"Hz98OBj7GcP9YYLZjObmOc5z6/8=\"",
+   "Last-Modified": "Fri, 13 Sep 2024 00:18:35 GMT",
+   "MS-CorrelationId": "3e27036d-29d1-4936-a13f-5d695a91bfbc",
+   "MS-CV": "LbOOZkanxk+QV12d.1.3.1.0.0.9.1.1.6.2.1.3.0",
+   "MS-RequestId": "9a4bcffd-04e1-41bf-9018-2936514882a6",
+   "X-AspNet-Version": "4.0.30319",
+   "X-AspNetMvc-Version": "5.3",
+   "X-CCC": "CN",
+   "X-CID": "8",
+   "X-Powered-By": "ASP.NET, ARR/3.0, ASP.NET",
+   "x-via": "1.1 PS-JFK-01rkO241:2 (Cdn Cache Server V2.0), 1.1 PS-CZX-01m2b54:1 (Cdn Cache Server V2.0), 1.1 PS-000-01mjV209:15 (Cdn Cache Server V2.0)",
+   "Via": "pa-cnc-hebei-143-2, ed-cnc-heilongjiang-93-4",
+   "Content-Range": "bytes 30408704-31457279/74526284",
+   "Server": "ECAcc (sac/2505)",
+   "X-Ws-Request-Id": "0177dbd24535e98a7dbedbb84d135f7d"
+  }
+ }
+}

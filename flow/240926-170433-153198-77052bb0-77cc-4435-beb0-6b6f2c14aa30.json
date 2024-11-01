@@ -1,0 +1,30 @@
+{
+ "request": {
+  "url": "http://redirector.gvt1.com/edgedl/release2/chrome/km4xaevs3zzp3hjawoiqjhst6u_129.0.6668.70/-8a69d345-d564-463c-aff1-a69d9e530f96-_129.0.6668.70_all_f5tzieodyywjtfacpapls223w4.crx3",
+  "method": "GET",
+  "headers": {
+   "Cache-Control": "no-cache",
+   "Proxy-Connection": "Keep-Alive",
+   "Pragma": "no-cache",
+   "Accept-Encoding": "gzip, deflate",
+   "User-Agent": "GoogleUpdater 130.0.6679.0",
+   "Host": "redirector.gvt1.com"
+  }
+ },
+ "response": {
+  "status_code": 302,
+  "headers": {
+   "Date": "Thu, 26 Sep 2024 09:04:32 GMT",
+   "Pragma": "no-cache",
+   "Expires": "Fri, 01 Jan 1990 00:00:00 GMT",
+   "Cache-Control": "no-cache, must-revalidate",
+   "X-Content-Type-Options": "nosniff",
+   "Location": "http://r2---sn-2x3eenel.gvt1-cn.com/edgedl/release2/chrome/km4xaevs3zzp3hjawoiqjhst6u_129.0.6668.70/-8a69d345-d564-463c-aff1-a69d9e530f96-_129.0.6668.70_all_f5tzieodyywjtfacpapls223w4.crx3?cms_redirect=yes&mh=ou&mip=123.138.191.159&mm=28&mn=sn-2x3eenel&ms=nvh&mt=1727340982&mv=m&mvi=2&pl=15&shardbypass=sd&smhost=r2---sn-2x3eenes.gvt1-cn.com",
+   "Content-Type": "text/html; charset=UTF-8",
+   "Server": "ClientMapServer",
+   "Content-Length": "582",
+   "X-XSS-Protection": "0",
+   "X-Frame-Options": "SAMEORIGIN"
+  }
+ }
+}

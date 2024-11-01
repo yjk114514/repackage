@@ -1,0 +1,45 @@
+{
+ "request": {
+  "url": "https://mmbiz.qpic.cn/mmbiz_png/Ocn1RrzLCrUwo8luIZSVwZ1Qp6ib0bqBdxwhyuicpf8R1icKlPj3SqG4gPW68a9hfRv8YmaRhsB5GLWUF7eA4hGsw/0?wx_fmt=png",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://mp.weixin.qq.com/",
+   "sec-fetch-dest": "image",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "cross-site",
+   "priority": "u=5, i",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "last-modified": "Thu, 23 Mar 2023 03:43:30 GMT",
+   "server": "NWSs",
+   "date": "Wed, 13 Dec 2023 23:32:12 GMT",
+   "content-type": "image/png",
+   "x-delay": "26799 us",
+   "x-info": "real data",
+   "x-bcheck": "0_1",
+   "x-cpt": "filename=0",
+   "user-returncode": "0",
+   "x-datasrc": "9",
+   "x-reqgue": "0",
+   "size": "109472",
+   "chid": "0",
+   "fid": "0",
+   "cache-control": "max-age=2592000",
+   "age": "882607",
+   "content-length": "109472",
+   "accept-ranges": "bytes",
+   "x-nws-log-uuid": "13075066647007386136",
+   "x-cache-lookup": "Cache Hit",
+   "vary": "Origin,Accept",
+   "access-control-allow-origin": "*"
+  }
+ }
+}

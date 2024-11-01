@@ -1,0 +1,31 @@
+{
+ "request": {
+  "url": "https://activity.windows.com/v3/feeds/me/views/b728e17c-af74-1909-932e-c8c1b4a1d40a/activities?pageSize=100",
+  "method": "GET",
+  "headers": {
+   "Connection": "Keep-Alive",
+   "Date": "Fri, 27 Sep 2024 05:21:05 GMT",
+   "Accept-Encoding": "gzip, deflate",
+   "Authorization": "EwBIA3l+BAAUvDBLmTCD21dGgKWS1TSPVrFoWQcAAWMThWpPBs+ql6Yj6M9tXT2D9jKyryUlskUDnuiIKDzNzDa1jvoXT4L4/c4NYofN/uxMmebKV3Yhuov7GjSzHjVcCZHyRiyIO9PtWZMPEBtUxqaWuDLeyXKEK0o9T6QMiwOczFEibZoj+gh06yTulr8bpxCBC+Lv+uOvVZgo7LlPb1kylRMDQovm4bNivfqB4Wexiki3MPWEgWW/4WZkwH2+4GW/+PqWOg+OwFgPHkw2ayEnmJB9zOsoxrioAwWIJMb6FbTkbFrfjdqgm+RfgN5nKHtv6gd3pMShd+0vg8MLig9COeB28VZk+d3vDTg7bQ9G4TClx0I50Ccs8aCNXI0QZgAAEESvFP/XURV5yblDw9W6AaIQAp+63w6pNShd7lSshL0MiiQ2zKak7iYlkTYSaiilpHMEtIoZpo97MM/Wctp+N5tiuye8znj6eCTgmhAMPbuao+Z52kLuoSpLf1QsMY20fctrHZX3co/ubYJzOR6TpFErjq5ey/+Qkp1CSxRPFYZ8YIAul0HFRp+/+NBtKeCP+5qt9q66o0rjYZaEl9d2SlmVAKiLKiP4gFGOZqu+Rzq74YePShDturwmRrq8NPYx9gO5sz5EncpjfiiCw/HHYDFgIZ8N0yVYgoU/q6jeGZVHr1VDXOMqvHHcVBE5Ar/HlJCDf9qSmxmZ7dVLUJXVMe8afYqGugSvkQzIxL10XK2Tm5kInAdRixT2QRy7gBYrIH425zseP+rt/2xDun039i74SBA4zshDL5HI9cCMAp8nKAkgVW+RYaZcmy5qMtvbuexsm5jbYhQv10TDH7b6lfLWhvGJSzDI1+aq1UmmOMkF0RCUdSTXOdV4vEN1WExw4BUNn1iTXyy7Hoi1RvHHS4++dOGebbIXYRh22e819FqfPdNSrZufy6benqXln9uxgu1YIXOu1wbqzb5iKqLMhy8zzl1c2ut5GYK90jYZ0Sv0QHVR8oUFG4BORAMA0nvzfMnqAev1ezvBn5QqCqi8Kfc3+RwIcUUzQjNbMqyp6vAt3y6lfwmzqxieKWaxl5o0BpiCjm9IVJnuuzMeTEl/g3jcAkIC",
+   "If-None-Match": "6e62a220-7bf0-11ef-9117-01020305070d",
+   "User-Agent": "SGPlatform 2.0",
+   "X-AFS-ClientInfo": "os=windows; osVer=10.0.22631.4169; lcid=zh-CN; deviceType=15; deviceModel=LENOVO/21KK;",
+   "X-AFS-CV": "CcqM2Jfj/ehqsFLE.0",
+   "Host": "activity.windows.com"
+  }
+ },
+ "response": {
+  "status_code": 401,
+  "headers": {
+   "Content-Length": "38",
+   "Content-Type": "application/json; charset=utf-8",
+   "Retry-After": "600",
+   "X-AFS-ThrottleRule": "AuthenticationFailure",
+   "X-AFS-Tracking": "cV=CcqM2Jfj/ehqsFLE.0.0;server=BL2PEPF00008F2D",
+   "client-request-id": "e572f891-9fc2-4277-b334-d6717bc9b763",
+   "X-Content-Type-Options": "nosniff",
+   "WWW-Authenticate": "AAD, MSA",
+   "Date": "Fri, 27 Sep 2024 05:21:02 GMT"
+  }
+ }
+}

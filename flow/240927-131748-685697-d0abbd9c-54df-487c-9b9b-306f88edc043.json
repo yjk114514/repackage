@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://config.immersivetranslate.com/default_config.json",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "cookie": "_ga_XB9B7SQ3TE=GS1.1.1721633072.1.1.1721633508.0.0.0, _ga=GA1.1.1814124912.1721633073, install_utm={%22deviceId%22:%22L6GdN2SLCCmyOSpGPFZKgUy9Xd4rmcQQ%22%2C%22utmSource%22:%22%22%2C%22utmMedium%22:%22%22%2C%22utmCampaign%22:%22%22%2C%22reference%22:%22%22%2C%22extendData%22:%22{%5C%22abField%5C%22:%5C%22g%5C%22%2C%5C%22abGroup%5C%22:%5C%22ob3%5C%22%2C%5C%22targetLang%5C%22:%5C%22zh-CN%5C%22%2C%5C%22interfaceLang%5C%22:%5C%22zh-CN%5C%22}%22%2C%22platform%22:%22Windows%2010%22%2C%22appVersion%22:%221.7.6%22%2C%22browser%22:%22Firefox%22%2C%22browserUserAgent%22:%22Mozilla/5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv:128.0)%20Gecko/20100101%20Firefox/128.0%22}",
+   "sec-fetch-dest": "empty",
+   "sec-fetch-mode": "cors",
+   "sec-fetch-site": "same-origin",
+   "priority": "u=4",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Fri, 27 Sep 2024 05:17:46 GMT",
+   "content-type": "application/json",
+   "access-control-allow-origin": "*",
+   "cache-control": "no-store, no-cache, must-revalidate, max-age=0",
+   "access-control-allow-headers": "*",
+   "access-control-allow-methods": "GET, POST, OPTIONS",
+   "vary": "Accept-Encoding",
+   "server": "cloudflare",
+   "cf-ray": "8c99077c8d2f9776-XIY",
+   "content-encoding": "gzip"
+  }
+ }
+}

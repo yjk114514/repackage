@@ -1,0 +1,32 @@
+{
+ "request": {
+  "url": "https://aegis.qq.com/speed/webvitals?FCP=-1&LCP=-1&FID=16&CLS=-1&id=3o09VULmK8vOXaE279&uin=&version=1.36.2&aid=3faa43a1-5015-4931-92bd-90e35a627295&env=production&platform=3&netType=100&vp=1706%20*%20934&sr=1707%20*%201067&sessionId=session-1727345604914&from=https%3A%2F%2Ftaimuer.coding.net%2Fsignin%3Fredirect%3Dhttps%253A%252F%252Ftaimuer.coding.net%252Fp%252Fxiaoming%252Fd%252Fxiaoming-server%252Fgit&referer=https%3A%2F%2Ftaimuer.coding.net%2Fp%2Fxiaoming%2Fd%2Fxiaoming-server%2Fgit",
+  "method": "POST",
+  "headers": {
+   "Host": "aegis.qq.com",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Origin": "https://taimuer.coding.net",
+   "Connection": "keep-alive",
+   "Referer": "https://taimuer.coding.net/",
+   "Sec-Fetch-Dest": "empty",
+   "Sec-Fetch-Mode": "no-cors",
+   "Sec-Fetch-Site": "cross-site",
+   "Priority": "u=6",
+   "Content-Length": "0"
+  }
+ },
+ "response": {
+  "status_code": 204,
+  "headers": {
+   "Date": "Thu, 26 Sep 2024 10:13:25 GMT",
+   "Content-Type": "application/json",
+   "Connection": "keep-alive",
+   "Access-Control-Allow-Origin": "*",
+   "Timing-Allow-Origin": "*",
+   "Vary": "Origin"
+  }
+ }
+}

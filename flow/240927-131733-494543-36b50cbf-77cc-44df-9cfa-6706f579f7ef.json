@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://firefox.settings.services.mozilla.com/v1/buckets/security-state/collections/onecrl/changeset?_expected=1727383809894&_since=%221727301648510%22",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "application/json",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "content-type": "application/json",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "server": "nginx",
+   "content-length": "4782",
+   "access-control-allow-origin": "*",
+   "access-control-expose-headers": "Retry-After, Alert, Content-Type, Content-Length, Backoff",
+   "x-content-type-options": "nosniff",
+   "content-security-policy": "default-src 'none'; frame-ancestors 'none'; base-uri 'none';",
+   "strict-transport-security": "max-age=31536000",
+   "via": "1.1 google",
+   "date": "Fri, 27 Sep 2024 04:33:52 GMT",
+   "age": "2619",
+   "last-modified": "Thu, 26 Sep 2024 20:50:10 GMT",
+   "content-type": "application/json",
+   "cache-control": "public,max-age=3600",
+   "alt-svc": "clear"
+  }
+ }
+}

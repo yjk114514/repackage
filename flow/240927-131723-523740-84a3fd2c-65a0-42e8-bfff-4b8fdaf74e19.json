@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "https://dcg.microsoft.com/SecretDistribution/AccountSecret/Prefetch?api-version=1.0.0",
+  "method": "GET",
+  "headers": {
+   "Host": "dcg.microsoft.com",
+   "authorization-type": "MSA",
+   "traceparent": "00-b4907b5416258688d40e623a37a07334-0712f4c33cbadcfa-00",
+   "tracestate": "isuserinitiated=false,ypTriggerId=MsaepTimerBgtask,yppHttpParent=0712f4c33cbadcfa",
+   "DCG-TraceState": "isuserinitiated=false,ypTriggerId=MsaepTimerBgtask,yppHttpParent=0712f4c33cbadcfa",
+   "Authorization": "Bearer eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ4NXQiOiJtaFBXSkd0VXktRU1SbmxRblZNcEEyOTl3Tm8iLCJ6aXAiOiJERUYifQ.PeKdNomD-waSd278ENE0L2EAMctAoLvGtxRrLVMkyXlh3NaFeGJU8lry5YpxROfRl_e85S4PYS8b1HKKfgfRlMx0dssgQ69T2qMPs4tpP-PMpRysoRN5LYgnc3rVj_95LwVKWHIG6zamGcfgsuM3WRu_SAGVrPS9fpgk368CHzLc6uisKYmoSUI4n-CR8FZF5VNC5o-DKJtysgGRAJjQJb9WgfpqK5WyJHztKohfmO313-b6VHalM62aef0Z64jiQdrfhfTprk-pdeeR-vRjCcLBTGggJCePsi7aaOo3V4tkGTZq7ZVWW-Zb2y0KNizFjCXH2djWif_pjG3HyuOezA.46hDltqGchNlN4-_a2KVlg.kl8ELdSi0MdMgK4NG8G2swbk2lru8vzRZzJP745C7zUdOfTztapXKz3KiT5F8vK8mBqzDgRB7WfrHY1-L5HfMW8vEL7gBGvpnSfniwAk-mAJoiSU4e26AdzF6fruhL7kKKzET0HvWxj_PNSrS1qzF_966Fpm0TJS1B4EWREQhp5NxoQyFZxZ0v0MYnSkkHA2gBORsZDBvAfnQev859h8so4-isc4aXf54dqu1EmMyd1WGf3lkWx3pT6krIFicgK3pggHq4NMgLSEVbBCOhFG0mgEw4NWDJRcjmRvu--kB3WpQTcXFllji3kEvzzUtBV43KXxRCMGyv-HMo1VcvFY9IezyZnPBKBw3H6PgMBzGgNXhRK4AMFi-gLiAJdDbsHmjwsPMbs7yMLdPt8CfweCNUDk599UYff5uG3vIYkHpJHwM3hU-BZdjtUIJ5tKFQF8IkXNXI610trxDbqZcAcAJvbXTzvDgqBKbNycqRlQ3cGPilf9Vbh-CluEne17ZrqnD7eBhyoxtPdoTNEcipJmQ4DlJvmhVBFLliPAsB3BO7Y4cAhdfKj_cPa-h26WLw7YdzXEJXNRKxjXyEpFyG-VHNJsZhopHOX0KCIJExutIqxTxTUgMlQBhkUfsvD4W5S68rBEHJEDshQKwokVWN1-wXphVUo4GMbKn97twQnp3idc5Ptm0ShWhQMqbuGVc_UT1AvpjEVVt-NeHG3HI-Ff9pl0_QdmPBz2a7K8w9Jii_e6u8uYFq1X85Y5kAp1fpKhN-uIWwGbS9nUevNtTQ3qlmWl7PnpR39ROtE__RbvxdDY2FCxc1RamLzZa9x1x57vNOUbx7Ht0eXW4JK1k22su1lMEhtb8s4PP9chW3WuzcvwZbsBmNAKaIOK0B1Dy81THqoX7eUjUROGYI9u2x0LaHeGwYtQLY8s8I1I_pgO6dQMzxDR1JGBHtqQLSB1zUE-6Sm9MinwOMBvk_zAZIce887FTnxQTxnIgh5PNE5by4AUdf8xOrG0UdFQz_0bD7cjGi74YsHSzjkTjqeLBr9NAWvxiKz-q2odBkTCZlKkrEnIjaeJjqJzL2kXQGp1NIL4LhbUYPXFbTvFoL27HoJGRIN9CZ6FC8E_W0Eo5c4oiC7uKVKG7A8nPt099TOWmCCJrSjfFvfZxDHHsc3qKhJdiZyGl0Rye8Nhxj07Cfylg5EqLJq0kzzaBg1vJN96JoG46RvM0xO6wHaYr-TNpV3a2rp5kDJpra5RUHAxGkZMyQdOJnMuQYIivroqModlyC3xhRGqm4sSrvNhI3AD-haIw7buZBr51TeGagTIwq0HLicdQKtTvfpk77RP2xJCI54_4_ImDKdML-9VGJtFE8hNkfIBbIUGH9zLEp0i4NoNQxyi-xbMluWamJZek8NUgRCXIHq2-QDLLMrxMWLQ8e9pK3fqiAPj59NrMDJO22SsljtlTnkLB-PBGJtYkN1hlMdJ.P-bLRxkasM7rEMgfM4g6Mg",
+   "User-Agent": "FxVersion/8.0.624.26715 OSName/Windows OSVersion/Microsoft.Windows.10.0.22631 YourPhone.YPP.ServicesClient.DCGSecretDistribution/0.24081.17.0",
+   "DCG-LogicalDeviceId": "b9sR3x7tGRe8aJv6/BfI7g+RpNr2dwhg0sQdNdKe/tw=",
+   "DCG-AppVersion": "1.24081.0.102",
+   "DCG-AppId": "Microsoft.YourPhone_8wekyb3d8bbwe",
+   "DCG-SessionId": "3d5e6073-b435-463a-b9a4-b2800a7d3b65",
+   "DCG-RingName": "Public",
+   "DCG-OS": "Windows",
+   "DCG-OSVersion": "10.0.22631"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Content-Length": "80",
+   "Content-Type": "application/json",
+   "Request-Context": "appId=cid-v1:eee70332-e843-438c-8ced-6ca2c796f500",
+   "X-Cache": "CONFIG_NOCACHE",
+   "X-MSEdge-Ref": "Ref A: ED8DC9DDDCBD4A2BB6EB99CD50D69F37 Ref B: TYO01EDGE1105 Ref C: 2024-09-27T05:17:20Z",
+   "Date": "Fri, 27 Sep 2024 05:17:20 GMT"
+  }
+ }
+}

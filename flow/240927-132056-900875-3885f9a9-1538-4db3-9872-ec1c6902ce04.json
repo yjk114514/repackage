@@ -1,0 +1,33 @@
+{
+ "request": {
+  "url": "http://clientservices.googleapis.com/uma/v2",
+  "method": "POST",
+  "headers": {
+   "Host": "clientservices.googleapis.com",
+   "Proxy-Connection": "keep-alive",
+   "Content-Length": "16319",
+   "X-Chrome-UMA-Log-SHA1": "Ckh/Whwnk7s6yXn2Owi43dNhZRYaJW356X1d4lVzs1Di8qwApzL3f47xq97se3v5KVrQVzeJU/e2L9/ek5UEmZr8Vvpl/ysusMoQARogudVYy7qcoCYOHuChoGDJK71BYwDez/YmrXvpGdeo50YgAQ==",
+   "X-Chrome-UMA-Log-HMAC-SHA256": "Ckw1+H+mWLPWk9j+X7VvRa8OJB0aXXEeIDEC5N0qvLhL7HFwLSj+vStxthC9mrU48QWgmNUv+Ptsr0k8wysx6uP/QqzADe2r90qHfWZWEAEaIDyfdOjCAUFyGmr/SBm64K/YNTEOCFJ+yZWgILArlQhNIAE=",
+   "X-Chrome-UMA-ReportingInfo": "CkStSoTAkpOj7fbSJ+0LVWwXLaqDIIPCmVRUOwA4t5k/Bv6vheLbAruIUXzUB1x1B/BZVTlwQioZ9Tey7keO971salrlLRABGiDw0Kd/Nkl8+30nc/vAe0Twp3CczNaZQaO+KbIh+31XMiAB",
+   "Content-Type": "application/vnd.chrome.uma",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+   "Accept-Encoding": "gzip, deflate"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Content-Type": "text/plain; charset=UTF-8",
+   "Content-Security-Policy-Report-Only": "script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/asuacrsguc:50:0",
+   "Cross-Origin-Opener-Policy-Report-Only": "same-origin; report-to=coop_reporting",
+   "Report-To": "{\"group\":\"coop_reporting\",\"max_age\":2592000,\"endpoints\":[{\"url\":\"https://csp.withgoogle.com/csp/report-to/scaffolding/asuacrsguc:50:0\"}],}",
+   "Content-Encoding": "gzip",
+   "Date": "Fri, 27 Sep 2024 05:20:54 GMT",
+   "Server": "scaffolding on HTTPServer2",
+   "Cache-Control": "private",
+   "Content-Length": "22",
+   "X-XSS-Protection": "0",
+   "X-Frame-Options": "SAMEORIGIN"
+  }
+ }
+}

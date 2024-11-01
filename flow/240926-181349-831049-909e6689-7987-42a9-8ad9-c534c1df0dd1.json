@@ -1,0 +1,35 @@
+{
+ "request": {
+  "url": "https://oth.str.beacon.qq.com/trpc.beacon.configserver.BeaconConfigService/QueryConfig",
+  "method": "OPTIONS",
+  "headers": {
+   "Host": "oth.str.beacon.qq.com",
+   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "Accept": "*/*",
+   "Accept-Language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "Accept-Encoding": "gzip, deflate, br, zstd",
+   "Access-Control-Request-Method": "POST",
+   "Access-Control-Request-Headers": "content-type",
+   "Referer": "https://taimuer.coding.net/",
+   "Origin": "https://taimuer.coding.net",
+   "Connection": "keep-alive",
+   "Sec-Fetch-Dest": "empty",
+   "Sec-Fetch-Mode": "cors",
+   "Sec-Fetch-Site": "cross-site",
+   "Priority": "u=4"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Date": "Thu, 26 Sep 2024 10:13:48 GMT",
+   "Content-Type": "application/json",
+   "Content-Length": "68",
+   "Connection": "keep-alive",
+   "Access-Control-Allow-Headers": "x-requested-with,content-type",
+   "Access-Control-Allow-Methods": "POST",
+   "Access-Control-Allow-Origin": "*",
+   "X-Content-Type-Options": "nosniff"
+  }
+ }
+}

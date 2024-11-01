@@ -1,0 +1,32 @@
+{
+ "request": {
+  "url": "http://ctldl.windowsupdate.com/msdownload/update/v3/static/trustedr/en/pinrulesstl.cab?a9f0ab1c769eab0f",
+  "method": "GET",
+  "headers": {
+   "Proxy-Connection": "Keep-Alive",
+   "Accept": "*/*",
+   "User-Agent": "Microsoft-CryptoAPI/10.0",
+   "Host": "ctldl.windowsupdate.com"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "Last-Modified": "Fri, 02 Jun 2017 17:39:05 GMT",
+   "Etag": "\"80424021c7dbd21:0\"",
+   "Content-Type": "application/vnd.ms-cab-compressed",
+   "Server": "Microsoft-IIS/10.0",
+   "X-Powered-By": "ASP.NET",
+   "Date": "Sat, 20 Apr 2024 23:58:29 GMT",
+   "Age": "3074",
+   "Cache-Control": "public, max-age=900",
+   "Content-Length": "7796",
+   "Accept-Ranges": "bytes",
+   "X-NWS-LOG-UUID": "15926861610645754303",
+   "Connection": "keep-alive",
+   "X-Cache-Lookup": "Cache Hit",
+   "X-CID": "15",
+   "X-CCC": "CN"
+  }
+ }
+}

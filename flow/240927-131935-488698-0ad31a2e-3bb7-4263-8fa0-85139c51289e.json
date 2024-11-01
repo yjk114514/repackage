@@ -1,0 +1,26 @@
+{
+ "request": {
+  "url": "https://unpm-upaas.quark.cn/appbase_report_log",
+  "method": "POST",
+  "headers": {
+   "content-length": "4485",
+   "content-encoding": "gzip",
+   "content-type": "application/json",
+   "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.79 Safari/537.36",
+   "accept-encoding": "gzip, deflate",
+   "accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7"
+  }
+ },
+ "response": {
+  "status_code": 200,
+  "headers": {
+   "date": "Fri, 27 Sep 2024 05:19:33 GMT",
+   "content-type": "application/json;charset=UTF-8",
+   "vary": "Accept-Encoding",
+   "eagleeye-traceid": "213126f117274143731777101ecfd7",
+   "strict-transport-security": "max-age=0",
+   "timing-allow-origin": "*",
+   "content-encoding": "gzip"
+  }
+ }
+}

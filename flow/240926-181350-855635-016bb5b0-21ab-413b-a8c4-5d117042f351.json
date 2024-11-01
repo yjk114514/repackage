@@ -1,0 +1,37 @@
+{
+ "request": {
+  "url": "https://beacon.cdn.qq.com/sdk/4.5.9/beacon_web.min.js",
+  "method": "GET",
+  "headers": {
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0",
+   "accept": "*/*",
+   "accept-language": "zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+   "accept-encoding": "gzip, deflate, br, zstd",
+   "referer": "https://taimuer.coding.net/",
+   "sec-fetch-dest": "script",
+   "sec-fetch-mode": "no-cors",
+   "sec-fetch-site": "cross-site",
+   "if-modified-since": "Mon, 18 Apr 2022 16:56:09 GMT",
+   "if-none-match": "\"b58ae3c96008741b1bbf5d8484217cb3\"",
+   "te": "trailers"
+  }
+ },
+ "response": {
+  "status_code": 304,
+  "headers": {
+   "etag": "\"b58ae3c96008741b1bbf5d8484217cb3\"",
+   "content-type": "text/javascript",
+   "date": "Sun, 12 May 2024 05:26:36 GMT",
+   "server": "tencent-cos",
+   "x-cos-hash-crc64ecma": "10512742995009599403",
+   "x-cos-request-id": "NjY0MDUzMGNfNTUxYzIxZV9mODhlXzIyNTRiMmE=",
+   "x-nws-log-uuid": "13885747051750777331",
+   "x-cache-lookup": "Cache Hit",
+   "access-control-allow-credentials": "true",
+   "access-control-expose-headers": "*",
+   "cache-control": "max-age=2592000",
+   "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-Q050=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"",
+   "vary": "Origin"
+  }
+ }
+}
